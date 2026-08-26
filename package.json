@@ -3,6 +3,15 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ereztaiar/ai-news-il"
+  },
+  "author": {
+    "name": "Erez Taiar",
+    "url": "https://www.linkedin.com/in/erez-taiar/"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
