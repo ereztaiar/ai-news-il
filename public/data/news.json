@@ -1,9 +1,9 @@
 [
   {
     "story_id": 26,
-    "topic": "סקר בחירות",
+    "topic": "סקר בחירות וחלוקות בימין",
     "category": "news",
-    "story_summary": "סקר חדש מראה בלוק אייזנקוט חסר רוב בשני מנדטים, בעוד כוח ערבי משולב מתחזק לאחד עשר מנדטים. בו בזמן, מפלגה חדשה בשם וינטר עולה כאלטרנטיבה מימין לנתניהו בהנהגת יוסף חדאד.",
+    "story_summary": "סקר חדש מראה בלוק ימין חלש, בעוד מפלגת וינטר של עופר וינטר עולה כאלטרנטיבה מימין. חשש מתגבר בקרב נתניהו ומנהיגים בימין שריצה עצמאית של המפלגות הקטנות תגרום להפסד הקואליציה.",
     "sources": [
       {
         "source": "haaretz_en",
@@ -12,6 +12,22 @@
         "summary": "The Netanyahu bloc would win 50 seats, unchanged from the previous poll, while the merger of three Arab parties into the Joint List would strengthen them by one seat, bringing their combined total with Mansour Abbas' United Arab List to 11",
         "url": "https://www.haaretz.com/israel-news/elections/2026-08-25/ty-article/.premium/poll-eisenkot-maintains-lead-but-his-bloc-falls-to-two-seats-short-of-majority/000001a0-3768-d3fd-a5ab-bfe817e60000",
         "image": "https://img.haarets.co.il/bs/000001a0-37a5-d268-a1fe-3ff53ee10000/07/de/8a889efa47e4a98b2d52f2ba3c15/133467.jpg?width=108&height=81"
+      },
+      {
+        "source": "ynet",
+        "title": "וינטר חשף את הרשימה לבחירות: \"רוצים ממשלת ימין רחבה. הפתרון בעזה - הגירה\" | שידור ישיר",
+        "published": "Tue, 25 Aug 2026 18:33:25 +0300",
+        "summary": "כפי שנחשף ב-ynet, נטעלי שם טוב ויוסף חדאד חברו למפלגה שתיקרא \"עמך ישראל\" - ואיתם גם האם השכולה ללי דרעי. אלמנתו של רבש\"ץ בארי, אל\"ם במיל', מוביל האופוזיציה בלשכת עוה\"ד ובכיר בשומרון: אלה המועמדים הנוספים שמצטרפים, והמסר של וינטר - \"אנחנו חלק ברור ומובהק במחנה הימין\"",
+        "url": "https://www.ynet.co.il/news/elections2026/article/s13ku7jdzg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/SJeUh24sPze/SJeUh24sPze_0_0_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Ex-IDF general and far-right hardliner Ofer Winter reveals new party ahead of Israel's election",
+        "published": "Tue, 25 Aug 2026 19:16:40 +0300",
+        "summary": "The retired IDF general is the newest actor to emerge on Israel's far-right political scene, and vows to 'reshape Israeli security.' Winter could draw votes from Smotrich or the right flank of the anti-Netanyahu bloc",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-25/ty-article/.premium/far-right-ex-idf-general-ofer-winter-reveals-new-party-ahead-of-israeli-election/000001a0-3933-d02f-a9ed-7d7b7c3d0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-39b9-d274-a7f4-bdb9ebf10000/c8/50/9f5bda994faf8c3dac9221fce4f0/199208-2.jpg?width=108&height=81"
       },
       {
         "source": "haaretz_en",
@@ -28,6 +44,30 @@
         "summary": "After Mansour Abbas called for an end to the occupation and a Palestinian state, Likud and its allies attacked Eisenkot, accusing him of backing statehood and a coalition with Arab parties",
         "url": "https://www.haaretz.com/israel-news/elections/2026-08-22/ty-article/.premium/eisenkot-vows-no-palestinian-state-after-arab-party-leader-urges-recognition/000001a0-2ad2-d293-a1e7-3ad27a6a0000",
         "image": "https://img.haarets.co.il/bs/000001a0-2b13-dd2f-a1b6-7bdba4890001/26/05/8d6c9f0943e9bd323bb8bcab314e/711498-2.webp?width=108&height=81"
+      },
+      {
+        "source": "ynet",
+        "title": "נתניהו דורש מווינטר, פייגלין ומעוז: \"תתאחדו עם מפלגות קיימות או שתפרשו\"",
+        "published": "Tue, 25 Aug 2026 21:29:37 +0300",
+        "summary": "נתניהו ממשיך במסע הלחצים על המפלגות הקטנות בגוש לקראת הבחירות: באירוע במועצת בנימין הזהיר כי ריצה עצמאית של עופר וינטר, משה פייגלין ואבי מעוז עלולה להביא להפסד הגוש בראשותו - וקרא להם: \"מי שלא יעבור את אחוז החסימה שורף את הקולות\"",
+        "url": "https://www.ynet.co.il/news/elections2026/article/skiud8odml",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H111JV4Ijvzg/H111JV4Ijvzg_0_84_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "מדוע הימין מפחד מעופר וינטר?",
+        "published": "Wed, 26 Aug 2026 11:09:00 GMT",
+        "summary": "עופר וינטר לא מפחיד את הימין משום שהוא תוקף אותו מבחוץ, אלא משום שהוא מציב לו מראה מבפנים: אחרי 7 באוקטובר, הוא מאלץ את המחנה הלאומי לבחור בין ימין של סיסמאות, פרובוקציות והסרת אחריות - לבין ימין של שירות, הקרבה, ממלכתיות ואחדות העם",
+        "url": "https://news.walla.co.il/item/3863312",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092493-46.jpeg"
+      },
+      {
+        "source": "walla",
+        "title": "קיש מזהיר ממפלגת וינטר: \"אם הרשימות האלה יביאו לנפילת גוש הימין - הנזק יהיה עצום\"",
+        "published": "Wed, 26 Aug 2026 09:09:00 GMT",
+        "summary": "שר החינוך התייחס בראיון ל-103fm למפלגתו החדשה של עופר וינטר וקרא לסמוטריץ', בן גביר ווינטר \"לשים את האגו בצד\". על ניתוץ האנדרטה בידי צבי סוכות: \"מעשה מטופש שפגע בתדמית ישראל\". לקראת פתיחת שנת הלימודים: \"השנה תיפתח כסדרה\"",
+        "url": "https://news.walla.co.il/item/3863281",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/7/4057186-46.jpg"
       },
       {
         "source": "walla",
@@ -524,6 +564,14 @@
         "summary": "בשלב זה לא ידוע מי היה על סיפון המטוס ומה הייתה מטרת הגעתו לרוסיה. לפי הדיווחים מטוס הבואינג C-17A גלובמאסטר 3 נחת בנמל התעופה הבינלאומי ונוקובו מעט אחרי השעה 10:00 לפי שעון מוסקבה, לאחר שהמריא מריגה כשעתיים קודם לכן",
         "url": "https://news.walla.co.il/item/3863117",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/1/5/5/1/1551547-46.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "ביקור חריג במוסקבה: \"ראש ה-CIA הגיע לשיחות עם הרוסים\"",
+        "published": "Wed, 26 Aug 2026 07:07:54 +0300",
+        "summary": "לפי דיווחים בארה\"ב, ג'ון רטקליף הגיע לבירה הרוסית לביקור שנמשך שעות. בוושינגטון או במוסקבה לא אישרו את הפרטים, אך האמריקנים הודיעו לקייב מראש על הכוונה לשלוח משלחת בכירה. \"דיילי מייל\": ראש ממשלת בריטניה הוזהר מפני \"תגובה ישירה\" בגלל הסיוע לאוקראינה",
+        "url": "https://www.ynet.co.il/news/article/bjvz1jnpge",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/06/Bkhp1u113Ze/Bkhp1u113Ze_0_0_3000_1689_0_medium.jpg"
       }
     ]
   },
