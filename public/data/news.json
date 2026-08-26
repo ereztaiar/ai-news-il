@@ -1,5 +1,101 @@
 [
   {
+    "story_id": 26,
+    "topic": "וינטר ומחלוקות בקואליציה",
+    "category": "news",
+    "story_summary": "סקר חדש מראה עלייה של מפלגת וינטר כחלופה מימין, אך מחלוקות פנימיות מתגברות - איזנקוט שלל בתוקף את כשירותו לשר הביטחון. חשש מתגבר בקרב נתניהו שריצות עצמאיות של המפלגות הקטנות וחילוקי דעות אלה תגרום להפסד הקואליציה.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Poll: Eisenkot maintains lead, but his bloc falters, falling two seats short of majority",
+        "published": "Tue, 25 Aug 2026 11:38:37 +0300",
+        "summary": "The Netanyahu bloc would win 50 seats, unchanged from the previous poll, while the merger of three Arab parties into the Joint List would strengthen them by one seat, bringing their combined total with Mansour Abbas' United Arab List to 11",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-25/ty-article/.premium/poll-eisenkot-maintains-lead-but-his-bloc-falls-to-two-seats-short-of-majority/000001a0-3768-d3fd-a5ab-bfe817e60000",
+        "image": "https://img.haarets.co.il/bs/000001a0-37a5-d268-a1fe-3ff53ee10000/07/de/8a889efa47e4a98b2d52f2ba3c15/133467.jpg?width=108&height=81"
+      },
+      {
+        "source": "ynet",
+        "title": "וינטר חשף את הרשימה לבחירות: \"רוצים ממשלת ימין רחבה. הפתרון בעזה - הגירה\" | שידור ישיר",
+        "published": "Tue, 25 Aug 2026 18:33:25 +0300",
+        "summary": "כפי שנחשף ב-ynet, נטעלי שם טוב ויוסף חדאד חברו למפלגה שתיקרא \"עמך ישראל\" - ואיתם גם האם השכולה ללי דרעי. אלמנתו של רבש\"ץ בארי, אל\"ם במיל', מוביל האופוזיציה בלשכת עוה\"ד ובכיר בשומרון: אלה המועמדים הנוספים שמצטרפים, והמסר של וינטר - \"אנחנו חלק ברור ומובהק במחנה הימין\"",
+        "url": "https://www.ynet.co.il/news/elections2026/article/s13ku7jdzg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/SJeUh24sPze/SJeUh24sPze_0_0_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Ex-IDF general and far-right hardliner Ofer Winter reveals new party ahead of Israel's election",
+        "published": "Tue, 25 Aug 2026 19:16:40 +0300",
+        "summary": "The retired IDF general is the newest actor to emerge on Israel's far-right political scene, and vows to 'reshape Israeli security.' Winter could draw votes from Smotrich or the right flank of the anti-Netanyahu bloc",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-25/ty-article/.premium/far-right-ex-idf-general-ofer-winter-reveals-new-party-ahead-of-israeli-election/000001a0-3933-d02f-a9ed-7d7b7c3d0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-39b9-d274-a7f4-bdb9ebf10000/c8/50/9f5bda994faf8c3dac9221fce4f0/199208-2.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Poll: Arab parties gain seat after Joint List merger; coalition falls to 51 seats",
+        "published": "Mon, 24 Aug 2026 01:52:16 +0300",
+        "summary": "Gadi Eisenkot's bloc remained at 57 seats, while his party led with 24; several parties again failed to cross the electoral threshold",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-24/ty-article/poll-arab-parties-gain-seat-after-joint-list-merger-coalition-drops-to-51/000001a0-30ab-d443-abb0-30bfd8460000",
+        "image": "https://img.haarets.co.il/bs/000001a0-30ab-d443-abb0-30bfd8840001/d7/f6/e1b91859488899c32abebec40154/426383-3.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Netanyahu rival Eisenkot vows no Palestinian state: 'Not now, not in next government'",
+        "published": "Sat, 22 Aug 2026 23:14:48 +0300",
+        "summary": "After Mansour Abbas called for an end to the occupation and a Palestinian state, Likud and its allies attacked Eisenkot, accusing him of backing statehood and a coalition with Arab parties",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-22/ty-article/.premium/eisenkot-vows-no-palestinian-state-after-arab-party-leader-urges-recognition/000001a0-2ad2-d293-a1e7-3ad27a6a0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-2b13-dd2f-a1b6-7bdba4890001/26/05/8d6c9f0943e9bd323bb8bcab314e/711498-2.webp?width=108&height=81"
+      },
+      {
+        "source": "ynet",
+        "title": "נתניהו דורש מווינטר, פייגלין ומעוז: \"תתאחדו עם מפלגות קיימות או שתפרשו\"",
+        "published": "Tue, 25 Aug 2026 21:29:37 +0300",
+        "summary": "נתניהו ממשיך במסע הלחצים על המפלגות הקטנות בגוש לקראת הבחירות: באירוע במועצת בנימין הזהיר כי ריצה עצמאית של עופר וינטר, משה פייגלין ואבי מעוז עלולה להביא להפסד הגוש בראשותו - וקרא להם: \"מי שלא יעבור את אחוז החסימה שורף את הקולות\"",
+        "url": "https://www.ynet.co.il/news/elections2026/article/skiud8odml",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H111JV4Ijvzg/H111JV4Ijvzg_0_84_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "מדוע הימין מפחד מעופר וינטר?",
+        "published": "Wed, 26 Aug 2026 11:09:00 GMT",
+        "summary": "עופר וינטר לא מפחיד את הימין משום שהוא תוקף אותו מבחוץ, אלא משום שהוא מציב לו מראה מבפנים: אחרי 7 באוקטובר, הוא מאלץ את המחנה הלאומי לבחור בין ימין של סיסמאות, פרובוקציות והסרת אחריות - לבין ימין של שירות, הקרבה, ממלכתיות ואחדות העם",
+        "url": "https://news.walla.co.il/item/3863312",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092493-46.jpeg"
+      },
+      {
+        "source": "walla",
+        "title": "קיש מזהיר ממפלגת וינטר: \"אם הרשימות האלה יביאו לנפילת גוש הימין - הנזק יהיה עצום\"",
+        "published": "Wed, 26 Aug 2026 09:09:00 GMT",
+        "summary": "שר החינוך התייחס בראיון ל-103fm למפלגתו החדשה של עופר וינטר וקרא לסמוטריץ', בן גביר ווינטר \"לשים את האגו בצד\". על ניתוץ האנדרטה בידי צבי סוכות: \"מעשה מטופש שפגע בתדמית ישראל\". לקראת פתיחת שנת הלימודים: \"השנה תיפתח כסדרה\"",
+        "url": "https://news.walla.co.il/item/3863281",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/7/4057186-46.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "וינטר איז קאמינג: מאחורי המפלגה שהפכה למיגרנה של נתניהו",
+        "published": "Wed, 26 Aug 2026 06:00:00 GMT",
+        "summary": "מאחורי ערב ההשקה המהודק עומדים חודשים של בניית תשתית, פעילים ו\"צבא האמת\" שכבר פועל בשטח, בזמן שוינטר מציב את עצמו כאלטרנטיבה מימין לנתניהו. עם יוסף חדאד כמועמד לשר בממשלתו, הוא מבקש להפוך את הכוח שנבנה סביבו למפלגה שתשנה את מאזן הכוחות בימין",
+        "url": "https://news.walla.co.il/item/3863240",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092486-46.jpeg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Eisenkot won't be able to run away from the Israel Netanyahu leaves in his wake",
+        "published": "Wed, 26 Aug 2026 00:56:56 +0300",
+        "summary": "The bloc isn't ignoring issues of religion and state; it is openly calling for drafting the ultra-Orthodox. It is trying to fall in line with Netanyahu's aggressive policies and is leery of saying anything that implies recognition of the Palestinians",
+        "url": "https://www.haaretz.com/opinion/2026-08-26/ty-article-opinion/.premium/eisenkot-wont-be-able-to-run-away-from-netanyahus-israel/000001a0-3a3a-db47-afe9-fbbe64d10000",
+        "image": "https://img.haarets.co.il/bs/000001a0-24b2-d399-afb3-b4ba02330000/8a/a8/76fa6e3e4506aa9779fd58258acd/66569325.JPG?width=108&height=81"
+      },
+      {
+        "source": "walla",
+        "title": "איזנקוט שולל בתוקף את מינויו של וינטר לשר הביטחון: כך הוא ענה לו",
+        "published": "Wed, 26 Aug 2026 18:39:00 GMT",
+        "summary": "יו\"ר מפגת \"עמך ישראל\" הגיב לדברי הרמטכ\"ל לשעבר, שטען בראיון לרשת 13 כי וינטר הוא מפקד שדה טוב, אבל לא היה בפיקוד האסטרטגי של הצבא, ולכן שולל את האפשרות שיהיה שר הביטחון. \"ראיתי את שיקול הדעת האסטרטגי שלך בהכלה, בהסדרה ובמינויים שהובלת - גאה שלא הייתי חלק\"",
+        "url": "https://news.walla.co.il/item/3863437",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092876-46.jpg"
+      }
+    ]
+  },
+  {
     "story_id": 30,
     "topic": "הדחה דרמטית של באר-שבע מפלייאוף ליגת האלופות",
     "category": "sports",
@@ -140,94 +236,6 @@
         "summary": "בצל המתיחות מול ישראל, ומבלי להזכיר אותה, נשיא טורקיה תקף את מי שלטענתו מנסים לבלום את ארצו באמצעות \"פרובוקציות, מזימות ומלכודות\": \"הם נידונו לאכזבה\". לדבריו, \"לא נסטה מהדרך שאנו יודעים שהיא נכונה\"",
         "url": "https://www.ynet.co.il/news/article/rj00o7d2vgl",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/19/r1huAjMpbx/r1huAjMpbx_492_121_2017_1136_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 26,
-    "topic": "סקר בחירות וחלוקות בימין",
-    "category": "news",
-    "story_summary": "סקר חדש מראה בלוק ימין חלש, בעוד מפלגת וינטר של עופר וינטר עולה כאלטרנטיבה מימין. חשש מתגבר בקרב נתניהו ומנהיגים בימין שריצה עצמאית של המפלגות הקטנות תגרום להפסד הקואליציה.",
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Poll: Eisenkot maintains lead, but his bloc falters, falling two seats short of majority",
-        "published": "Tue, 25 Aug 2026 11:38:37 +0300",
-        "summary": "The Netanyahu bloc would win 50 seats, unchanged from the previous poll, while the merger of three Arab parties into the Joint List would strengthen them by one seat, bringing their combined total with Mansour Abbas' United Arab List to 11",
-        "url": "https://www.haaretz.com/israel-news/elections/2026-08-25/ty-article/.premium/poll-eisenkot-maintains-lead-but-his-bloc-falls-to-two-seats-short-of-majority/000001a0-3768-d3fd-a5ab-bfe817e60000",
-        "image": "https://img.haarets.co.il/bs/000001a0-37a5-d268-a1fe-3ff53ee10000/07/de/8a889efa47e4a98b2d52f2ba3c15/133467.jpg?width=108&height=81"
-      },
-      {
-        "source": "ynet",
-        "title": "וינטר חשף את הרשימה לבחירות: \"רוצים ממשלת ימין רחבה. הפתרון בעזה - הגירה\" | שידור ישיר",
-        "published": "Tue, 25 Aug 2026 18:33:25 +0300",
-        "summary": "כפי שנחשף ב-ynet, נטעלי שם טוב ויוסף חדאד חברו למפלגה שתיקרא \"עמך ישראל\" - ואיתם גם האם השכולה ללי דרעי. אלמנתו של רבש\"ץ בארי, אל\"ם במיל', מוביל האופוזיציה בלשכת עוה\"ד ובכיר בשומרון: אלה המועמדים הנוספים שמצטרפים, והמסר של וינטר - \"אנחנו חלק ברור ומובהק במחנה הימין\"",
-        "url": "https://www.ynet.co.il/news/elections2026/article/s13ku7jdzg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/SJeUh24sPze/SJeUh24sPze_0_0_1280_721_0_medium.jpg"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Ex-IDF general and far-right hardliner Ofer Winter reveals new party ahead of Israel's election",
-        "published": "Tue, 25 Aug 2026 19:16:40 +0300",
-        "summary": "The retired IDF general is the newest actor to emerge on Israel's far-right political scene, and vows to 'reshape Israeli security.' Winter could draw votes from Smotrich or the right flank of the anti-Netanyahu bloc",
-        "url": "https://www.haaretz.com/israel-news/elections/2026-08-25/ty-article/.premium/far-right-ex-idf-general-ofer-winter-reveals-new-party-ahead-of-israeli-election/000001a0-3933-d02f-a9ed-7d7b7c3d0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-39b9-d274-a7f4-bdb9ebf10000/c8/50/9f5bda994faf8c3dac9221fce4f0/199208-2.jpg?width=108&height=81"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Poll: Arab parties gain seat after Joint List merger; coalition falls to 51 seats",
-        "published": "Mon, 24 Aug 2026 01:52:16 +0300",
-        "summary": "Gadi Eisenkot's bloc remained at 57 seats, while his party led with 24; several parties again failed to cross the electoral threshold",
-        "url": "https://www.haaretz.com/israel-news/elections/2026-08-24/ty-article/poll-arab-parties-gain-seat-after-joint-list-merger-coalition-drops-to-51/000001a0-30ab-d443-abb0-30bfd8460000",
-        "image": "https://img.haarets.co.il/bs/000001a0-30ab-d443-abb0-30bfd8840001/d7/f6/e1b91859488899c32abebec40154/426383-3.jpg?width=108&height=81"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Netanyahu rival Eisenkot vows no Palestinian state: 'Not now, not in next government'",
-        "published": "Sat, 22 Aug 2026 23:14:48 +0300",
-        "summary": "After Mansour Abbas called for an end to the occupation and a Palestinian state, Likud and its allies attacked Eisenkot, accusing him of backing statehood and a coalition with Arab parties",
-        "url": "https://www.haaretz.com/israel-news/elections/2026-08-22/ty-article/.premium/eisenkot-vows-no-palestinian-state-after-arab-party-leader-urges-recognition/000001a0-2ad2-d293-a1e7-3ad27a6a0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-2b13-dd2f-a1b6-7bdba4890001/26/05/8d6c9f0943e9bd323bb8bcab314e/711498-2.webp?width=108&height=81"
-      },
-      {
-        "source": "ynet",
-        "title": "נתניהו דורש מווינטר, פייגלין ומעוז: \"תתאחדו עם מפלגות קיימות או שתפרשו\"",
-        "published": "Tue, 25 Aug 2026 21:29:37 +0300",
-        "summary": "נתניהו ממשיך במסע הלחצים על המפלגות הקטנות בגוש לקראת הבחירות: באירוע במועצת בנימין הזהיר כי ריצה עצמאית של עופר וינטר, משה פייגלין ואבי מעוז עלולה להביא להפסד הגוש בראשותו - וקרא להם: \"מי שלא יעבור את אחוז החסימה שורף את הקולות\"",
-        "url": "https://www.ynet.co.il/news/elections2026/article/skiud8odml",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H111JV4Ijvzg/H111JV4Ijvzg_0_84_1280_721_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "מדוע הימין מפחד מעופר וינטר?",
-        "published": "Wed, 26 Aug 2026 11:09:00 GMT",
-        "summary": "עופר וינטר לא מפחיד את הימין משום שהוא תוקף אותו מבחוץ, אלא משום שהוא מציב לו מראה מבפנים: אחרי 7 באוקטובר, הוא מאלץ את המחנה הלאומי לבחור בין ימין של סיסמאות, פרובוקציות והסרת אחריות - לבין ימין של שירות, הקרבה, ממלכתיות ואחדות העם",
-        "url": "https://news.walla.co.il/item/3863312",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092493-46.jpeg"
-      },
-      {
-        "source": "walla",
-        "title": "קיש מזהיר ממפלגת וינטר: \"אם הרשימות האלה יביאו לנפילת גוש הימין - הנזק יהיה עצום\"",
-        "published": "Wed, 26 Aug 2026 09:09:00 GMT",
-        "summary": "שר החינוך התייחס בראיון ל-103fm למפלגתו החדשה של עופר וינטר וקרא לסמוטריץ', בן גביר ווינטר \"לשים את האגו בצד\". על ניתוץ האנדרטה בידי צבי סוכות: \"מעשה מטופש שפגע בתדמית ישראל\". לקראת פתיחת שנת הלימודים: \"השנה תיפתח כסדרה\"",
-        "url": "https://news.walla.co.il/item/3863281",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/7/4057186-46.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "וינטר איז קאמינג: מאחורי המפלגה שהפכה למיגרנה של נתניהו",
-        "published": "Wed, 26 Aug 2026 06:00:00 GMT",
-        "summary": "מאחורי ערב ההשקה המהודק עומדים חודשים של בניית תשתית, פעילים ו\"צבא האמת\" שכבר פועל בשטח, בזמן שוינטר מציב את עצמו כאלטרנטיבה מימין לנתניהו. עם יוסף חדאד כמועמד לשר בממשלתו, הוא מבקש להפוך את הכוח שנבנה סביבו למפלגה שתשנה את מאזן הכוחות בימין",
-        "url": "https://news.walla.co.il/item/3863240",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092486-46.jpeg"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Eisenkot won't be able to run away from the Israel Netanyahu leaves in his wake",
-        "published": "Wed, 26 Aug 2026 00:56:56 +0300",
-        "summary": "The bloc isn't ignoring issues of religion and state; it is openly calling for drafting the ultra-Orthodox. It is trying to fall in line with Netanyahu's aggressive policies and is leery of saying anything that implies recognition of the Palestinians",
-        "url": "https://www.haaretz.com/opinion/2026-08-26/ty-article-opinion/.premium/eisenkot-wont-be-able-to-run-away-from-netanyahus-israel/000001a0-3a3a-db47-afe9-fbbe64d10000",
-        "image": "https://img.haarets.co.il/bs/000001a0-24b2-d399-afb3-b4ba02330000/8a/a8/76fa6e3e4506aa9779fd58258acd/66569325.JPG?width=108&height=81"
       }
     ]
   },
@@ -812,6 +820,14 @@
         "summary": "\"התרחיש שבו חלק מחברי המסגרת החדשה לא יהיו מוכנים להצטרף לממשלה שיבקש להקים גדי איזנקוט - היא בעיניי סיכון גדול ביותר, ועבורי קו אדום בוהק\", אמרה. \"הבנתי בימים האחרונים שכל ניסיונותיי להשפיע על הדרך ועל החלטתו של בני, לא צלחו\"",
         "url": "https://news.walla.co.il/item/3863044",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/8/4068729-46.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "מגעים לאיחוד בין ארדן לגנץ, שרוצה לצרף גם את איילת שקד",
+        "published": "Wed, 26 Aug 2026 18:30:59 +0300",
+        "summary": "יושבי הראש של מפלגות האחדות וכחול לבן נפגשו במסגרת מגעים לריצה משותפת בבחירות הקרובות - אך יודעים שגם איחוד פוטנציאלי לא מבטיח שיעברו את אחוז החסימה",
+        "url": "https://www.ynet.co.il/news/elections2026/article/h1lsbfhpfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/HJgPEK2vGx/HJgPEK2vGx_0_0_850_479_0_medium.jpg"
       }
     ]
   },
