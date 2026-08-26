@@ -1,14 +1,17 @@
 import { useEffect, useRef, useState } from 'react'
-import { IMAGE_CYCLE_MS } from './utils'
+import { IMAGE_CYCLE_MS, sizedImageUrl } from './utils'
 
 interface StoryImageProps {
   images: string[]
   className: string
   fallback: React.ReactNode
+  // Target render size (CSS px) of the image container, used to request a
+  // matching crop from image CDNs that support width/height query params.
+  size: { width: number; height: number }
 }
 
 function StoryImage(props: StoryImageProps) {
-  const { images, className, fallback } = props
+  const { images, className, fallback, size } = props
   const [index, setIndex] = useState(0)
   const [exhausted, setExhausted] = useState(false)
   const failedRef = useRef<Set<number>>(new Set())
@@ -43,7 +46,7 @@ function StoryImage(props: StoryImageProps) {
 
   const img = hasImage && (
     <img
-      src={images[index]}
+      src={sizedImageUrl(images[index], size.width * 2, size.height * 2)}
       alt=""
       loading="lazy"
       className={className}

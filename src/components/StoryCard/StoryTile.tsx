@@ -31,6 +31,7 @@ function StoryTile(props: StoryTileProps) {
         images={imageCandidatesOf(story, primary)}
         className="absolute inset-0 h-full w-full object-cover object-top"
         fallback={<ImageFallback category={category} source={primary.source} topic={story.topic} />}
+        size={{ width: 320, height: 240 }}
       />
     </button>
   )

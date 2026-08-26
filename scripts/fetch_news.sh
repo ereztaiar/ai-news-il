@@ -19,8 +19,8 @@ cd "$REPO_DIR"
 # Israeli news RSS feeds (source => URL)
 declare -A FEEDS=(
   [ynet]="https://www.ynet.co.il/Integration/StoryRss2.xml"
-  # [ynet_sport]="https://www.ynet.co.il/Integration/StoryRss3.xml"
-  # [ynet_economy]="https://www.ynet.co.il/Integration/StoryRss6.xml"
+  [ynet_sport]="https://www.ynet.co.il/Integration/StoryRss3.xml"
+  [ynet_economy]="https://www.ynet.co.il/Integration/StoryRss6.xml"
   [walla]="https://rss.walla.co.il/feed/1?type=main"
   # [timesofisrael]="https://www.timesofisrael.com/feed/"
   # [jpost]="https://www.jpost.com/rss/rssfeedsheadlines.aspx"

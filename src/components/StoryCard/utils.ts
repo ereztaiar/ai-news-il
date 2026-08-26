@@ -17,6 +17,26 @@ export function latestPublishedDate(story: Story): number {
   return latest
 }
 
+const HAARETZ_IMAGE_HOST = 'img.haarets.co.il'
+
+// Haaretz's RSS feed always links its own CDN's tiny 108x81 RSS-thumbnail
+// crop, which then gets stretched across containers many times that size
+// (StoryTile is a full-width 4:3 tile, FeaturedStory can be 2/3 of a
+// 1600px-wide page). The CDN honors arbitrary `width`/`height` query params,
+// so request a crop close to how large the image actually renders instead.
+export function sizedImageUrl(url: string, width: number, height: number): string {
+  let parsed: URL
+  try {
+    parsed = new URL(url)
+  } catch {
+    return url
+  }
+  if (parsed.hostname !== HAARETZ_IMAGE_HOST) return url
+  parsed.searchParams.set('width', String(width))
+  parsed.searchParams.set('height', String(height))
+  return parsed.toString()
+}
+
 export function imageCandidatesOf(story: Story, primary: ReturnType<typeof primarySourceOf>) {
   const seen = new Set<string>()
   const images: string[] = []
