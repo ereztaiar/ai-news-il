@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/jpeg" href="/assets/news_bot.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="canonical" href="https://ereztaiar.github.io/ai-news-il/" />
+
+    <title>סיכום חדשות AI | חדשות ישראליות ועולמיות מסוכמות בעברית</title>
+    <meta
+      name="description"
+      content="סיכום חדשות ישראליות ועולמיות בעברית, נוצר אוטומטית מכמה מקורות חדשות בו-זמנית, עם קישור למקור המלא של כל כתבה. ביטחון, חדשות, עולם, כלכלה, טכנולוגיה, ספורט ותרבות."
+    />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="סיכום חדשות AI" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="סיכום חדשות AI" />
+    <meta property="og:locale" content="he_IL" />
+    <meta property="og:title" content="סיכום חדשות AI | חדשות ישראליות ועולמיות מסוכמות בעברית" />
+    <meta
+      property="og:description"
+      content="סיכום חדשות ישראליות ועולמיות בעברית, נוצר אוטומטית מכמה מקורות חדשות בו-זמנית, עם קישור למקור המלא של כל כתבה."
+    />
+    <meta property="og:url" content="https://ereztaiar.github.io/ai-news-il/" />
+    <meta property="og:image" content="https://ereztaiar.github.io/ai-news-il/assets/news_bot.jpg" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="סיכום חדשות AI | חדשות ישראליות ועולמיות מסוכמות בעברית" />
+    <meta
+      name="twitter:description"
+      content="סיכום חדשות ישראליות ועולמיות בעברית, נוצר אוטומטית מכמה מקורות חדשות בו-זמנית, עם קישור למקור המלא של כל כתבה."
+    />
+    <meta name="twitter:image" content="https://ereztaiar.github.io/ai-news-il/assets/news_bot.jpg" />
+
+    <!-- Structured data: describes the site itself to search engines and
+         AI/answer engines (GEO). Per-view structured data for the current
+         list of stories is injected at runtime by src/seo.ts. -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "סיכום חדשות AI",
+        "url": "https://ereztaiar.github.io/ai-news-il/",
+        "inLanguage": "he",
+        "description": "סיכום חדשות ישראליות ועולמיות בעברית, נוצר אוטומטית מכמה מקורות חדשות בו-זמנית, עם קישור למקור המלא של כל כתבה.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "סיכום חדשות AI",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://ereztaiar.github.io/ai-news-il/assets/news_bot.jpg"
+          }
+        }
+      }
+    </script>
+
+    <script>
+      (function () {
+        var stored = localStorage.getItem('theme')
+        var dark = stored ? stored === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches
+        if (dark) document.documentElement.classList.add('dark')
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

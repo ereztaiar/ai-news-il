@@ -1,0 +1,34 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+
+# Logs
+*.log
+scripts/update_news.log
+
+# Content pipeline's local SQLite database (source-of-truth is regenerated
+# on the machine running cron; only public/data/news.json gets published)
+data/news.db
+data/news.db-journal
+data/news.db-wal
+data/news.db-shm
+
+# Python
+__pycache__/
+*.pyc
+
+# TypeScript incremental build info
+*.tsbuildinfo
+
+# Claude Code local/session-specific state (not project config)
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
+
+# Scratch/debug artifacts, not part of the pipeline
+.scratch/
+undefined/

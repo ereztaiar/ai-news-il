@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Only the homepage is listed: category pages are client-side hash routes
+  (#/category/...), and crawlers treat the URL fragment as part of the same
+  page rather than as a distinct URL. If category pages ever move to real
+  paths (e.g. via a GitHub Pages 404.html redirect trick or a router change),
+  add a <url> entry per category slug from src/categories.ts here.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ereztaiar.github.io/ai-news-il/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

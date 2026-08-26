@@ -1,0 +1,32 @@
+# Standard search crawlers
+User-agent: *
+Allow: /
+
+# AI / answer-engine crawlers — explicitly allowed for GEO
+# (generative engine optimization): this site wants to be read,
+# summarized, and cited by AI assistants and answer engines.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://ereztaiar.github.io/ai-news-il/sitemap.xml

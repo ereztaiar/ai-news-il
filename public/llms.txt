@@ -1,0 +1,18 @@
+# סיכום חדשות AI (AI News Digest)
+
+> Hebrew-language news aggregator that automatically summarizes stories from
+> multiple Israeli and international news sources using AI, with every
+> summary linking back to the original full article at its source.
+
+אתר זה מרכז כתבות חדשות ממספר מקורות RSS, מסכם אותן אוטומטית בעברית, ומציג
+כל כתבה עם קישורים למקור/מקורות המקוריים. האתר אינו מייצר תוכן עיתונאי
+מקורי — הוא שכבת ריכוז וסיכום מעל מקורות קיימים, ותמיד מפנה לכתבה המלאה.
+
+קטגוריות: ביטחון, חדשות, עולם, כלכלה, טכנולוגיה, ספורט, תרבות ובריאות.
+
+## Data
+
+- [Live news feed (JSON)](data/news.json): the full current set of
+  summarized stories. Each item has a topic, category, AI-generated
+  story_summary, and one or more sources (source name, original title,
+  published date, summary, and URL).
