@@ -40,25 +40,23 @@ on GitHub Pages as a static site. Content updates automatically.
 
 ## Key files
 
-- `vite.config.ts` — `base: '/news/'`. Must match the GitHub repo name for
-  Pages routing to work (project page vs. user page).
+- `vite.config.ts` — `base: '/ai-news-il/'`. Must match the GitHub repo name
+  (`ai-news-il`) for Pages routing to work (project page vs. user page).
 - `index.html` — also carries static SEO/GEO tags: meta description, Open
   Graph/Twitter card, canonical link, and a `WebSite` JSON-LD block. Several
-  fields hold a `https://TODO-GITHUB-USERNAME.github.io/news/` placeholder
-  (canonical, og:url, og:image, twitter:image, and the JSON-LD `url`) —
-  replace once the repo is pushed and Pages is enabled, same as the `base`
-  TODO in `vite.config.ts`.
+  fields point to `https://ereztaiar.github.io/ai-news-il/` (canonical,
+  og:url, og:image, twitter:image, and the JSON-LD `url`) — keep these in
+  sync with the `base` in `vite.config.ts` if the repo is ever renamed.
 - `public/robots.txt`, `public/sitemap.xml`, `public/llms.txt` — crawler
   directives (including explicit allows for AI crawlers like GPTBot/
   ClaudeBot/PerplexityBot for GEO) and site discovery files. `sitemap.xml`
   only lists the homepage since category pages are hash routes
   (`#/category/...`), not distinct crawlable URLs — see the comment in that
-  file if that ever changes. Both files also carry the same TODO domain
-  placeholder as `index.html`.
+  file if that ever changes. Both files also point to the same
+  `ereztaiar.github.io/ai-news-il` domain as `index.html`.
 
 ## Open decisions (not yet settled)
 
-- Repo not yet pushed to GitHub / GitHub Pages not yet enabled.
 - Which news sources/feeds to pull from.
 - How feed items get parsed (xmllint / python+feedparser / jq, etc.).
 - Whether/how summarization happens, and what tool generates Hebrew
