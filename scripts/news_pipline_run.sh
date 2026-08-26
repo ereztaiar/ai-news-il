@@ -41,18 +41,34 @@ if ! flock -n 9; then
   exit 0
 fi
 
+step_start() {
+  STEP_NAME="$1"
+  STEP_T0=$(date +%s)
+  echo "[$(date -Iseconds)] Running $STEP_NAME"
+}
+
+step_end() {
+  local elapsed=$(( $(date +%s) - STEP_T0 ))
+  echo "[$(date -Iseconds)] Finished $STEP_NAME in ${elapsed}s"
+}
+
 {
+  PIPELINE_T0=$(date +%s)
   echo "[$(date -Iseconds)] Starting news update"
 
-  echo "[$(date -Iseconds)] Running fetch_news.sh"
+  step_start "fetch_news.sh"
   "$REPO_DIR/scripts/fetch_news.sh"
+  step_end
 
-  echo "[$(date -Iseconds)] Running group_stories.py"
+  step_start "group_stories.py"
   python3 "$REPO_DIR/scripts/db/group_stories.py" "$DB_PATH"
+  step_end
 
-  echo "[$(date -Iseconds)] Exporting stories to public/data/news.json"
+  step_start "export_news_json.py"
   python3 "$REPO_DIR/scripts/db/export_news_json.py" "$DB_PATH" "$NEWS_JSON"
+  step_end
 
+  step_start "git commit/push"
   if ! git diff --quiet -- "$NEWS_JSON"; then
     echo "[$(date -Iseconds)] news.json changed, committing and pushing"
     git add "$NEWS_JSON"
@@ -61,6 +77,7 @@ fi
   else
     echo "[$(date -Iseconds)] news.json unchanged, nothing to push"
   fi
+  step_end
 
-  echo "[$(date -Iseconds)] Done"
-} >"$LOG_FILE" 2>&1
+  echo "[$(date -Iseconds)] Done (total $(( $(date +%s) - PIPELINE_T0 ))s)"
+} 2>&1 | tee "$LOG_FILE"
