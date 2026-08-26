@@ -1,5 +1,53 @@
 [
   {
+    "story_id": 2,
+    "topic": "הפוקוס על טורקיה",
+    "category": "news",
+    "story_summary": "בתעמול הבחירות, נתניהו מציג את ארדואן וטורקיה כאיום בטחוני ראשי, לצד איראן וחיזבאללה. בתגובה, ארדואן דוחה את ההטענות על קונספירציות וקובע כי טורקיה תמשיך בדרכה שלה ללא סטייה.",
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "בעולם מקשרים את \"האויבת החדשה\" והבחירות. נתניהו: \"הם תכננו לשבור סטטוס קוו\"",
+        "published": "Tue, 25 Aug 2026 14:51:43 +0300",
+        "summary": "כתבה ב-CNN עסקה בהרחבה בהחלטה של ראש הממשלה להתמקד באיום הטורקי - תוך אזכור שלט הבחירות שבו מוצג ארדואן לצד מנהיגי איראן, חיזבאללה וראש עיריית ניו יורק. נתניהו לערוץ 9: \"לא רוצה לראות את טורקיה יורדת דרומה\"",
+        "url": "https://www.ynet.co.il/news/elections2026/article/h1vbctcpgl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/BkvDHRqwGg/BkvDHRqwGg_0_82_360_203_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Attacking Erdogan or clinging to the status quo? Israel's Turkey paradox",
+        "published": "Sun, 23 Aug 2026 11:09:01 +0300",
+        "summary": "After Israel struck a Syrian airbase, officials in Jerusalem sent mixed messages. Netanyahu, for his part, is seeking to counter claims that he is inflaming tensions ahead of the election",
+        "url": "https://www.haaretz.com/middle-east-news/syria/2026-08-23/ty-article/.premium/attacking-erdogan-or-clinging-to-the-status-quo-israels-turkey-paradox/000001a0-2bf3-dd2f-a1b6-7bfb7a0e0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-2d03-d129-a3ba-6f2b16560000/c8/c0/162f98a841cab8c0fa8449cb6d16/732630.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Netanyahu is dragging Israel into another pointless conflict – this time with Turkey",
+        "published": "Sun, 23 Aug 2026 03:05:15 +0300",
+        "summary": "One cannot create security and foil threats only by bombing. This is no substitute for diplomacy and a well-thought-out policy, something which in the Netanyahu era has become devoid of any meaning",
+        "url": "https://www.haaretz.com/opinion/editorial/2026-08-23/ty-article-opinion/netanyahu-is-dragging-israel-into-another-pointless-confrontation-with-turkey/000001a0-2af4-dd2f-a1b6-7bfe1eb10000",
+        "image": "https://img.haarets.co.il/bs/0000017f-e3e2-d7b2-a77f-e3e719720000/ac/80/d4ce5ea6ed6dd93bacb4c2149835/3997708329.jpg?width=108&height=81"
+      },
+      {
+        "source": "walla",
+        "title": "המסר של ארדואן לישראל: \"פרובוקציות ומזימות לא יעצרו אותנו\"",
+        "published": "Wed, 26 Aug 2026 13:02:00 GMT",
+        "summary": "נשיא טורקיה הציג את אנקרה כמי שמבקשת להפוך את האזור ל\"בית של שלום, ביטחון ויציבות\", אך במקביל החריף את הטון כלפי ישראל. בנאום נוסף האשים במרומז את ממשלת נתניהו בניסיון להטביע את המרחב בחוסר יציבות - והבטיח כי \"סוחרי הדם\" ו\"מבצעי רצח העם\" יפסידו",
+        "url": "https://news.walla.co.il/item/3863352",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/9/5/3995245-46.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "ארדואן: \"פרובוקציות ומזימות לא יעצרו את טורקיה\"",
+        "published": "Wed, 26 Aug 2026 16:03:40 +0300",
+        "summary": "בצל המתיחות מול ישראל, ומבלי להזכיר אותה, נשיא טורקיה תקף את מי שלטענתו מנסים לבלום את ארצו באמצעות \"פרובוקציות, מזימות ומלכודות\": \"הם נידונו לאכזבה\". לדבריו, \"לא נסטה מהדרך שאנו יודעים שהיא נכונה\"",
+        "url": "https://www.ynet.co.il/news/article/rj00o7d2vgl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/19/r1huAjMpbx/r1huAjMpbx_492_121_2017_1136_0_medium.jpg"
+      }
+    ]
+  },
+  {
     "story_id": 26,
     "topic": "סקר בחירות וחלוקות בימין",
     "category": "news",
@@ -268,6 +316,14 @@
         "summary": "הטמפרטורות ימשיכו לעלות היום ומחר ויהיו גבוהות מהרגיל לעונה, עם הכבדה נוספת בעומסי החום. עם זאת, בלילה שבין שבת לראשון צפוי שינוי חד, עם גשמים מקומיים בצפון ובמרכז ומזג אוויר שיזכיר את הסתיו, אירוע חריג במיוחד לחודש אוגוסט",
         "url": "https://news.walla.co.il/item/3863245",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/1/4091391-46.jpeg"
+      },
+      {
+        "source": "ynet",
+        "title": "השירות המטאורולוגי מעדכן על \"אירוע גשם חסר תקדים\", חשש להצפות בגוש דן",
+        "published": "Wed, 26 Aug 2026 17:35:33 +0300",
+        "summary": "שינוי חד במזג האוויר בסוף השבוע: החל ממוצאי שבת צפויים גשמים נרחבים, סופות רעמים, ברקים ואף ברד. בחוף עשויים לרדת 20–30 מ\"מ בתוך שעות ספורות, וייתכן שגם שיא הגשם ההיסטורי לאוגוסט יישבר",
+        "url": "https://www.ynet.co.il/news/article/sy1eyo2pfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/09/ByQyqDURE11x/ByQyqDURE11x_0_0_1280_721_0_medium.jpg"
       }
     ]
   },
@@ -780,46 +836,14 @@
         "summary": "הספירה החוזרת בקלפי בבאר יעקב דחקה את גילה גמליאל למקום ה-35 והלא ריאלי, אף שתוצאות סופיות יתפרסמו בחמישי. חברי ליכוד החלו לפנות לראש הסגל של נתניהו בטענות למעורבות של חיים כץ למען המועמדת המועדפת עליו: \"תפעל להעמיד אותו במקום\". חבר מועצה בקדימה-צורן: \"זו יריקה בפרצופנו\"",
         "url": "https://www.ynet.co.il/news/elections2026/article/skmla43vmg",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rkC7oBjwGl/rkC7oBjwGl_0_0_850_479_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 2,
-    "topic": "הפוקוס על טורקיה",
-    "category": "news",
-    "story_summary": "נתניהו מתמקד בטורקיה כאיום בטחוני עיקרי בעימות הבחירות, כשתעמול בחירות מציג ארדואן לצד מנהיגי איראן וחיזבאללה. ראש הממשלה מביע חשש מהתפשטות טורקית דרומה.",
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "בעולם מקשרים את \"האויבת החדשה\" והבחירות. נתניהו: \"הם תכננו לשבור סטטוס קוו\"",
-        "published": "Tue, 25 Aug 2026 14:51:43 +0300",
-        "summary": "כתבה ב-CNN עסקה בהרחבה בהחלטה של ראש הממשלה להתמקד באיום הטורקי - תוך אזכור שלט הבחירות שבו מוצג ארדואן לצד מנהיגי איראן, חיזבאללה וראש עיריית ניו יורק. נתניהו לערוץ 9: \"לא רוצה לראות את טורקיה יורדת דרומה\"",
-        "url": "https://www.ynet.co.il/news/elections2026/article/h1vbctcpgl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/BkvDHRqwGg/BkvDHRqwGg_0_82_360_203_0_medium.jpg"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Attacking Erdogan or clinging to the status quo? Israel's Turkey paradox",
-        "published": "Sun, 23 Aug 2026 11:09:01 +0300",
-        "summary": "After Israel struck a Syrian airbase, officials in Jerusalem sent mixed messages. Netanyahu, for his part, is seeking to counter claims that he is inflaming tensions ahead of the election",
-        "url": "https://www.haaretz.com/middle-east-news/syria/2026-08-23/ty-article/.premium/attacking-erdogan-or-clinging-to-the-status-quo-israels-turkey-paradox/000001a0-2bf3-dd2f-a1b6-7bfb7a0e0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-2d03-d129-a3ba-6f2b16560000/c8/c0/162f98a841cab8c0fa8449cb6d16/732630.jpg?width=108&height=81"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Netanyahu is dragging Israel into another pointless conflict – this time with Turkey",
-        "published": "Sun, 23 Aug 2026 03:05:15 +0300",
-        "summary": "One cannot create security and foil threats only by bombing. This is no substitute for diplomacy and a well-thought-out policy, something which in the Netanyahu era has become devoid of any meaning",
-        "url": "https://www.haaretz.com/opinion/editorial/2026-08-23/ty-article-opinion/netanyahu-is-dragging-israel-into-another-pointless-confrontation-with-turkey/000001a0-2af4-dd2f-a1b6-7bfe1eb10000",
-        "image": "https://img.haarets.co.il/bs/0000017f-e3e2-d7b2-a77f-e3e719720000/ac/80/d4ce5ea6ed6dd93bacb4c2149835/3997708329.jpg?width=108&height=81"
       },
       {
         "source": "walla",
-        "title": "המסר של ארדואן לישראל: \"פרובוקציות ומזימות לא יעצרו אותנו\"",
-        "published": "Wed, 26 Aug 2026 13:02:00 GMT",
-        "summary": "נשיא טורקיה הציג את אנקרה כמי שמבקשת להפוך את האזור ל\"בית של שלום, ביטחון ויציבות\", אך במקביל החריף את הטון כלפי ישראל. בנאום נוסף האשים במרומז את ממשלת נתניהו בניסיון להטביע את המרחב בחוסר יציבות - והבטיח כי \"סוחרי הדם\" ו\"מבצעי רצח העם\" יפסידו",
-        "url": "https://news.walla.co.il/item/3863352",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/9/5/3995245-46.jpg"
+        "title": "\"זיוף והעלמה במרמה\": גמליאל הגישה תלונה במשטרה עקב הספירה החוזרת | כל הפרטים",
+        "published": "Wed, 26 Aug 2026 15:44:00 GMT",
+        "summary": "חברת הכנסת גילה גמליאל הגישה היום (רביעי) תלונה למשטרה עקב ההחלטה לספירה החוזרת בקלפיות הליכוד בבאר יעקב. את התלונה הגישה כנגד דוד שרן, מנכ\"ל הליכול, חבר הכנסת חיים כץ ורשף אבטחה. כץ, לא נשאר חייב וצייץ בחשבונו ברשת החברתית X: \"אם יש למישהו טענות להלן הכתובת: פארק אופק אזור התעשייה הצפוני, פסח לב 1 לוד\", כתובתה של תחנת להב 433. מפלגת הליכוד הודיעה אתמול כי תבצע ספירה חוזרת של הקלפיות בבאר יעקב. זאת לאחר שחברת הכנסת גילה גמליאל הגישה את עתירתה לבית הדין העליון של המפלגה בדרישה להוציא צו מניעה נגד פתיחת קלפי בבאר יעקב לספירה חוזרת, שכן לאחר ספירה חוזרת של קלפי מסתמן כי היא תידחק לעשירייה הרביעית ברשימת הליכוד לכנסת - ואתי עטיה תיכנס במקומה למקום ה-25.",
+        "url": "https://news.walla.co.il/item/3863399",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/1/0/4010712-46.jpg"
       }
     ]
   },

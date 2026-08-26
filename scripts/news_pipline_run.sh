@@ -19,14 +19,27 @@
 
 set -euo pipefail
 
+# cron invokes this with a minimal, non-login environment, so PATH won't
+# include ~/.local/bin (where `claude` lives) unless we add it ourselves —
+# group_stories.py shells out to the `claude` CLI and fails with
+# FileNotFoundError otherwise.
+export PATH="$HOME/.local/bin:$PATH"
+
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 LOG_DIR="$REPO_DIR/logs"
 LOG_FILE="$LOG_DIR/update_$(date +%Y%m%d_%H%M%S).log"
 DB_PATH="$REPO_DIR/data/news.db"
 NEWS_JSON="$REPO_DIR/public/data/news.json"
+LOCK_FILE="$REPO_DIR/.pipeline.lock"
 
 mkdir -p "$LOG_DIR" "$REPO_DIR/data"
 cd "$REPO_DIR"
+
+exec 9>"$LOCK_FILE"
+if ! flock -n 9; then
+  echo "[$(date -Iseconds)] Another run is already in progress, skipping" >>"$LOG_DIR/update_skipped.log"
+  exit 0
+fi
 
 {
   echo "[$(date -Iseconds)] Starting news update"

@@ -17,6 +17,7 @@ data/news.db
 data/news.db-journal
 data/news.db-wal
 data/news.db-shm
+.pipeline.lock
 
 # Python
 __pycache__/
