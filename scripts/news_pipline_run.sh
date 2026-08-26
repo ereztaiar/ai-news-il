@@ -7,13 +7,15 @@
 # those new articles to an existing open story or starts a new one,
 # synthesizing a Hebrew topic+summary for each affected story), then
 # scripts/db/export_news_json.py (writes public/data/news.json from the
-# DB). All output is captured into a single timestamped log file under
+# DB). If that export changed, it's committed and pushed to main, which
+# triggers .github/workflows/deploy.yml to build and publish to GitHub
+# Pages. All output is captured into a single timestamped log file under
 # logs/.
 #
-# Intended to run from a local cron job, e.g.:
-#   */30 * * * * /home/ereztaiar/tsc-workdir/news/scripts/news_pipline_run.sh
+# Runs from a local cron job, e.g.:
+#   0 */5 * * * /home/ereztaiar/tsc-workdir/news/scripts/news_pipline_run.sh
 #
-# Run `crontab -e` and add a line like the one above (adjust the interval).
+# Run `crontab -e` to view/edit.
 
 set -euo pipefail
 
@@ -21,6 +23,7 @@ REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 LOG_DIR="$REPO_DIR/logs"
 LOG_FILE="$LOG_DIR/update_$(date +%Y%m%d_%H%M%S).log"
 DB_PATH="$REPO_DIR/data/news.db"
+NEWS_JSON="$REPO_DIR/public/data/news.json"
 
 mkdir -p "$LOG_DIR" "$REPO_DIR/data"
 cd "$REPO_DIR"
@@ -35,7 +38,16 @@ cd "$REPO_DIR"
   python3 "$REPO_DIR/scripts/db/group_stories.py" "$DB_PATH"
 
   echo "[$(date -Iseconds)] Exporting stories to public/data/news.json"
-  python3 "$REPO_DIR/scripts/db/export_news_json.py" "$DB_PATH" "$REPO_DIR/public/data/news.json"
+  python3 "$REPO_DIR/scripts/db/export_news_json.py" "$DB_PATH" "$NEWS_JSON"
+
+  if ! git diff --quiet -- "$NEWS_JSON"; then
+    echo "[$(date -Iseconds)] news.json changed, committing and pushing"
+    git add "$NEWS_JSON"
+    git commit -m "Update news data $(date -Iseconds)"
+    git push origin main
+  else
+    echo "[$(date -Iseconds)] news.json unchanged, nothing to push"
+  fi
 
   echo "[$(date -Iseconds)] Done"
 } >"$LOG_FILE" 2>&1
