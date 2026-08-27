@@ -1,5 +1,109 @@
 [
   {
+    "story_id": 30,
+    "topic": "הפועל באר-שבע הודחת מליגת האלופות",
+    "category": "sports",
+    "story_summary": "הפועל באר-שבע הפסידה לסבאח בפלייאוף ליגת האלופות בבאקו ופטרה הזדמנות היסטורית להשתתפות בשלב הליגה לראשונה. רשימת 36 הקבוצות בשלב הליגה הושלמה כעת, כולל קבוצות עילית כמו ריאל מדריד, פ.ס.ז' ובאיירן מינכן.",
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "לא רק סבאח: ההדחות הכואבות ביותר של הפועל באר-שבע באירופה",
+        "published": "Wed, 26 Aug 2026 11:40:05 +0300",
+        "summary": "הפספוס מול מאריבור, הקאמבק שלא הושלם מול סלטיק וההשפלות מול דינמו זאגרב ורודה - שברון הלב של הדרומיים בבאקו מצטרף לשורה של הפסדים כואבים במפעלים האירופיים",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/rk1ggfhvfl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/08/24/7219758/7219758_0_37_980_552_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "תסריט הבלהות של הפועל באר-שבע | טור",
+        "published": "Wed, 26 Aug 2026 07:05:34 +0300",
+        "summary": "זה היה ברגליים של האלופה הישראלית, אבל הוחמץ בצורה כל-כך אכזרית. מה תגידו על השער של מוטאלימוב בדקה ה-94? יותר כואב מהגול של הרצוג לרשת של הנבחרת? את ליגת האלופות יראו קוז'וך ושחקניו מהבית",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/bky2ddovzl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rygYHuoDfx/rygYHuoDfx_1_179_1600_901_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "בבאר-שבע מנסים לאסוף את השברים, קוז'וך: \"עוד נשיג את ליגת האלופות\"",
+        "published": "Wed, 26 Aug 2026 07:03:54 +0300",
+        "summary": "הדרומיים מרוסקים אחרי ההדחה הכואבת והדרמטית מהצ'מפיונס בעקבות ההפסד 5:2 בהארכה לסבאח, אך המאמן לא נשבר: \"כל דבר שהשגנו, הגיע אחרי שקודם לא השגנו אותו\". קוז'וך גם נחלץ להגנתו של דיופ המושמץ: \"אני מכיר גם מאמן אחד שהקהל לא רצה אותו פה - שזה אני\"",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/hkmwwyhdmx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rk11xFrOsvGg/rk11xFrOsvGg_0_46_1600_901_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "קוז'וך אחרי ההדחה הכואבת: \"בשורה התחתונה - לא היינו ראויים\"",
+        "published": "Tue, 25 Aug 2026 23:00:16 +0300",
+        "summary": "מאמן הפועל באר-שבע סיכם את ההפסד המורט עצבים 5:2 לסבאח בהארכה (6:4 בסיכום). הקפטן מיגל ויטור לא הצליח לעצור את הדמעות: \"אולי זאת הפעם האחרונה שלי בליגת האלופות, קשה מאוד\"",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/byo77uidfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rkW6NuiDfg/rkW6NuiDfg_1_50_1600_901_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "חלאילי, יובנטוס ומילאן? היריבות שבאר-שבע עשויה לפגוש בליגה האירופית",
+        "published": "Tue, 25 Aug 2026 22:51:50 +0300",
+        "summary": "אחרי ההדחה מליגת האלופות, החבורה של קוז'וך תמשיך במפעל האירופי המשני. למרות זאת, האלופה הישראלית עשויה לקבל מועדונים גדולים כמו לברקוזן, בנפיקה ומארסיי. כל הפרטים",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/bym2goovme",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/By0zOm00wfl/By0zOm00wfl_0_200_2000_1126_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "באר-שבע תשחק בליגה האירופית: זה מה שתרוויח - וסכום העתק שהחמיצה",
+        "published": "Tue, 25 Aug 2026 22:41:18 +0300",
+        "summary": "אחרי התבוסה 5:2 לסבאח וההדחה מפלייאוף ליגת האלופות, האלופה הישראלית תסתפק בשלב הליגה של הליגה האירופית. באר-שבע כבר הבטיחה כ-8.6 מיליון אירו, והסכום עוד עשוי לגדול בהתאם להישגיה במפעל. מנגד, ההעפלה לליגת האלופות הייתה מכניסה לקופת המועדון כ-18.9 מיליון אירו כבר בשלב הראשון",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/b1p211zjpgl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/SJMJ6tqQvGg/SJMJ6tqQvGg_0_68_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "אחרי דרמת ענק: הפועל באר-שבע הפסידה לסבאח ולא עלתה לליגת האלופות",
+        "published": "Tue, 25 Aug 2026 22:32:51 +0300",
+        "summary": "האלופה הישראלית הייתה רחוקה שניות מעלייה היסטורית לשלב הליגה, אך ספגה בתוספת הזמן (94) והובסה לבסוף 5:2 בהארכה מול האזרים (6:4 בסיכום). האדומים הוליכו פעמיים, נהנו מהופעת ענק של מרציאנו, אך נותרו ב-9 שחקנים ונשרו לבסוף לליגה האירופית",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/rjdyx6qwgl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rygYHuoDfx/rygYHuoDfx_1_190_1600_901_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "לפני המשחק הגורלי: צפו בצעדת אוהדי הפועל באר-שבע",
+        "published": "Tue, 25 Aug 2026 17:13:49 +0300",
+        "summary": "מאות אוהדים אדומים התכנסו בבאקו לקראת משחק הגומלין מול סבאח (19:45). באר-שבע תנסה לשמור על יתרון 1:2 מהמשחק הראשון ולהשלים העפלה היסטורית לליגת האלופות: \"הזדמנות של פעם בחיים\"",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/7ifwe8ukx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/ry113G7owGe/ry113G7owGe_0_0_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "אתם תמשיכו לצחוק - רן קוז'וך ימשיך לשבור תקרות זכוכית | טור",
+        "published": "Tue, 25 Aug 2026 14:00:00 +0300",
+        "summary": "אחרי שהמאמן טבע את המשפט \"אנחנו בלתי שבירים\", רבים חיפשו אותו ואת הקבוצה בפינה, אבל מה שהקבוצה עשתה עד כה במוקדמות ליגת האלופות מוכיח עד כמה זה נכון. עכשיו, 18 הווינרים של קוז'וך צריכים לנפץ רק עוד תקרת זכוכית אחת",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/byvhokspze",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/19/BJVVHmScyze/BJVVHmScyze_0_404_2176_1225_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "הם ניצחו את המנחוס - עכשיו הם מקווים לראות את באר-שבע עושה היסטוריה",
+        "published": "Tue, 25 Aug 2026 13:00:00 +0300",
+        "summary": "לרון בשני נמאס מכך שלכל משחק שהוא מגיע הוא רואה את הפועל באר-שבע מפסידה, אז הוא ואביו, מישל, החליטו לעשות מעשה ולמשחק הקודם נגד סבאח הם הגיעו בתחפושות של שום וחתול שחור - וזה עבד. הפעם, עם אותן תחפושות, הם יהיו גם בבאקו ויקוו לראות את הדרומיים עולים בפעם הראשונה לליגת האלופות: \"נקווה שהחתול והשום יעשו את העבודה\"",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/b1lbkkidmx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rk00ml1jvMx/rk00ml1jvMx_1_140_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "נגיעה מההיסטוריה: ההזדמנות הענקית של הפועל באר-שבע | דיווח מיוחד",
+        "published": "Tue, 25 Aug 2026 10:01:31 +0300",
+        "summary": "עם יתרון שברירי, מאמן נחוש, שיטת משחק מובהקת ואפילו ספר תורה עם מאה אחוזי הצלחה, תעלה הערב הפועל באר־שבע למשחק שבו היא יכולה לטפס למקום בו לא הייתה מעולם: שלב הליגה בצ'מפיונס. קוז'וך אופטימי: \"מאמין שבעזרת השם נעשה את זה\"",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/rkqxix9dfx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/S1D8ek9PMg/S1D8ek9PMg_66_133_722_406_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "ריאל מדריד, פ.ס.ז’ וסבאח: כל הקבוצות שהעפילו לליגת האלופות",
+        "published": "Thu, 27 Aug 2026 00:22:56 +0300",
+        "summary": "תמונת 36 המשתתפות בשלב הליגה הושלמה: אלופת אזרבייג'ן רשמה העפלה היסטורית על חשבון באר-שבע, לאסק לינץ חוללה מהפך ענק וקבוצות פאר כמו ברצלונה, מנצ'סטר יונייטד ובאיירן מינכן מחכות גם כן. הרשימה המלאה לקראת ההגרלה – לפי דרגים",
+        "url": "https://www.ynet.co.il/sport/worldsoccer/article/bj0pb03pfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/30/rJzGF3deMe/rJzGF3deMe_0_0_3000_1689_0_medium.jpg"
+      }
+    ]
+  },
+  {
     "story_id": 31,
     "topic": "בפעילות ימ\"מ במחסן בחדרה: נעצר החשוד המרכזי ברצח ראש המאפיה הקווקזית",
     "category": "news",
@@ -12,6 +116,38 @@
         "summary": "אחרי מצוד שנמשך מאז הירי בתחנת הדלק, עצרה המשטרה את החשוד ברצח של יאניס יושבייב בקיסריה - שתועד בזירה. הוא נתפס במחסן בבניין דירות בידי לוחמי הימ\"מ בשל מידע מודיעיני שלפיו הוא חמוש",
         "url": "https://www.ynet.co.il/news/article/byuf94ovmx",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/S1xRxsdDze/S1xRxsdDze_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "התקדמות בחקירת רצח ראש המאפיה הקווקזית: 2 חשודים נעצרו",
+        "published": "Tue, 25 Aug 2026 19:00:00 GMT",
+        "summary": "המשטרה עצרה היום (שלישי) בחדרה שני חשודים במעורבות רצח ראש המאפיה הקווקזית, יאניס יושבייב. החשודים נעצרו בשיתוף הימ\"מ. ראש ארגון הפשע הקווקזי, יאניס יושבייב, נרצח באירוע ירי מחוץ למסעדה במתחם תחנת דלק סמוך לקיסריה. החשודים הועברו להמשך חקירה בימ\"ר חוף. במשטרה מסרו כי החקירה נמשכת וכי הכוחות פועלים לאיתור מעורבים נוספים בפרשה. על פי פרטים ראשוניים בחקירה, יושבייב הגיע למקום יחד עם אנשים נוספים לצורך פגישה. כשיצא מהמסעדה והחל להתקדם לעבר רכבו, המתין לו המתנקש סמוך לדלת הכניסה וירה בו מטווח אפס. הוא נפצע אנושות, וצוותי מד\"א ביצעו בו פעולות החייאה ופינו אותו לבית החולים הלל יפה בחדרה - שם נקבע מותו.",
+        "url": "https://news.walla.co.il/item/3863177",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/1/4091522-46.jpeg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Head of Caucasian crime ring shot dead in gas station in northern Israel",
+        "published": "Sun, 23 Aug 2026 20:35:42 +0300",
+        "summary": "Police said the killing of Yanis Yushvaev, considered one of Israel's most dangerous criminals, was likely linked to a criminal feud. Footage shows Yushvaev being shot at point-blank range",
+        "url": "https://www.haaretz.com/israel-news/israel-crime/2026-08-23/ty-article/.premium/israeli-crime-boss-shot-dead-near-caesarea/000001a0-2f3e-d23d-aff5-6fbf30a00000",
+        "image": "https://img.haarets.co.il/bs/000001a0-2f3e-d23d-aff5-6fbf331a0000/c5/c0/a2249e05470fb6d7dd5e91d32c05/whatsapp-image-2026-08-23-at-17-29-04.jpeg?width=108&height=81"
+      },
+      {
+        "source": "ynet",
+        "title": "עשורים של פשע: החשוד ברצח ראש המאפיה הקווקזית שותק בחקירה",
+        "published": "Wed, 26 Aug 2026 11:27:38 +0300",
+        "summary": "החשוד ברצח של יאניס יושבייב צבר מאז שהיה נער 38 הרשעות, וריצה שוב ושוב עונשי מאסר. ברקורד שלו עבירות רכוש, סמים, אלימות ונשק - וגם שורת הרשעות בגניבות חקלאיות, סוסים ובקר. הוא נעצר במחסן בבניין דירות בחדרה כשעליו סכין. המשטרה תבקש 15 ימים במעצר",
+        "url": "https://www.ynet.co.il/news/article/sye3hz2wfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/By6GR00uvMe/By6GR00uvMe_0_30_649_366_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "\"חשבתי שיש מחבלים בבניין\": מקום המסתור של החשוד ברצח ראש המאפיה הקווקזית נחשף | בלעדי",
+        "published": "Wed, 26 Aug 2026 16:39:00 GMT",
+        "summary": "מקום המסתור של המתנקש בחיי ראש המאפיה הקווקזית נחשף: בתיעוד בלעדי לוואלה שנחשף היום (רביעי) ניתן לראות את המחסן בו הסתתר החשוד ברצח יאניס יושבייב, שנעצר על ידי הימ\"מ במחסן בחדרה. אחד השכנים, סיפר לוואלה על הרגעים המטלטלים מהמעצר. \"בדיוק הגעתי מהעבודה הביתה כשלפתע שמעתי רעש חזק של חבטה,חשבתי שמשהו כבד נפל\", סיפר השכן לוואלה. \"הסתכלתי מהחלון של דירתי וראיתי מספר גברים בבגדי צבא עם קסדות על הראש ונשקים נכנסים לאחד המחסנים שבקומת הקרקע ומשתלטים על אדם ומיד רצו למקום שוטרים עם כובעי זיהוי ונשקים\". \"תוך זמן קצר הוציאו אותו מהמחסן עם ידיים ורגליים כבולות וכיסוי על העיניים. השוטרים עשו חיפוש ולקחו איתם כל מיני חפצים. רק לחשוב שהיה פה רוצח עם נשק ביד בזמן שהילדים של כולנו מסתובבים פה זה מפחיד מאוד. טוב שהמשטרה שמה עליו יד מהר\", הוסיף.",
+        "url": "https://news.walla.co.il/item/3863414",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/1/4091522-46.jpeg"
       }
     ]
   },
@@ -108,102 +244,6 @@
         "summary": "יו\"ר מפגת \"עמך ישראל\" הגיב לדברי הרמטכ\"ל לשעבר, שטען בראיון לרשת 13 כי וינטר הוא מפקד שדה טוב, אבל לא היה בפיקוד האסטרטגי של הצבא, ולכן שולל את האפשרות שיהיה שר הביטחון. \"ראיתי את שיקול הדעת האסטרטגי שלך בהכלה, בהסדרה ובמינויים שהובלת - גאה שלא הייתי חלק\"",
         "url": "https://news.walla.co.il/item/3863437",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092876-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 30,
-    "topic": "הדחה דרמטית של באר-שבע מפלייאוף ליגת האלופות",
-    "category": "sports",
-    "story_summary": "הפועל באר-שבע הפסידה לסבאח 5:2 בהארכה (6:4 בסיכום) בפלייאוף ליגת האלופות בבאקו, פטרה הזדמנות היסטורית להשתתפות בשלב הליגה של ליגת האלופות לראשונה בהיסטוריה. האלופה הישראלית, שהובילה 2:1 מהמשחק הראשון, תמשיך בליגה האירופית במקום.",
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "לא רק סבאח: ההדחות הכואבות ביותר של הפועל באר-שבע באירופה",
-        "published": "Wed, 26 Aug 2026 11:40:05 +0300",
-        "summary": "הפספוס מול מאריבור, הקאמבק שלא הושלם מול סלטיק וההשפלות מול דינמו זאגרב ורודה - שברון הלב של הדרומיים בבאקו מצטרף לשורה של הפסדים כואבים במפעלים האירופיים",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/rk1ggfhvfl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/08/24/7219758/7219758_0_37_980_552_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "תסריט הבלהות של הפועל באר-שבע | טור",
-        "published": "Wed, 26 Aug 2026 07:05:34 +0300",
-        "summary": "זה היה ברגליים של האלופה הישראלית, אבל הוחמץ בצורה כל-כך אכזרית. מה תגידו על השער של מוטאלימוב בדקה ה-94? יותר כואב מהגול של הרצוג לרשת של הנבחרת? את ליגת האלופות יראו קוז'וך ושחקניו מהבית",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/bky2ddovzl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rygYHuoDfx/rygYHuoDfx_1_179_1600_901_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "בבאר-שבע מנסים לאסוף את השברים, קוז'וך: \"עוד נשיג את ליגת האלופות\"",
-        "published": "Wed, 26 Aug 2026 07:03:54 +0300",
-        "summary": "הדרומיים מרוסקים אחרי ההדחה הכואבת והדרמטית מהצ'מפיונס בעקבות ההפסד 5:2 בהארכה לסבאח, אך המאמן לא נשבר: \"כל דבר שהשגנו, הגיע אחרי שקודם לא השגנו אותו\". קוז'וך גם נחלץ להגנתו של דיופ המושמץ: \"אני מכיר גם מאמן אחד שהקהל לא רצה אותו פה - שזה אני\"",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/hkmwwyhdmx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rk11xFrOsvGg/rk11xFrOsvGg_0_46_1600_901_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "קוז'וך אחרי ההדחה הכואבת: \"בשורה התחתונה - לא היינו ראויים\"",
-        "published": "Tue, 25 Aug 2026 23:00:16 +0300",
-        "summary": "מאמן הפועל באר-שבע סיכם את ההפסד המורט עצבים 5:2 לסבאח בהארכה (6:4 בסיכום). הקפטן מיגל ויטור לא הצליח לעצור את הדמעות: \"אולי זאת הפעם האחרונה שלי בליגת האלופות, קשה מאוד\"",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/byo77uidfe",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rkW6NuiDfg/rkW6NuiDfg_1_50_1600_901_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "חלאילי, יובנטוס ומילאן? היריבות שבאר-שבע עשויה לפגוש בליגה האירופית",
-        "published": "Tue, 25 Aug 2026 22:51:50 +0300",
-        "summary": "אחרי ההדחה מליגת האלופות, החבורה של קוז'וך תמשיך במפעל האירופי המשני. למרות זאת, האלופה הישראלית עשויה לקבל מועדונים גדולים כמו לברקוזן, בנפיקה ומארסיי. כל הפרטים",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/bym2goovme",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/By0zOm00wfl/By0zOm00wfl_0_200_2000_1126_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "באר-שבע תשחק בליגה האירופית: זה מה שתרוויח - וסכום העתק שהחמיצה",
-        "published": "Tue, 25 Aug 2026 22:41:18 +0300",
-        "summary": "אחרי התבוסה 5:2 לסבאח וההדחה מפלייאוף ליגת האלופות, האלופה הישראלית תסתפק בשלב הליגה של הליגה האירופית. באר-שבע כבר הבטיחה כ-8.6 מיליון אירו, והסכום עוד עשוי לגדול בהתאם להישגיה במפעל. מנגד, ההעפלה לליגת האלופות הייתה מכניסה לקופת המועדון כ-18.9 מיליון אירו כבר בשלב הראשון",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/b1p211zjpgl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/SJMJ6tqQvGg/SJMJ6tqQvGg_0_68_1280_721_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "אחרי דרמת ענק: הפועל באר-שבע הפסידה לסבאח ולא עלתה לליגת האלופות",
-        "published": "Tue, 25 Aug 2026 22:32:51 +0300",
-        "summary": "האלופה הישראלית הייתה רחוקה שניות מעלייה היסטורית לשלב הליגה, אך ספגה בתוספת הזמן (94) והובסה לבסוף 5:2 בהארכה מול האזרים (6:4 בסיכום). האדומים הוליכו פעמיים, נהנו מהופעת ענק של מרציאנו, אך נותרו ב-9 שחקנים ונשרו לבסוף לליגה האירופית",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/rjdyx6qwgl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rygYHuoDfx/rygYHuoDfx_1_190_1600_901_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "לפני המשחק הגורלי: צפו בצעדת אוהדי הפועל באר-שבע",
-        "published": "Tue, 25 Aug 2026 17:13:49 +0300",
-        "summary": "מאות אוהדים אדומים התכנסו בבאקו לקראת משחק הגומלין מול סבאח (19:45). באר-שבע תנסה לשמור על יתרון 1:2 מהמשחק הראשון ולהשלים העפלה היסטורית לליגת האלופות: \"הזדמנות של פעם בחיים\"",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/7ifwe8ukx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/ry113G7owGe/ry113G7owGe_0_0_1280_721_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "אתם תמשיכו לצחוק - רן קוז'וך ימשיך לשבור תקרות זכוכית | טור",
-        "published": "Tue, 25 Aug 2026 14:00:00 +0300",
-        "summary": "אחרי שהמאמן טבע את המשפט \"אנחנו בלתי שבירים\", רבים חיפשו אותו ואת הקבוצה בפינה, אבל מה שהקבוצה עשתה עד כה במוקדמות ליגת האלופות מוכיח עד כמה זה נכון. עכשיו, 18 הווינרים של קוז'וך צריכים לנפץ רק עוד תקרת זכוכית אחת",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/byvhokspze",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/19/BJVVHmScyze/BJVVHmScyze_0_404_2176_1225_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "הם ניצחו את המנחוס - עכשיו הם מקווים לראות את באר-שבע עושה היסטוריה",
-        "published": "Tue, 25 Aug 2026 13:00:00 +0300",
-        "summary": "לרון בשני נמאס מכך שלכל משחק שהוא מגיע הוא רואה את הפועל באר-שבע מפסידה, אז הוא ואביו, מישל, החליטו לעשות מעשה ולמשחק הקודם נגד סבאח הם הגיעו בתחפושות של שום וחתול שחור - וזה עבד. הפעם, עם אותן תחפושות, הם יהיו גם בבאקו ויקוו לראות את הדרומיים עולים בפעם הראשונה לליגת האלופות: \"נקווה שהחתול והשום יעשו את העבודה\"",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/b1lbkkidmx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rk00ml1jvMx/rk00ml1jvMx_1_140_1280_721_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "נגיעה מההיסטוריה: ההזדמנות הענקית של הפועל באר-שבע | דיווח מיוחד",
-        "published": "Tue, 25 Aug 2026 10:01:31 +0300",
-        "summary": "עם יתרון שברירי, מאמן נחוש, שיטת משחק מובהקת ואפילו ספר תורה עם מאה אחוזי הצלחה, תעלה הערב הפועל באר־שבע למשחק שבו היא יכולה לטפס למקום בו לא הייתה מעולם: שלב הליגה בצ'מפיונס. קוז'וך אופטימי: \"מאמין שבעזרת השם נעשה את זה\"",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/rkqxix9dfx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/S1D8ek9PMg/S1D8ek9PMg_66_133_722_406_0_medium.jpg"
       }
     ]
   },
@@ -452,6 +492,14 @@
         "summary": "על רקע ההתחממות בימים האחרונים, גל החום צפוי להישבר עם שינוי חד במזג האוויר וגשם חריג שיתחיל בסוף השבוע הקרוב. \"מדובר באירוע גשם חסר תקדים לתקופה זו של השנה, וחוליה נוספת בשרשרת האירועים החריגים שתופעת סופר אל-ניניו גורמת בעולם כולו ובכלל זה בישראל\"",
         "url": "https://news.walla.co.il/item/3863424",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/8/4/3984830-46.jpeg"
+      },
+      {
+        "source": "ynet",
+        "title": "עומס חום כבד לפני הגשם החריג בסופ\"ש - ומתי יגיע השיא? | התחזית",
+        "published": "Thu, 27 Aug 2026 06:51:20 +0300",
+        "summary": "היום עוד לא יורגש שינוי משמעותי במזג האוויר, באזור החוף צפוי עומס חום כבד ובאילת מצפים ל-43 מעלות. מחר הטמפרטורות ירדו מעט, ובשבת צפוי המהפך: בבוקר ייתכנו טפטופים בצפון, בלילה צפוי גשם וייתכנו סופות רעמים לצד חשש מהצפות במישור החוף. שיאו של אירוע הגשם - בראשון לפנות בוקר",
+        "url": "https://www.ynet.co.il/news/article/924vs9fq3",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/B1r5fm1vMx/B1r5fm1vMx_0_0_3000_2000_0_medium.jpg"
       }
     ]
   },
@@ -500,6 +548,14 @@
         "summary": "President al-Sharaa hailed Trump's 'historic decision' amid an increase in hostilities between Israel and Syria. Turkey called on the international community to unite around a prosperous Syria and '⁠put an ‌end to aggressive actions that jeopardise this vision'",
         "url": "https://www.haaretz.com/middle-east-news/syria/2026-08-25/ty-article/syrian-president-thanks-trump-for-removing-damascus-from-terrorism-sponsor-list/000001a0-37c4-d268-a1fe-3fd4fd810000",
         "image": "https://img.haarets.co.il/bs/000001a0-37e8-d268-a1fe-3ffca3be0000/09/fa/9e81ad1a4368a73c39a477662a4f/194301.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "As Syria rejoins the world, Israel's old playbook no longer applies",
+        "published": "Wed, 26 Aug 2026 21:08:44 +0300",
+        "summary": "With Arab states and the United States poised to invest billions in Syria's reconstruction, Israel must move beyond confrontation and pursue a security agreement with Damascus – or risk being shut out of a transformation that could reshape the region",
+        "url": "https://www.haaretz.com/middle-east-news/syria/2026-08-26/ty-article/.premium/as-syria-rejoins-the-world-israels-old-playbook-no-longer-applies/000001a0-3ed0-d929-abec-ffd11a210000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3ed5-d268-a1fe-3fd565270000/80/49/49ebabf142db8172635516b3ed35/582418.jpg?width=1200"
       }
     ]
   },
@@ -756,6 +812,22 @@
         "summary": "לפי דיווחים בארה\"ב, ג'ון רטקליף הגיע לבירה הרוסית לביקור שנמשך שעות. בוושינגטון או במוסקבה לא אישרו את הפרטים, אך האמריקנים הודיעו לקייב מראש על הכוונה לשלוח משלחת בכירה. \"דיילי מייל\": ראש ממשלת בריטניה הוזהר מפני \"תגובה ישירה\" בגלל הסיוע לאוקראינה",
         "url": "https://www.ynet.co.il/news/article/bjvz1jnpge",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/06/Bkhp1u113Ze/Bkhp1u113Ze_0_0_3000_1689_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "ביקור ראש ה-CIA במוסקבה: \"הזהיר את רוסיה מפני תקיפת נאט\"ו וסיוע לאיראן\"",
+        "published": "Thu, 27 Aug 2026 02:07:52 +0300",
+        "summary": "גורמים סיפרו ל\"וול סטריט ג'ורנל\" כי מטרת הביקור של ג'ון רטקליף הייתה להזהיר את הקרמלין שלא לתקוף את חברות הברית. \"פוליטיקו\": הדגש - על המדינות הבלטיות, רטקליף ניצל את הביקור גם כדי ללחוץ על מוסקבה להפחית את הסיוע הצבאי והכלכלי לטהרן. הפצצה אוקראינית חריגה בדונייצק, דיווח: \"פוטין יסלים\"",
+        "url": "https://www.ynet.co.il/news/article/hjorp1apgx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/06/rJ11syuW2Ze/rJ11syuW2Ze_0_85_3000_1689_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "ראש ה-CIA הגיע למוסקבה והזהיר את רוסיה מתקיפה נגד נאט\"ו",
+        "published": "Thu, 27 Aug 2026 07:35:00 GMT",
+        "summary": "ג'ון רטקליף העביר לבכירי המודיעין הרוסי מסר תקיף בעקבות הערכות שלפיהן פוטין עשוי לבחון את נחישות הברית באמצעות מתקפה מוגבלת נגד אחת המדינות החברות בה. בין היעדים האפשריים: אסטוניה, לטביה וליטא. פוטין לא השתתף בשיחות, אך עודכן בתוכנן",
+        "url": "https://news.walla.co.il/item/3863512",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/3/1/4031873-46.jpg"
       }
     ]
   },
@@ -844,6 +916,14 @@
         "summary": "יושבי הראש של מפלגות האחדות וכחול לבן נפגשו במסגרת מגעים לריצה משותפת בבחירות הקרובות - אך יודעים שגם איחוד פוטנציאלי לא מבטיח שיעברו את אחוז החסימה",
         "url": "https://www.ynet.co.il/news/elections2026/article/h1lsbfhpfe",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/HJgPEK2vGx/HJgPEK2vGx_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "גנץ רומז לחיבור מחודש עם השותף שעזב: \"משקעי העבר לא יהיו שיקול\" | צפו",
+        "published": "Wed, 26 Aug 2026 21:27:54 +0300",
+        "summary": "פרסום ראשון: בחוג בית בנתניה אמר נשאל יו\"ר כחול לבן על חיבור אפשרי עם חילי טרופר, וחשף כי מתקיימים דיונים כאלה - במקביל לשיחות עם ארדן ושקד",
+        "url": "https://www.ynet.co.il/news/elections2026/article/r1r4pshvgx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/HyFaJn3DGx/HyFaJn3DGx_222_181_313_176_0_medium.jpg"
       }
     ]
   },
@@ -980,6 +1060,14 @@
         "summary": "חברת הכנסת גילה גמליאל הגישה היום (רביעי) תלונה למשטרה עקב ההחלטה לספירה החוזרת בקלפיות הליכוד בבאר יעקב. את התלונה הגישה כנגד דוד שרן, מנכ\"ל הליכול, חבר הכנסת חיים כץ ורשף אבטחה. כץ, לא נשאר חייב וצייץ בחשבונו ברשת החברתית X: \"אם יש למישהו טענות להלן הכתובת: פארק אופק אזור התעשייה הצפוני, פסח לב 1 לוד\", כתובתה של תחנת להב 433. מפלגת הליכוד הודיעה אתמול כי תבצע ספירה חוזרת של הקלפיות בבאר יעקב. זאת לאחר שחברת הכנסת גילה גמליאל הגישה את עתירתה לבית הדין העליון של המפלגה בדרישה להוציא צו מניעה נגד פתיחת קלפי בבאר יעקב לספירה חוזרת, שכן לאחר ספירה חוזרת של קלפי מסתמן כי היא תידחק לעשירייה הרביעית ברשימת הליכוד לכנסת - ואתי עטיה תיכנס במקומה למקום ה-25.",
         "url": "https://news.walla.co.il/item/3863399",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/1/0/4010712-46.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Likud minister files police complaint alleging forged party primary recount",
+        "published": "Wed, 26 Aug 2026 20:31:56 +0300",
+        "summary": "Following Likud's primary results recount in two polling stations in a city in central Israel, Minister Gamliel was pushed to a low-ranking spot on the slate. She claims her representative was denied entry during the recount that changed the results",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-26/ty-article/.premium/likud-minister-files-police-complaint-alleging-forged-party-primary-recount/000001a0-3e57-d80d-a1f4-feffb5ef0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3e5d-d274-a7f4-befdd68b0000/60/23/25b8ddbc433ab76bf683c77edf3d/128356.jpg?width=1200"
       }
     ]
   },
