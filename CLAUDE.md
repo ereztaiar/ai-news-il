@@ -24,7 +24,7 @@ on GitHub Pages as a static site. Content updates automatically.
      *entire* accumulated article set every run (the old `group_news.sh`);
      now it only ever touches what's new.
   3. `scripts/db/export_news_json.py` queries stories touched in the last
-     `STORY_RETENTION_DAYS` (3) days, joined with their member articles,
+     `STORY_RETENTION_HOURS` (24) hours, joined with their member articles,
      and writes the flat array `public/data/news.json` expects. The
      pipeline script then commits and pushes.
   See `scripts/db/schema.sql` for the `articles`/`stories` table shapes.

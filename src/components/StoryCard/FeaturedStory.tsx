@@ -3,7 +3,7 @@ import type { Story } from '@/types'
 import ImageFallback from './ImageFallback'
 import SourceLinks from './SourceLinks'
 import StoryImage from './StoryImage'
-import { formatPublished, imageCandidatesOf, primarySourceOf } from './utils'
+import { formatPublished, imageCandidatesOf, mostRecentPublished, primarySourceOf } from './utils'
 
 interface FeaturedStoryProps {
   story: Story
@@ -15,7 +15,7 @@ function FeaturedStory(props: FeaturedStoryProps) {
 
   const primary = primarySourceOf(story)
   const summary = story.story_summary ?? primary.summary
-  const published = formatPublished(primary.published)
+  const published = formatPublished(mostRecentPublished(story))
 
   const image = (
     <a

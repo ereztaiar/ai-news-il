@@ -7,14 +7,26 @@ export function primarySourceOf(story: Story) {
   return story.sources.find((s) => s.image) ?? story.sources[0]
 }
 
-export function latestPublishedDate(story: Story): number {
-  let latest = -Infinity
+// The source whose `published` is most recent — used for the displayed date
+// label so a story shows how fresh it actually is, rather than the date of
+// whichever source happens to be `primarySourceOf` (picked for its image).
+export function mostRecentPublished(story: Story): string | undefined {
+  let best: string | undefined
+  let bestTime = -Infinity
   for (const source of story.sources) {
     if (!source.published) continue
     const time = new Date(source.published).getTime()
-    if (!Number.isNaN(time) && time > latest) latest = time
+    if (!Number.isNaN(time) && time > bestTime) {
+      bestTime = time
+      best = source.published
+    }
   }
-  return latest
+  return best
+}
+
+export function latestPublishedDate(story: Story): number {
+  const published = mostRecentPublished(story)
+  return published ? new Date(published).getTime() : -Infinity
 }
 
 const HAARETZ_IMAGE_HOST = 'img.haarets.co.il'

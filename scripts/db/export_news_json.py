@@ -2,7 +2,7 @@
 """export_news_json.py — read stories (+ member articles) from the SQLite DB
 and write the flat JSON array the frontend fetches at public/data/news.json
 (see src/types.ts: Story / StorySource). Only stories touched within
-STORY_RETENTION_DAYS are included, so the published site doesn't accumulate
+STORY_RETENTION_HOURS are included, so the published site doesn't accumulate
 every story ever seen.
 
 Usage: export_news_json.py DB_PATH OUT_PATH
@@ -14,7 +14,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from lib import get_connection
 
-STORY_RETENTION_DAYS = 3
+STORY_RETENTION_HOURS = 24
 
 
 def main():
@@ -28,8 +28,8 @@ def main():
     stories = conn.execute(
         """SELECT id, topic, category, ai_summary FROM stories
            WHERE updated_at >= datetime('now', ?)
-           ORDER BY updated_at DESC""",
-        (f"-{STORY_RETENTION_DAYS} days",),
+           ORDER BY updated_at DESC, created_at DESC""",
+        (f"-{STORY_RETENTION_HOURS} hours",),
     ).fetchall()
 
     out = []

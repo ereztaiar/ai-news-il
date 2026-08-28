@@ -5,7 +5,7 @@ import ImageFallback from './ImageFallback'
 import Lightbox from './Lightbox'
 import SourceLinks from './SourceLinks'
 import StoryImage from './StoryImage'
-import { formatPublished, imageCandidatesOf, primarySourceOf } from './utils'
+import { formatPublished, imageCandidatesOf, mostRecentPublished, primarySourceOf } from './utils'
 
 interface StoryTileProps {
   story: Story
@@ -17,7 +17,7 @@ function StoryTile(props: StoryTileProps) {
   const [lightboxOpen, setLightboxOpen] = useState(false)
 
   const primary = primarySourceOf(story)
-  const published = formatPublished(primary.published)
+  const published = formatPublished(mostRecentPublished(story))
   const summary = story.story_summary ?? primary.summary
 
   const thumbnail = (
