@@ -87,19 +87,19 @@ def main():
             for i in g["article_ids"]
         ]
         existing = candidates_by_id.get(g["story_id"]) if g["story_id"] else None
-        topic, summary = synthesize_story(members, existing_context=existing)
+        topic, summary, score = synthesize_story(members, existing_context=existing)
 
         if existing:
             story_id = existing["id"]
             conn.execute(
-                "UPDATE stories SET topic = ?, ai_summary = ?, updated_at = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') WHERE id = ?",
-                (topic, summary, story_id),
+                "UPDATE stories SET topic = ?, ai_summary = ?, good_news_score = ?, updated_at = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') WHERE id = ?",
+                (topic, summary, score, story_id),
             )
             updated_count += 1
         else:
             cur = conn.execute(
-                "INSERT INTO stories (topic, category, ai_summary) VALUES (?, ?, ?)",
-                (topic, g.get("category") or "news", summary),
+                "INSERT INTO stories (topic, category, ai_summary, good_news_score) VALUES (?, ?, ?, ?)",
+                (topic, g.get("category") or "news", summary, score),
             )
             story_id = cur.lastrowid
             new_count += 1
