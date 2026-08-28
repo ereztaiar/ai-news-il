@@ -1,5 +1,205 @@
 [
   {
+    "story_id": 50,
+    "topic": "סכסוך משפחות בירושלים המזרחית",
+    "category": "news",
+    "story_summary": "משטרה בירושלים המזרחית מואשמת בהחרפת סכסוך בין משפחות יריבות על ידי מעצור גופות של שני גברים שנורו על ידי שוטרים. המשפחות טוענות שהן אינן יכולות להגיע להסכמה זמנית עד שיוכלו להקבר את המתים.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Police accused of fueling East Jerusalem feud by withholding suspects' bodies",
+        "published": "Fri, 28 Aug 2026 11:08:33 +0300",
+        "summary": "Police said officers shot them 'to neutralize the threat' and denied that their actions were prolonging the feud; residents say the rival families cannot reach a temporary truce until the two men are buried",
+        "url": "https://www.haaretz.com/israel-news/israel-crime/2026-08-28/ty-article/.premium/police-accused-of-fueling-east-jerusalem-feud-by-withholding-suspects-bodies/000001a0-46cb-d6dd-a1ad-e6eb86ca0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-4713-d6dd-a1ad-e7731b800005/90/0e/429c1a014125b20dccb2a1134c25/181401-2.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 49,
+    "topic": "תווי חניה למשום-כושר - הרס ותגבור פיקוח",
+    "category": "news",
+    "story_summary": "בישראל נתגלתה תופעת הרס נרחבת של תווי חניה למשום-כושר, כאשר כ-17% מהרכבים מחזיקים בתווים אלו ויוצרים מערכת כאוטית. הממשלה מתכננת רפורמה כוללת להתמודד עם התופעה.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Disabled parking permits in Israel are out of control. Now comes the crackdown",
+        "published": "Fri, 28 Aug 2026 11:25:59 +0300",
+        "summary": "Roughly 17 percent of cars in Israel now have disabled parking tags, creating what Access Israel's director calls a 'very chaotic' system plagued by widespread abuse. 'In Israel, people have taken this way too far,' he says, as the government prepares a sweeping reform",
+        "url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-08-28/ty-article/.premium/disabled-parking-permits-in-israel-are-out-of-control-now-comes-the-crackdown/000001a0-42fa-d268-a1fe-5bfedade0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-4308-d274-a7f4-f7a9d7bd0000/ad/b3/faff6df95a202f372c0b5ff6882c/2916641599.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 48,
+    "topic": "וגנר בישראל",
+    "category": "culture",
+    "story_summary": "דירקטור תיאטרון שווייצרי הציג מוזיקה של וגנר בישראל תוך פגישה עם בני ערובה ישראלים וגם תושבי עזה, בשבירת שתי חרמים. פעולה זו משקפת רצון להתמודד עם מורכבות הנושא במקום לקבל עמדות מוכללות.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "By playing Wagner in Israel, this Swiss director broke two boycotts at once",
+        "published": "Fri, 28 Aug 2026 11:29:23 +0300",
+        "summary": "Last week, Swiss theater director Milo Rau brought Wagner's music to an Israeli audience. By speaking with former Israeli hostages and Gazans, he broke the greatest taboo of all: embracing complexity",
+        "url": "https://www.haaretz.com/life/2026-08-28/ty-article-magazine/.premium/by-playing-wagner-in-israel-this-swiss-director-broke-two-boycotts-at-once/000001a0-3ddb-d9ec-a1ac-3dffd17e0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3ddb-d9ec-a1ac-3dffd21d0002/cb/d4/f84716f84c19ac6aef41f9d3b5e9/149684.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 47,
+    "topic": "ויכוח על איחוד רשימות בחירות",
+    "category": "news",
+    "story_summary": "נתניהו הזהיר את בן-גוויר כי סירובו להתאחד עם סמוטריץ עלול להעביר את הבחירות לשמאל, בעוד שמפלגת בן-גוויר טוענת שהצטרפות משותפת תעלול לה 3-4 מנדטים.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Ben-Gvir rejects Netanyahu push for joint election run with Smotrich",
+        "published": "Fri, 28 Aug 2026 12:38:43 +0300",
+        "summary": "Netanyahu warned that Ben-Gvir's refusal to unite with Smotrich could hand the election to the left, while Ben-Gvir's party said a joint run would cost the party three to four seats",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-28/ty-article/.premium/ben-gvir-rejects-netanyahu-push-for-joint-election-run-with-smotrich/000001a0-47a8-d2c5-a1b2-e7ab87f10000",
+        "image": "https://img.haarets.co.il/bs/0000019b-e221-d4bd-a3db-fbe3ea4c0000/80/7d/9acf130241819bc5ed8e3f946ec9/931896.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 46,
+    "topic": "הצבעה של ישראלים בחו״ל",
+    "category": "news",
+    "story_summary": "מאה ישראלים המתגוררים בחו״ל הגישו עתירה לבית המשפט העליון לאחר שהסרו אותם מרשימת הבוחרים ללא הודעה או דיון. הם מבקשים להצביע בעזרת כרטיסים זמניים בבחירות באוקטובר, כשטוענים כי מעמד התושבות שלהם בוטל ללא הליך הולם.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "One hundred Israelis living abroad petition High Court after being removed from voter roll",
+        "published": "Fri, 28 Aug 2026 13:01:59 +0300",
+        "summary": "Petitioners are asking to cast provisional ballots in the October election pending a court ruling. They say their residency status was revoked without notice or a hearing, leaving them off the voter roll and compromising their ability to vote",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-28/ty-article/.premium/100-israelis-abroad-petition-high-court-after-being-removed-from-voter-roll/000001a0-47b6-d77e-a7e9-dfff43530000",
+        "image": "https://img.haarets.co.il/bs/000001a0-47b6-d77e-a7e9-dfff44980001/d9/ec/ed66c36f4d3c89f2809e2a0d1e55/162148.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 45,
+    "topic": "בחירות ישראליות - תפקיד מפלגות קטנות",
+    "category": "news",
+    "story_summary": "בחודשיים לפני בחירות 27 באוקטובר, גוש ימין של נתניהו תקוע בסקרי הדעות, בעוד מפלגות ימין קטנות מרובות כמו עוז ונועם עשויות למלא תפקיד קריטי כמלכי דחייה בהרכב הממשלה העתיד.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Two months out, Netanyahu's bloc is stuck in polls. But all the rest is a mystery",
+        "published": "Fri, 28 Aug 2026 13:16:13 +0300",
+        "summary": "From Oz to Noam and The Haredi Public to Amcha Yisrael - it's hard to make sense of all the tiny right-wing parties hoping to play kingmaker after the October 27 election. Or maybe, it's just too early",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-28/ty-article-magazine/.highlight/two-months-out-netanyahus-bloc-is-stuck-in-polls-but-the-rest-is-a-mystery/000001a0-4426-d2c8-a3ad-5db6741a0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-47d9-d2c5-a1b2-e7fbf30f0000/21/58/c6894d1e4fae951d9cf3d937fad0/201792-2.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 2,
+    "topic": "טורקיה - האיום החדש?",
+    "category": "news",
+    "story_summary": "בעקבות השימוש של נתניהו בטורקיה כאיום בטחוני בעצומות בחירות, עולה הדיון אם טורקיה היא האיראן החדשה. ארדואן דוחה את ההשוואה ודוגל בעצמאות טורקיה.",
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "בעולם מקשרים את \"האויבת החדשה\" והבחירות. נתניהו: \"הם תכננו לשבור סטטוס קוו\"",
+        "published": "Tue, 25 Aug 2026 14:51:43 +0300",
+        "summary": "כתבה ב-CNN עסקה בהרחבה בהחלטה של ראש הממשלה להתמקד באיום הטורקי - תוך אזכור שלט הבחירות שבו מוצג ארדואן לצד מנהיגי איראן, חיזבאללה וראש עיריית ניו יורק. נתניהו לערוץ 9: \"לא רוצה לראות את טורקיה יורדת דרומה\"",
+        "url": "https://www.ynet.co.il/news/elections2026/article/h1vbctcpgl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/BkvDHRqwGg/BkvDHRqwGg_0_82_360_203_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Attacking Erdogan or clinging to the status quo? Israel's Turkey paradox",
+        "published": "Sun, 23 Aug 2026 11:09:01 +0300",
+        "summary": "After Israel struck a Syrian airbase, officials in Jerusalem sent mixed messages. Netanyahu, for his part, is seeking to counter claims that he is inflaming tensions ahead of the election",
+        "url": "https://www.haaretz.com/middle-east-news/syria/2026-08-23/ty-article/.premium/attacking-erdogan-or-clinging-to-the-status-quo-israels-turkey-paradox/000001a0-2bf3-dd2f-a1b6-7bfb7a0e0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-2d03-d129-a3ba-6f2b16560000/c8/c0/162f98a841cab8c0fa8449cb6d16/732630.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Netanyahu is dragging Israel into another pointless conflict – this time with Turkey",
+        "published": "Sun, 23 Aug 2026 03:05:15 +0300",
+        "summary": "One cannot create security and foil threats only by bombing. This is no substitute for diplomacy and a well-thought-out policy, something which in the Netanyahu era has become devoid of any meaning",
+        "url": "https://www.haaretz.com/opinion/editorial/2026-08-23/ty-article-opinion/netanyahu-is-dragging-israel-into-another-pointless-confrontation-with-turkey/000001a0-2af4-dd2f-a1b6-7bfe1eb10000",
+        "image": "https://img.haarets.co.il/bs/0000017f-e3e2-d7b2-a77f-e3e719720000/ac/80/d4ce5ea6ed6dd93bacb4c2149835/3997708329.jpg?width=108&height=81"
+      },
+      {
+        "source": "walla",
+        "title": "המסר של ארדואן לישראל: \"פרובוקציות ומזימות לא יעצרו אותנו\"",
+        "published": "Wed, 26 Aug 2026 13:02:00 GMT",
+        "summary": "נשיא טורקיה הציג את אנקרה כמי שמבקשת להפוך את האזור ל\"בית של שלום, ביטחון ויציבות\", אך במקביל החריף את הטון כלפי ישראל. בנאום נוסף האשים במרומז את ממשלת נתניהו בניסיון להטביע את המרחב בחוסר יציבות - והבטיח כי \"סוחרי הדם\" ו\"מבצעי רצח העם\" יפסידו",
+        "url": "https://news.walla.co.il/item/3863352",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/9/5/3995245-46.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "ארדואן: \"פרובוקציות ומזימות לא יעצרו את טורקיה\"",
+        "published": "Wed, 26 Aug 2026 16:03:40 +0300",
+        "summary": "בצל המתיחות מול ישראל, ומבלי להזכיר אותה, נשיא טורקיה תקף את מי שלטענתו מנסים לבלום את ארצו באמצעות \"פרובוקציות, מזימות ומלכודות\": \"הם נידונו לאכזבה\". לדבריו, \"לא נסטה מהדרך שאנו יודעים שהיא נכונה\"",
+        "url": "https://www.ynet.co.il/news/article/rj00o7d2vgl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/19/r1huAjMpbx/r1huAjMpbx_492_121_2017_1136_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Is Turkey the new Iran?",
+        "published": "Fri, 28 Aug 2026 15:11:06 +0300",
+        "summary": "",
+        "url": "https://www.haaretz.com/israel-news/podcasts/2026-08-28/ty-article-podcast/is-turkey-the-new-iran/000001a0-43a7-d02f-a9ed-5fef4b060000",
+        "image": "https://img.haarets.co.il/bs/000001a0-441e-dad6-a3b6-5e7e9ae20001/d9/27/966d8e80495e9ba3875c13ce3779/727299.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 44,
+    "topic": "הארץ מרחיבה כיסוי בארה״ב",
+    "category": "news",
+    "story_summary": "הארץ שכרה את Philissa Cramer כעורכת בכירה לענייני יהדות בארה״ב ואת Grace Gilson לכיסוי הדור הצעיר. המינויים מחזקים את המשרד האמריקאי הגדל של הארץ ומרחיבים את הידיווח על יהדות אמריקאית וגישת הדור הצעיר לישראל.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Haaretz hires Philissa Cramer as Senior Jewish Life Correspondent and Grace Gilson as Young Generation Correspondent",
+        "published": "Fri, 28 Aug 2026 17:40:37 +0300",
+        "summary": "The appointments strengthen Haaretz's growing U.S. bureau and expand its reporting on American Jewish life and younger Americans' changing relationship with Israel",
+        "url": "https://www.haaretz.com/us-news/2026-08-28/ty-article/.premium/haaretz-hires-jewish-life-young-generation-correspondents-amid-u-s-expansion/000001a0-487c-d2c5-a1b2-edffa7d50000",
+        "image": "https://img.haarets.co.il/bs/000001a0-4879-d6dd-a1ad-ec7b836d0001/f3/1c/557393664fb9970e2513a50190f4/untitled-design-4.png?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 43,
+    "topic": "טענות התנהגות בקרב פרטי חדש",
+    "category": "news",
+    "story_summary": "מפלגת חדש קוראת למועמד ג'עפר פרח להיפרד מרשימת הכנסת לאחר ממצאי ועדה על התנהגות לא הולמת, אך פרח דחה את הטענות וסירב להתפטר.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Hadash rocked by misconduct allegations against candidate ahead of election",
+        "published": "Fri, 28 Aug 2026 18:05:06 +0300",
+        "summary": "Senior Hadash officials voted to demand that Jafar Farah withdraw from the left-wing party's Knesset list after a committee found that he had acted inappropriately. The findings were not made public. Farah rejected the allegations and refused to resign",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-28/ty-article/.premium/hadash-rocked-by-misconduct-allegations-against-candidate-ahead-of-election/000001a0-48a1-d2c5-a1b2-edab46ee0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-48cc-d6dd-a1ad-ecefbbdf0000/fd/99/097b0b4b4dfb844f424d6c1c1213/423250.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 42,
+    "topic": "ההסכם הגרעיני עם איראן",
+    "category": "security",
+    "story_summary": "למרות ביטויי טראמפ על סיום ההסכם הגרעיני, דיווחים על קיצו מגוזמים. איראן, עם ניסיון של עשרות שנים בסנקציות ובשליטה על מצר הורמוז, שומרת על ההסכם ככלי דיפלומטי.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Despite Trump's eulogies, the reports of the Iran deal's death are greatly exaggerated",
+        "published": "Fri, 28 Aug 2026 18:13:01 +0300",
+        "summary": "The U.S. president is talking about 'old' and 'new' sanctions, but Tehran has decades of experience under such regimes and now the blockaded Strait of Hormuz, leaving the memorandum of understanding a source for diplomacy",
+        "url": "https://www.haaretz.com/middle-east-news/2026-08-28/ty-article/.premium/the-june-deal-isnt-dead-even-as-trump-and-iran-ramp-up-their-economic-war/000001a0-4845-d2c5-a1b2-edef8ff10000",
+        "image": "https://img.haarets.co.il/bs/000001a0-4853-d2c5-a1b2-edfb4bfa0000/79/88/a5fc12804151aab9e5bd6fb9e67f/220328.jpg?width=1200"
+      }
+    ]
+  },
+  {
     "story_id": 30,
     "topic": "הפועל באר-שבע בליגה האירופית",
     "category": "sports",
@@ -364,6 +564,462 @@
         "summary": "מקום המסתור של המתנקש בחיי ראש המאפיה הקווקזית נחשף: בתיעוד בלעדי לוואלה שנחשף היום (רביעי) ניתן לראות את המחסן בו הסתתר החשוד ברצח יאניס יושבייב, שנעצר על ידי הימ\"מ במחסן בחדרה. אחד השכנים, סיפר לוואלה על הרגעים המטלטלים מהמעצר. \"בדיוק הגעתי מהעבודה הביתה כשלפתע שמעתי רעש חזק של חבטה,חשבתי שמשהו כבד נפל\", סיפר השכן לוואלה. \"הסתכלתי מהחלון של דירתי וראיתי מספר גברים בבגדי צבא עם קסדות על הראש ונשקים נכנסים לאחד המחסנים שבקומת הקרקע ומשתלטים על אדם ומיד רצו למקום שוטרים עם כובעי זיהוי ונשקים\". \"תוך זמן קצר הוציאו אותו מהמחסן עם ידיים ורגליים כבולות וכיסוי על העיניים. השוטרים עשו חיפוש ולקחו איתם כל מיני חפצים. רק לחשוב שהיה פה רוצח עם נשק ביד בזמן שהילדים של כולנו מסתובבים פה זה מפחיד מאוד. טוב שהמשטרה שמה עליו יד מהר\", הוסיף.",
         "url": "https://news.walla.co.il/item/3863414",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/1/4091522-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 5,
+    "topic": "ניתוץ אנדרטה בגדה",
+    "category": "security",
+    "story_summary": "ח\"כ צבי סוכות ניתץ אנדרטה בכפר פלסטיני, מה שעורר גינויים בינלאומיים וביקורת חריפה מנהיגות ישראלית וצה\"ל הטוענים שניצל את הכוח. הפעולה גוררת משבר פוליטי עם ביקורת מתוך המפלגה וחששות על הנזק הביטחוני והדיפלומטי.",
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "סוכות המנתץ: צה\"ל מיתמם ומגלגל עיניים",
+        "published": "Tue, 25 Aug 2026 13:58:59 +0300",
+        "summary": "התגובה ה\"חריפה\" של הצבא לניתוץ האנדרטה בידי ח\"כ צבי סוכות היא לא יותר מאוסף תירוצים לכישלון נוסף במניעת ההתלקחות בגדה המערבית. אם \"הפשיעה הלאומנית\" היא גפרור, כפי שהזהיר אלוף פיקוד מרכז, צה\"ל הוא פס החיכוך",
+        "url": "https://www.ynet.co.il/news/article/hyk9mxopzl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H1yKjn5PGg/H1yKjn5PGg_0_210_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "\"עוד מעשה מגונה\": בעולם מזועזעים מח\"כ סוכות - וניפוץ האנדרטה",
+        "published": "Tue, 25 Aug 2026 14:46:00 GMT",
+        "summary": "בעולם הערבי מיהרו להגיב לתיעוד של חבר הכנסת מהציונות הדתית. בעיראק האשימו: \"ישראל הוקמה על ידי כנופיות ציוניות שטבחו בהמונים\". גם באירופה הזעדעזו מהתיעוד - וטענו: \"צה\"ל משמיד אנדרטאות בעצמו\". כל התגובות והציטוטים",
+        "url": "https://news.walla.co.il/item/3863114",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092161-46.gif"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Netanyahu on coalition lawmaker's vandalism: Don't take law into your own hands",
+        "published": "Tue, 25 Aug 2026 14:23:25 +0300",
+        "summary": "Israeli politicians from within and outside Netanyahu's coalition condemned Tzvi Succot for smashing a Palestinian memorial in the West Bank, while Finance Minister Bezalel Smotrich backed him, saying Israel should have dismantled it 'a long time ago'",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-25/ty-article/.premium/netanyahu-denounces-far-right-mk-for-attack-on-palestinian-memorial/000001a0-382e-d268-a1fe-397e29780000",
+        "image": "https://img.haarets.co.il/bs/000001a0-388f-d936-a7ac-38afa84e0000/87/3b/2a9673d44e25869c196736c6f78d/197544.jpg?width=108&height=81"
+      },
+      {
+        "source": "ynet",
+        "title": "הנזק הביטחוני והבינלאומי של סוכות: \"בקרוב יתגבר הלחץ על ישראל\"",
+        "published": "Tue, 25 Aug 2026 19:18:46 +0300",
+        "summary": "התיעוד של חבר הכנסת ממפלגת \"הציונות הדתית\" הגיע למאות אלפים ברשת X בלבד, וגולשים תהו על נוכחות חיילים ש\"צפו מהצד\" - כשההבהרה שפרסם צה\"ל לכך מהדהדת בעיקר בישראל. בצבא הזהירו: \"אזור יו\"ש עלול לבעור בכל רגע\", גורמים במשרד החוץ: \"זה מסמר בארון הקבורה של הלגיטימיות הישראלית\"",
+        "url": "https://www.ynet.co.il/news/article/b1bu7givgl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/r1rpc7sPGl/r1rpc7sPGl_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "נתניהו גינה, ביקורת על סוכות גם מתוך המפלגה: \"החלטנו להתאבד סופית?\"",
+        "published": "Tue, 25 Aug 2026 12:08:05 +0300",
+        "summary": "ח\"כ צבי סוכות ניפץ אנדרטה למחבלים בכפר פלסטיני וטען כי צה\"ל לא נענה לדרישתו. בצבא הגיבו בחריפות, יו\"ר סיעת הציונות הדתית תהה בקבוצה סגורה: \"זה מהלך שמתואם עם הקמפיין? יש בו אסטרטגיה עמוקה?\". סמוטריץ' אמר שאת ההריסה צריך לבצע \"רק צה\"ל\", נתניהו: \"לקיחת החוק לידיים פסולה\"",
+        "url": "https://www.ynet.co.il/news/article/h1zy9a9wml",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H1yKjn5PGg/H1yKjn5PGg_0_145_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "סוכות ניפץ אנדרטה בכפר פלסטיני, צה\"ל: \"הוא ניצל את הכוח, שיקר ופעל באופן מניפולטיבי\"",
+        "published": "Tue, 25 Aug 2026 09:16:58 +0300",
+        "summary": "הח\"כ מהציונות הדתית נכנס לכפר מאדמא במסגרת סיור מתואם - שלפי גורם ביטחוני, צה\"ל בכלל המליץ לא לקיים - אך נאלץ בגלל התעקשותו. \"כוחות סוכנו שלא לצורך\", אמרו בצה\"ל בתגובה חריפה במיוחד. סוכות: \"הם לא פעלו, אז עשיתי זאת בעצמי\". גדעון סער גינה: \"הוא לא הריבון\". יאיר גולן: \"ניסיון להבעיר מלחמה\"",
+        "url": "https://www.ynet.co.il/news/article/bklyf3qvgl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H1yKjn5PGg/H1yKjn5PGg_369_318_657_370_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "The IDF can condemn Succot. It can't escape its role in settler violence",
+        "published": "Tue, 25 Aug 2026 19:15:25 +0300",
+        "summary": "The hammer-wielding MK's rampage is merely an extreme manifestation of an entire structure of systematic violence carried out by settlers with the army's backing, and at times with its eager assistance",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-25/ty-article/.premium/the-idf-can-condemn-succot-it-cant-escape-its-role-in-settler-violence/000001a0-393f-d936-a7ac-393f75480000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3968-d02f-a9ed-7d6b26500007/10/cf/fee47c5e4b2b890f0c3fc904dde2/whatsapp-image-2026-08-25-at-09-46-21.jpeg?width=108&height=81"
+      },
+      {
+        "source": "ynet",
+        "title": "סוכות על סערת האנדרטה: נזק בעולם? גדעון סער ודובר צה\"ל גרמו אותו",
+        "published": "Wed, 26 Aug 2026 09:52:58 +0300",
+        "summary": "אל מול הביקורת הבינלאומית, טען סוכות שניתוץ האנדרטה למחבלים לא גרם נזק לישראל: \"לא מצאתי איש ציבור אחד בעולם שגינה את הדבר הזה\". רק בחשבון בטיקטוק של CNN צפו בתיעוד כמעט מיליון בני אדם. \"להתחרט? על מה יש לי להתחרט\", תהה חבר הכנסת",
+        "url": "https://www.ynet.co.il/news/article/r100dqbhpfl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H1yKjn5PGg/H1yKjn5PGg_0_104_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "\"מכה אנושה\" להסברה הישראלית, ואז עוד אחת. ואז עוד ועוד ועוד",
+        "published": "Wed, 26 Aug 2026 00:31:45 +0300",
+        "summary": "ניפוץ האנדרטה בכפר הפלסטיני הוא רק האחרון בשורת אירועים שעוררו סערה בעולם: מהעימות עם ביידן והקריאה \"למחוק את חווארה\", דרך \"אטום על עזה\", החזרה לרצועה והר הבית - ועד הצעדים ביו\"ש. האמירות ששימשו את התביעה בהאג, הסנקציות על שרים והגינויים החוזרים. וגם: היחס לישראל שהידרדר לשפל",
+        "url": "https://www.ynet.co.il/news/article/s15pjnjpze",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/ByyhuIoPze/ByyhuIoPze_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "פרימיטיבי, זול, דוחה, רע ופסול לא בשל הנזק התדמיתי",
+        "published": "Wed, 26 Aug 2026 00:31:39 +0300",
+        "summary": "אנדרטה לזכר מחבלים צריך להרוס מיד אחרי הצבתה. אבל יש מי שתפקידו לעשות זאת. הכפר מדאמא אינו מגרש המשחקים הפרטי של ח\"כ סוכות, וצה\"ל הוא לא חלק מקמפיין הבחירות שלו. כך נראה אובדן שליטה",
+        "url": "https://www.ynet.co.il/news/article/yokra14878565",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/SksJG35PMe/SksJG35PMe_0_0_1080_899_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "לישון עם פירומן",
+        "published": "Wed, 26 Aug 2026 00:29:32 +0300",
+        "summary": "פעולות כמו השחתת האנדרטה לזכר מחבל פלסטיני בכפר מאדמה שמדרום לשכם נועדו להשיג את כל המטרות בבת אחת: הבערת השטח, התפרצות אלימות פלסטינית נגד ישראלים",
+        "url": "https://www.ynet.co.il/news/article/yokra14877709",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H1yKjn5PGg/H1yKjn5PGg_0_0_1280_960_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "הפטיש של סוכות",
+        "published": "Wed, 26 Aug 2026 00:27:07 +0300",
+        "summary": "זו לא \"אנדרטה בכפר פלסטיני\" אלא גל-עד שהוקם כדי להאדיר רוצחי המונים בחברה שגיבוריה ואליליה הם אנשים שרצחו נשים, גברים וילדים ישראלים והפכו לסמל בכיכר הכפר. במקום שהמדינה תפעל כריבון, קיבלנו מופע עסקנות ותעמולת בחירות",
+        "url": "https://www.ynet.co.il/news/article/yokra14878359",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/HJ1hMn9Pfx/HJ1hMn9Pfx_0_0_1280_744_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Far-right MK Tzvi Succot refuses to apologize for smashing West Bank monument",
+        "published": "Wed, 26 Aug 2026 04:49:01 +0300",
+        "summary": "",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-26/ty-article-live/trump-sends-saudi-nuclear-deal-to-congress-but-says-riyadh-must-recognize-israel/000001a0-3bb9-d274-a7f4-bfb9337f0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-388f-d936-a7ac-38afa84e0000/87/3b/2a9673d44e25869c196736c6f78d/197544.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "By smashing a Palestinian monument, an Israeli far-right lawmaker brought West Bank reality to light",
+        "published": "Wed, 26 Aug 2026 14:42:39 +0300",
+        "summary": "Tzvi Succot took a hammer to a Palestinian monument in the West Bank, and thus exposed to Israeli and international media what Palestinian media already knows: the IDF doesn't stop settlers' violence, it often enables it",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-26/ty-article/.premium/by-smashing-a-palestinian-monument-tzvi-succot-exposed-the-west-banks-reality/000001a0-3ced-d542-abbe-fdfdd4df0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-388f-d936-a7ac-38afa84e0000/87/3b/2a9673d44e25869c196736c6f78d/197544.jpg?width=1200"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "IDF soldiers tried to block left-wing Israeli lawmaker from West Bank village, staged assault",
+        "published": "Wed, 26 Aug 2026 14:09:15 +0300",
+        "summary": "IDF soldiers were seen trying to block Hadash MK Ofer Cassif from entering a West Bank village that has been under settler siege for over two weeks, with footage showing one soldier apparently staging an assault by the MK",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-26/ty-article/.premium/idf-soldiers-tried-to-bar-israeli-mk-from-west-bank-village-under-settler-siege/000001a0-3d93-d0d6-a3fc-3db7eec30000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3d93-d0d6-a3fc-3db7efca0001/8e/46/3ba0f97a4404b360da08701a9b02/whatsapp-image-2026-08-26-at-10-54-35.jpeg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 19,
+    "topic": "סלימאן מנסור - אמן פלסטיני",
+    "category": "culture",
+    "story_summary": "סלימאן מנסור, אמן פלסטיני בולט ועמוד בתנועת האמנות העכשווית, נפטר בגיל 79. עבודותיו עיסקו במאבק העם הפלסטיני, בקשר עמוק לארצו ובעושר המורשת התרבותית הפלסטינית.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Sliman Mansour, a pillar of contemporary Palestinian art, dies at 79",
+        "published": "Tue, 25 Aug 2026 15:07:36 +0300",
+        "summary": "Mansour spent a lifetime depicting the struggle of Palestinians, their love for their land and the beauty of their cultural heritage. 'Palestine was not so much the subject of his work as it was its purpose,' said the Palestine Museum",
+        "url": "https://www.haaretz.com/middle-east-news/palestinians/2026-08-25/ty-article-magazine/.premium/sliman-mansour-a-pillar-of-contemporary-palestinian-art-dies-at-79/000001a0-378d-d268-a1fe-3fdd16f20000",
+        "image": "https://img.haarets.co.il/bs/0000017f-ede3-d639-af7f-edf708810000/6e/65/b30f3f3cae2ebf5fcadaf12323d5/1018316866.jpg?width=108&height=81"
+      }
+    ]
+  },
+  {
+    "story_id": 27,
+    "topic": "תוכנית ישראל לפיתוח נשקי חלל",
+    "category": "security",
+    "story_summary": "ישראל מתכננת להשיק ממד צבאי חדש בחלל באמצעות פיתוח נשקי תקיפה מהחלל לקרקע, הידועים בשם 'מטות האלוהים'. כפרויקט זה משקף מטרה אסטרטגית להרחיב את יכולות התקיפה הישראליות לזירה החלל.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Jewish space lasers? Israel wants 'Rods from God'",
+        "published": "Tue, 25 Aug 2026 09:05:00 +0300",
+        "summary": "Israel plans new military frontier with space-to-ground strike weapons",
+        "url": "https://www.haaretz.com/israel-news/security-aviation/2026-08-25/ty-article-magazine/.premium/israel-plans-new-military-frontier-with-space-to-ground-strike-weapons/000001a0-3345-d7ba-aff3-b3c7a1320000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3351-d9cb-a3f3-3bf3ee3b0007/85/24/9147f28a445fbb1377d624acb579/rods-homepage-1.png?width=108&height=81"
+      }
+    ]
+  },
+  {
+    "story_id": 21,
+    "topic": "פשיטת משטרה על מתקן אונרוואה בירושלים",
+    "category": "security",
+    "story_summary": "משטרה ישראלית ביצעה פשיטה על המתקן האחרון של אונרוואה בירושלים בהשתתפות שר הביטחון איתמר בן-גביר, שהודיע כי המתקן ייסגר לצמיתות. אונרוואה טוענת כי האתר מוגן על פי הדין הבינלאומי ואינו יכול להיות סגור בחד-צדדיות.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Israeli police launch major raid on last remaining UNRWA facility in Jerusalem",
+        "published": "Tue, 25 Aug 2026 14:01:47 +0300",
+        "summary": "National Security Minister Itamar Ben-Gvir joined the raid with a crew from pro-government Channel 14, saying the facility would be permanently shut. UNRWA said the site is 'protected by the privileges and immunities' under international law",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-25/ty-article/.premium/israeli-police-raid-last-remaining-unrwa-facility-in-jerusalem/000001a0-388b-d686-afe7-f9eba8fd0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-388e-dfc3-abf8-be9e9f6b0000/98/c7/e0f8bf9c419d9b131f1b7cbcd5ef/197203.jpg?width=108&height=81"
+      }
+    ]
+  },
+  {
+    "story_id": 24,
+    "topic": "הסרת סוריה מרשימת הטרור",
+    "category": "world",
+    "story_summary": "נשיא סוריה אל-שרעה הודה לטראמפ על הסרת דמשק מרשימת המדינות התומכות בטרור, החלטה שהגיעה בתקופה של עלייה במתיחויות בין ישראל לסוריה. טורקיה קראה לקהילה הבינלאומית להתאחד סביב סוריה משגשגת ולהפסיק פעולות תוקפניות.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Syrian president thanks Trump for removing Damascus from terrorism sponsor list",
+        "published": "Tue, 25 Aug 2026 12:06:51 +0300",
+        "summary": "President al-Sharaa hailed Trump's 'historic decision' amid an increase in hostilities between Israel and Syria. Turkey called on the international community to unite around a prosperous Syria and '⁠put an ‌end to aggressive actions that jeopardise this vision'",
+        "url": "https://www.haaretz.com/middle-east-news/syria/2026-08-25/ty-article/syrian-president-thanks-trump-for-removing-damascus-from-terrorism-sponsor-list/000001a0-37c4-d268-a1fe-3fd4fd810000",
+        "image": "https://img.haarets.co.il/bs/000001a0-37e8-d268-a1fe-3ffca3be0000/09/fa/9e81ad1a4368a73c39a477662a4f/194301.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "As Syria rejoins the world, Israel's old playbook no longer applies",
+        "published": "Wed, 26 Aug 2026 21:08:44 +0300",
+        "summary": "With Arab states and the United States poised to invest billions in Syria's reconstruction, Israel must move beyond confrontation and pursue a security agreement with Damascus – or risk being shut out of a transformation that could reshape the region",
+        "url": "https://www.haaretz.com/middle-east-news/syria/2026-08-26/ty-article/.premium/as-syria-rejoins-the-world-israels-old-playbook-no-longer-applies/000001a0-3ed0-d929-abec-ffd11a210000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3ed5-d268-a1fe-3fd565270000/80/49/49ebabf142db8172635516b3ed35/582418.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 22,
+    "topic": "שגרירויות אמריקאיות חוזרות למזרח התיכון",
+    "category": "world",
+    "story_summary": "ארצות הברית משחזרת את הדיפלומטים שלה לשגרירויות במזרח התיכון לאחר פינויים בעקבות חששות מהסכסוך עם איראן, במהלך המעיד על ירידה בציפיות לקרבות מחודשים.",
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Report: U.S. prepares to return Mideast diplomats evacuated before Iran war, signaling renewed fighting is unlikely",
+        "published": "Tue, 25 Aug 2026 13:41:20 +0300",
+        "summary": "Embassies reportedly slated to restore staffing include those in Israel, Lebanon, Saudi Arabia, Qatar, Jordan, Oman, Iraq and Kuwait. The return could begin as early as this week, The New York Times said",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-25/ty-article/report-u-s-prepares-to-return-mideast-diplomats-evacuated-before-iran-war/000001a0-387e-d936-a7ac-387f2b710000",
+        "image": "https://img.haarets.co.il/bs/0000017f-deea-d3a5-af7f-feee10380000/0c/5e/0caf2ac213531ee4fccc4f68c8c3/1018316866.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Report: U.S. prepares to return Mideast diplomats evacuated before Iran war, signaling renewed fighting is unlikely",
+        "published": "Tue, 25 Aug 2026 03:58:15 +0300",
+        "summary": "",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-25/ty-article-live/two-children-among-four-people-killed-in-gaza-strikes-officials-say/000001a0-3656-dfc3-abf8-b656da950000",
+        "image": "https://img.haarets.co.il/bs/0000017f-deea-d3a5-af7f-feee10380000/0c/5e/0caf2ac213531ee4fccc4f68c8c3/1018316866.jpg?width=108&height=81"
+      },
+      {
+        "source": "ynet",
+        "title": "הסכם הגרעין עם סעודיה עבר לקונגרס עם התניה; ארה\"ב: \"לעת עתה\" - לא נתקוף באיראן",
+        "published": "Wed, 26 Aug 2026 02:48:21 +0300",
+        "summary": "ב\"אקסיוס\" דווח כי רוביו הבהיר לבעלות בריתה של ארה\"ב כי וושינגטון אינה מתכננת בשלב זה לחדש את התקיפות, ועוברת להתמקד בסנקציות, במצור הימי ובהזרמת נפט דרך הורמוז. איראן ועומאן מקדמות מסדרון שיט זמני ופינוי מוקשים, אך בטהרן מדגישים שהמצר לא ייפתח מחדש. במקביל, טראמפ העביר לקונגרס את הסכם הגרעין האזרחי עם סעודיה: \"יתקדם רק אם תכיר בישראל\"",
+        "url": "https://www.ynet.co.il/news/article/s1dqt9svzg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/S1Copy5Pfe/S1Copy5Pfe_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "גרעין תמורת נורמליזציה: טראמפ העביר לקונגרס את ההסכם עם סעודיה",
+        "published": "Wed, 26 Aug 2026 11:56:00 GMT",
+        "summary": "ההסכם יאפשר לחברות אמריקניות להקים כורים ותשתיות גרעיניות בממלכה, ואף מותיר פתח להעשרת אורניום בשטחה. אולם הנשיא האמריקני הוסיף לאחר חתימתו תנאי מדיני: הצטרפות סעודיה להסכמי אברהם. ריאד טרם הגיבה למהלך, אך מתעקשת על מסלול להקמת מדינה פלסטינית",
+        "url": "https://news.walla.co.il/item/3863327",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/7/6/3976747-46.png"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Report: U.S. to hold off Iran strikes until after U.S. Midterms",
+        "published": "Tue, 25 Aug 2026 23:00:31 +0300",
+        "summary": "Earlier on Tuesday, The New York Times reported that the U.S. ⁠State Department is preparing to ‌return diplomats to embassies in the Middle East ‌that were evacuated before and during the war with Iran",
+        "url": "https://www.haaretz.com/middle-east-news/iran/2026-08-25/ty-article/report-u-s-to-hold-off-iran-strikes-until-after-u-s-midterms/000001a0-3a37-d274-a7f4-beb78ca00000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3a35-d268-a1fe-3b754f880000/d7/81/fd845b414382adbf0f62143214dc/035103.jpg?width=108&height=81"
+      }
+    ]
+  },
+  {
+    "story_id": 18,
+    "topic": "קודי שדות תעופה",
+    "category": "culture",
+    "story_summary": "קודי שדות תעופה הפכו לסמל תרבותי פופולרי שמופיע על מזכרות וסחורות שונות. לאחרונה, שדה התעופה בפאלם ביץ' קיבל את הקוד DJT על שם הנשיא טראמפ, וקרוב לכך יקבל שדה התעופה בירושלים את הקוד GAY.",
+    "sources": [
+      {
+        "source": "walla",
+        "title": "JFK ו-CDG אנחנו מכירים, אבל איזה שדה תעופה בארץ הוא ETM?",
+        "published": "Tue, 25 Aug 2026 12:06:00 GMT",
+        "summary": "אתם מקבלים את כרטיס הטיסה לקראת החופשה שלכם בלוס אנג'לס, וקולטים שאתם נוחתים ב-LAX. אבל האם תהיתם פעם למה בעצם משמשים הקודים שדות התעופה? בעבר, קודי שדות התעופה היו משהו שהייתם רואים רק על כרטיס העלייה למטוס ועל תגי המזוודות. לעומת זאת, היום שלוש האותיות האלה נמצאות בכל מקום. תוכלו להתגאות ולהראות לעולם את אהבתכם לעיר שלכם באמצעות כיסויים לטלפון, פריטי עיצוב, חולצות ועוד. תיכנסו למשל לחנויות מזכרות לתיירים בתל אביב ומיד תפגשו את חולצת I Love TLV. אה, ויש אפילו שרוכי נעליים עם קודי שדות תעופה. אז איך בוחרים את שלוש האותיות האלה, ולמה אנחנו בכלל צריכים אותן? השאלה הזו מתחדדת כעת, לאחר הכותרות האחרונות על כך ששדה התעופה הבינלאומי של פאלם ביץ' בפלורידה שינה את הקוד שלו ל-DJT, בעקבות שינוי שמו על שם הנשיא המכהן דונלד ג'יי. טראמפ. עוד בנושא: שדה התעופה בעיר הקדושה קיבל את הקוד GAY בקרוב בניו יורק: שדה תעופה ראשון בעולם לחיות",
+        "url": "https://travel.walla.co.il/item/3863067",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092240-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 8,
+    "topic": "פרס אמריקני על מפקדי משמרות המהפכה",
+    "category": "security",
+    "story_summary": "ארצות הברית הציעה פרס של עד 10 מיליון דולר על מידע בנוגע ל-5 מפקדים בכירים במשמרות המהפכה, אך אחד מהם כבר נפטר. הנשיא טראמפ טען שייראן הורגת מפגינים בהיקפים חסרי תקדים ואינה משלמת את משכורות חלקים נרחבים מהצבא שלה.",
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "ארה\"ב הציעה פרס על ראשו של מוג'תבא; טראמפ: \"הם הורגים מפגינים ברמות שלא נראו\"",
+        "published": "Tue, 25 Aug 2026 13:29:05 +0300",
+        "summary": "לצד מוג'תבא חמינאי, ארה\"ב מציעה 10 מיליון דולר על מידע בנוגע לשורת בכירים במשמרות המהפכה. הנשיא האמריקני טען כי הרפובליקה האיסלאמית לא משלמת לחלקים גדולים בצבא, והזהיר מ\"משבר הומניטרי\" ש\"חייב להיפסק עכשיו\". לפי \"ניו יורק טיימס\", הדיפלומטים שעזבו את המזה\"ת בגלל המלחמה צפויים לחזור",
+        "url": "https://www.ynet.co.il/news/article/hysonjopzx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rkOM2JjwMl/rkOM2JjwMl_0_33_670_378_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "טראמפ: איראן הורגת מפגינים בהיקפים שלא נראו בעבר",
+        "published": "Tue, 25 Aug 2026 13:25:00 GMT",
+        "summary": "בציוץ ברשת TRUTH, הנשיא טען כי \"הרפובליקה האסלאמית הכושלת של איראן אינה משלמת את שכרם של חלקים נרחבים מהצבא שלה\". במקביל, בארה\"ב פרסמו פרס של עד 10 מיליון דולר עבור מידע על 5 מפקדים בכירים במשמרות המהפכה, אך התברר שאחד מהם כבר אינו בין החיים",
+        "url": "https://news.walla.co.il/item/3863088",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092267-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 17,
+    "topic": "רחפן נפץ בשדה תעופה גרמנית",
+    "category": "world",
+    "story_summary": "חוקרים גרמנים איתרו רחפן נפץ בשדה התעופה לייפציג/האלה, כשמקורות ביטחון מייחסים את המקרה לרוסיה. התגלית מהווה הסלמה בהגברת האיום על שדות התעופה של מדינות המסייעות לאוקראינה.",
+    "sources": [
+      {
+        "source": "walla",
+        "title": "רחפן נפץ אותר בשדה תעופה בגרמניה: \"רמה חדשה של סכנה\"",
+        "published": "Tue, 25 Aug 2026 12:22:00 GMT",
+        "summary": "חוקרים גרמנים איתרו רחפן נפץ בשדה התעופה לייפציג/האלה, פחות מחודש אחרי התקרית בה אותר רחפן בסמוך למטוס אוקראיני. במערכת הביטחון מפנים אצבע מאשימה לרוסיה - ומעריכים: המדינות שמסייעות לאוקראינה - על הכוונת",
+        "url": "https://news.walla.co.il/item/3863071",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092244-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 13,
+    "topic": "שלילת וויזה לישראלי בתאילנד בשל עימות על גן חיות",
+    "category": "world",
+    "story_summary": "תאילנד שללה את הוויזה של תייר ישראלי שנקשר לסכסוך מתמשך סביב גן החיות Samui Exotic Park בקוסמוי, לאחר שהאישראלי כביכול איים על בעל הפארק. שר התיירות התאילנדי הודיע על הצעד כביטוי לסירוב שלתאילנד להיות בזירה לסכסוכים זרים.",
+    "sources": [
+      {
+        "source": "walla",
+        "title": "תאילנד שללה את הוויזה של הישראלי בפרשת גן החיות בקוסמוי",
+        "published": "Tue, 25 Aug 2026 14:20:00 GMT",
+        "summary": "תאילנד שללה את הוויזה של תייר ישראלי שנקשר לעימות המתמשך סביב גן החיות Samui Exotic Park באי קוסמוי - כך הודיע היום (שלישי) שר התיירות והספורט התאילנדי, סוראסאק פאנצ'רואנווראקול. לדברי השר, הישראלי אינו רשאי עוד להישאר במדינה. תזכורת: הישראלי שאיים על בעלת גן חיות בתאילנד - הורשע. זה העונש שלו התקרית בקוסמוי: תאילנד שוקלת לגרש את בעל גן החיות הצרפתי ואת הישראלי שאיים עליו השר מסר את הדברים לכתבים בבניין הממשלה בבנגקוק, לפני ישיבת הקבינט. לפי העיתון התאילנדי Khaosod, מדובר בישראלי החשוד בגרימת הפרות סדר ובקשר לטענה שלפיה הוצע פרס על ראשו של בעל פארק החיות. עם זאת, העיתון The Nation ציין כי השר לא מסר את שמו של הישראלי, לא פירט מהו הבסיס המשפטי לשלילת הוויזה ולא הבהיר אם מדובר באדם שכבר הורשע באיומים בפרשה - או במעורב אחר. \"נמסר לי דיווח על המקרה, והוויזה שלו כבר נשללה\", אמר השר. לדבריו, מדובר במהלך תקיף שנועד למנוע את החרפת העימות ואת התפשטותו. הוא הוסיף כי תאילנד מקבלת בברכה תיירים מכל המדינות, כל עוד הם מכבדים את החוק ואת התרבות המקומית, אך לא תאפשר להפוך את המדינה לזירת סכסוכים שאינם קשורים אליה.",
+        "url": "https://travel.walla.co.il/item/3863105",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/9/4089902-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 11,
+    "topic": "נחיתת מטוס צבאי אמריקני במוסקבה",
+    "category": "world",
+    "story_summary": "מטוס בואינג C-17A Globemaster 3 של הצבא האמריקני נחת בנמל התעופה הבינלאומי ונוקובו במוסקבה בשעה 10:00 בשעון מוסקבה, לאחר שהמריא מריגה בשעות הבוקר המוקדמות. הפרטים על מטרת הטיסה וזהות הנוסעים על סיפון המטוס עדיין לא ברורים.",
+    "sources": [
+      {
+        "source": "walla",
+        "title": "תעלומה ברוסיה: דיווח על מטוס צבאי אמריקני שנחת במוסקבה",
+        "published": "Tue, 25 Aug 2026 15:20:00 GMT",
+        "summary": "בשלב זה לא ידוע מי היה על סיפון המטוס ומה הייתה מטרת הגעתו לרוסיה. לפי הדיווחים מטוס הבואינג C-17A גלובמאסטר 3 נחת בנמל התעופה הבינלאומי ונוקובו מעט אחרי השעה 10:00 לפי שעון מוסקבה, לאחר שהמריא מריגה כשעתיים קודם לכן",
+        "url": "https://news.walla.co.il/item/3863117",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/1/5/5/1/1551547-46.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "ביקור חריג במוסקבה: \"ראש ה-CIA הגיע לשיחות עם הרוסים\"",
+        "published": "Wed, 26 Aug 2026 07:07:54 +0300",
+        "summary": "לפי דיווחים בארה\"ב, ג'ון רטקליף הגיע לבירה הרוסית לביקור שנמשך שעות. בוושינגטון או במוסקבה לא אישרו את הפרטים, אך האמריקנים הודיעו לקייב מראש על הכוונה לשלוח משלחת בכירה. \"דיילי מייל\": ראש ממשלת בריטניה הוזהר מפני \"תגובה ישירה\" בגלל הסיוע לאוקראינה",
+        "url": "https://www.ynet.co.il/news/article/bjvz1jnpge",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/06/Bkhp1u113Ze/Bkhp1u113Ze_0_0_3000_1689_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "ביקור ראש ה-CIA במוסקבה: \"הזהיר את רוסיה מפני תקיפת נאט\"ו וסיוע לאיראן\"",
+        "published": "Thu, 27 Aug 2026 02:07:52 +0300",
+        "summary": "גורמים סיפרו ל\"וול סטריט ג'ורנל\" כי מטרת הביקור של ג'ון רטקליף הייתה להזהיר את הקרמלין שלא לתקוף את חברות הברית. \"פוליטיקו\": הדגש - על המדינות הבלטיות, רטקליף ניצל את הביקור גם כדי ללחוץ על מוסקבה להפחית את הסיוע הצבאי והכלכלי לטהרן. הפצצה אוקראינית חריגה בדונייצק, דיווח: \"פוטין יסלים\"",
+        "url": "https://www.ynet.co.il/news/article/hjorp1apgx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/06/rJ11syuW2Ze/rJ11syuW2Ze_0_85_3000_1689_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "ראש ה-CIA הגיע למוסקבה והזהיר את רוסיה מתקיפה נגד נאט\"ו",
+        "published": "Thu, 27 Aug 2026 07:35:00 GMT",
+        "summary": "ג'ון רטקליף העביר לבכירי המודיעין הרוסי מסר תקיף בעקבות הערכות שלפיהן פוטין עשוי לבחון את נחישות הברית באמצעות מתקפה מוגבלת נגד אחת המדינות החברות בה. בין היעדים האפשריים: אסטוניה, לטביה וליטא. פוטין לא השתתף בשיחות, אך עודכן בתוכנן",
+        "url": "https://news.walla.co.il/item/3863512",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/3/1/4031873-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 10,
+    "topic": "שוחד במחסום",
+    "category": "security",
+    "story_summary": "שני לוחמי מג״ב נאשמים בקבלת שוחד בתמורה לאישור מעבר פלסטינים דרך מחסום בעיצומי מלחמת חרבות ברזל. אחד קיבל אלפי שקלים עבור תיאום מעבר כלי רכב, בעוד השני העביר קרובי משפחה וסיפק מידע על הפעלת המחסום בתמורה לטובות הנאה.",
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "\"כסף הועבר בלחיצת יד\": שני לוחמי מג\"ב נאשמים שאפשרו מעבר פלסטינים בתמורה לכסף",
+        "published": "Tue, 25 Aug 2026 12:22:18 +0300",
+        "summary": "פרסום ראשון: על פי כתב האישום, בעיצומם של ימי הקרבות במלחמת \"חרבות ברזל\", אחד השוטרים תיאם מעבר של כלי רכב במחסום אל-ג'יב שליד גבעת זאב וקיבל בתמורה אלפי שקלים. שוטר נוסף מואשם כי העביר קרובי משפחה ומכרים של תושבים באזור, מסר מידע על הנעשה במעבר וקיבל טובות הנאה",
+        "url": "https://www.ynet.co.il/news/article/rj42vrqpmg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/25/B1gsVcyX1111e/B1gsVcyX1111e_0_0_1280_721_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 4,
+    "topic": "טענות להפרת הסכם השלום",
+    "category": "security",
+    "story_summary": "גורמים במועצת השלום של טראמפ טוענים כי שני הצדדים אינם ממלאים את הסכם 20 הנקודות, כאשר מופנית ביקורת על פעילות הצבא הישראלי בעזה על אי-קיום ההתחייבויות.",
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "גורמים במועצת השלום: \"שני הצדדים מפרים את ההסכם\"",
+        "published": "Tue, 25 Aug 2026 14:29:57 +0300",
+        "summary": "במועצה שהקים טראמפ טענו כי שני הצדדים לא ממלאים את הסכם 20 הנקודות ומתחו ביקורת על פעילות הצבא בעזה: \"חבל שישראל מפספסת את ההזדמנות הענקית הזו בשביל כמות קטנה של פעולות טקטיות שלא באמת יביאו לפירוק חמאס\"",
+        "url": "https://www.ynet.co.il/news/article/bjdr8gopfg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/ByMiWewDfg/ByMiWewDfg_0_404_961_541_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Syria tells Israel it won't limit military buildup in security deal talks",
+        "published": "Mon, 24 Aug 2026 00:52:13 +0300",
+        "summary": "Syrian state media said Damascus insisted on its right to develop its military and maintain foreign alliances, while seeking an end to Israeli strikes and a withdrawal to lines held before December 2024",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-24/ty-article/syria-tells-israel-it-wont-limit-military-buildup-in-security-deal-talks/000001a0-308d-dc1a-abac-f2ffa0080000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3099-d7ba-aff3-b29fdb170001/cb/ef/908a9f3a4252b2a0263bcb5c8a14/331665-3.webp?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Mossad chief meets with Syrian foreign minister after Israeli strikes, source says",
+        "published": "Sun, 23 Aug 2026 23:02:53 +0300",
+        "summary": "On Saturday, Defense Minister Israel Katz said Israel warned Syria before bombing Abu al-Duhur airbase over intelligence reports about Turkey's 'intention' to carry out activities that would 'endanger Israel's security'",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-23/ty-article/.premium/mossad-chief-meets-with-syrian-foreign-minister-source-says/000001a0-2fe8-ddec-a7a5-2ffe0b6c0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3023-ddec-a7a5-34f7046a0001/8c/b3/99eb7b2744e78b5e633aef5313fe/whatsapp-image-2026-06-02-at-18-12-03.jpeg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Syria's foreign minister sees Israel security talks resuming despite no trust",
+        "published": "Sun, 23 Aug 2026 11:20:51 +0300",
+        "summary": "Days after Israel bombed a Syrian airbase, al-Shaibani says he believes negotiations will resume soon, cautioning that it is 'very hard to bet on Israel'",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-23/ty-article/syrias-foreign-minister-sees-israel-security-talks-resuming-despite-no-trust/000001a0-2da8-d293-a1e7-3db8a5c90000",
+        "image": "https://img.haarets.co.il/bs/000001a0-2da9-d129-a3ba-6fab6d550000/d2/9f/90383f8d406aacae9cf0a478479b/178759.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Trump's envoy was right to condemn Netanyahu over Syria strike",
+        "published": "Sun, 23 Aug 2026 07:33:24 +0300",
+        "summary": "Since the fall of Bashar Assad almost two years ago, Syria has made numerous overtures to Israel, only to find a government inept at negotiation and reliant solely on military might. The U.S. must carefully watch over Netanyahu before Israel's upcoming election",
+        "url": "https://www.haaretz.com/opinion/2026-08-23/ty-article-opinion/.premium/trumps-envoy-was-right-to-condemn-netanyahu-over-syria-strike/000001a0-2ccd-dc38-a7f1-3fefd8bc0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-2cdd-d129-a3ba-6effdd9c0000/71/31/81a174df4001b65cfefb4a587613/180617.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Netanyahu's need for constant security crises sparks rare clash with Washington",
+        "published": "Sun, 23 Aug 2026 05:44:56 +0300",
+        "summary": "Israel's strike on a Syrian airbase has exposed a rare public rift with the Trump administration over how to deal with Turkey's growing role in Syria. Meanwhile, Washington is quietly pressing Netanyahu over Israeli actions in Gaza and the West Bank",
+        "url": "https://www.haaretz.com/middle-east-news/2026-08-23/ty-article/.premium/netanyahus-answer-to-election-trouble-open-a-front-with-turkey-and-syria/000001a0-2b07-d399-afb3-bf2f18f40000",
+        "image": "https://img.haarets.co.il/bs/000001a0-2ade-d129-a3ba-6afe67e90001/c0/4c/cddd527b4e52a96c4eb18fd803c4/128800.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Israel disputes U.S. envoy, says it warned Syria before striking airbase over Turkish military buildup",
+        "published": "Sat, 22 Aug 2026 17:33:42 +0300",
+        "summary": "According to Defense Minister Katz, after Syria failed to heed the warning, he and Netanyahu authorized the strike, calling U.S. Ambassador to Turkey Tom Barrack's account inaccurate: 'Erdogan was caught with his hand in the cookie jar and was forced to back down'",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-22/ty-article/.premium/israel-says-it-warned-syria-before-striking-airbase-over-turkish-military-threat/000001a0-29bc-d129-a3ba-6bbe3d740000",
+        "image": "https://img.haarets.co.il/bs/000001a0-29cb-dc38-a7f1-3fefc4890000/01/c0/ad50804f42bcb37dc0bf3901b952/134898-4.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "IDF says it targeted terrorist in recent Syria strike",
+        "published": "Sat, 22 Aug 2026 13:35:53 +0300",
+        "summary": "The strike comes days after multiple strikes on Syria's Abu al-Duhur airbase. Israel has not claimed responsibility for the strikes on the airbase, but officials said Damascus violated security understandings by allowing a Turkish military presence",
+        "url": "https://www.haaretz.com/middle-east-news/syria/2026-08-22/ty-article/.premium/syria-report-man-wounded-in-israeli-drone-strike-on-countrys-southwest/000001a0-28f2-d129-a3ba-6afa4bc70000",
+        "image": "https://img.haarets.co.il/bs/000001a0-20b2-d129-a3ba-62ba214c0004/4f/a2/f6b91b2d4471a83dcb9c4fdf64c7/331665.jpg?width=108&height=81"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "U.S. envoy: Israel risked confrontation with Turkey by 'baiting' Ankara",
+        "published": "Sat, 22 Aug 2026 11:31:47 +0300",
+        "summary": "Barrack said Turkish forces could have scrambled their jets after Israel struck the Syrian airbase without warning. He compared the incident to Turkey's 2015 downing of a Russian fighter near the Syrian border",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-22/ty-article/.premium/u-s-envoy-israel-risked-confrontation-with-turkey-by-baiting-ankara/000001a0-2822-dc38-a7f1-3f2f77b90000",
+        "image": "https://img.haarets.co.il/bs/000001a0-2854-d293-a1e7-38d4fbad0000/40/6f/9150aaf64e5b9f055df3694d0d1d/137253-2.jpg?width=108&height=81"
       }
     ]
   }
