@@ -1,5 +1,7 @@
 import { useState } from 'react'
+import { useWeather } from '@hooks/useWeather'
 import { CATEGORIES } from '@utils/categories'
+import { weatherIcon } from '@utils/weather'
 
 interface HeaderProps {
   isDark: boolean
@@ -17,6 +19,7 @@ function categoryLinkClass(active: boolean) {
 function Header(props: HeaderProps) {
   const { isDark, setIsDark, lastUpdated, activeCategorySlug } = props
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const weather = useWeather()
 
   const logo = (
     <a href="#/" className="flex items-center gap-2 sm:gap-3">
@@ -103,8 +106,20 @@ function Header(props: HeaderProps) {
     </button>
   )
 
+  const weatherWidget = weather && (
+    <span
+      title="מזג אוויר בתל אביב"
+      className="hidden items-center gap-1.5 rounded-full border border-indigo-100 bg-white px-3 py-1.5 text-sm font-bold text-slate-600 shadow-sm dark:border-fuchsia-500/40 dark:bg-black/40 dark:text-slate-200 sm:flex"
+    >
+      <span aria-hidden="true">{weatherIcon(weather.code)}</span>
+      <span>{weather.temperature}°</span>
+      <span className="text-xs font-normal text-slate-400 dark:text-slate-500">תל אביב</span>
+    </span>
+  )
+
   const actions = (
     <div className="flex shrink-0 items-center gap-2">
+      {weatherWidget}
       {linkedinButton}
       {githubButton}
       {themeToggleButton}

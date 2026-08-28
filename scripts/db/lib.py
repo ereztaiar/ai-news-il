@@ -18,7 +18,17 @@ def get_connection(db_path: str) -> sqlite3.Connection:
     conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA foreign_keys = ON")
     conn.executescript(SCHEMA_PATH.read_text())
+    _migrate(conn)
     return conn
+
+
+def _migrate(conn: sqlite3.Connection) -> None:
+    # CREATE TABLE IF NOT EXISTS above only creates stories on a fresh DB —
+    # an existing data/news.db needs new columns added explicitly.
+    columns = {row["name"] for row in conn.execute("PRAGMA table_info(stories)")}
+    if "good_news_score" not in columns:
+        conn.execute("ALTER TABLE stories ADD COLUMN good_news_score INTEGER")
+        conn.commit()
 
 
 def strip_fences(text: str) -> str:

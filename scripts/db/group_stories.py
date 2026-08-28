@@ -56,6 +56,10 @@ TOP_N_STORIES = 1
 # call) so it drops out of the pool.
 MAX_UNGROUPED_AGE_HOURS = 72
 
+# Used when a story is filed without a synthesis call (verbatim fallback, or
+# an aged-out group) — neutral until an actual synthesis call scores it.
+DEFAULT_GOOD_NEWS_SCORE = 5
+
 CATEGORY_GUIDE = """- news: Israeli domestic news not covered below — politics, crime, courts,
   government, elections, society.
 - security: military/defense/terror — IDF operations, Gaza, West Bank,
@@ -65,7 +69,9 @@ CATEGORY_GUIDE = """- news: Israeli domestic news not covered below — politics
 - tech: technology, AI, startups, science.
 - sports: sports news of any kind.
 - culture: lifestyle, entertainment, travel, food, health, human interest,
-  obituaries, arts."""
+  obituaries, arts.
+- weather: weather forecasts, storms, heatwaves, floods, and other
+  meteorological reports/warnings."""
 
 
 def fetch_ungrouped(conn):
@@ -83,7 +89,7 @@ def count_story_articles(conn, story_id):
 
 def fetch_candidate_stories(conn):
     return conn.execute(
-        """SELECT s.id, s.topic, s.category, s.ai_summary,
+        """SELECT s.id, s.topic, s.category, s.ai_summary, s.good_news_score,
                   (SELECT a.title FROM articles a
                      WHERE a.story_id = s.id
                      ORDER BY a.created_at DESC LIMIT 1) AS latest_title
@@ -125,7 +131,7 @@ For each new article, decide:
   source), assign it that story's "story_id".
 - Otherwise, group it with any OTHER new articles that share a story with
   it, set "story_id" to null, and assign a category from: news, security,
-  world, business, tech, sports, culture.
+  world, business, tech, sports, culture, weather.
 {CATEGORY_GUIDE}
 
 Output ONLY a JSON array, one object per group, in exactly this shape:
@@ -166,7 +172,13 @@ Update, in Hebrew:
 - "story_summary": a 1-2 sentence summary reflecting the story INCLUDING
   the new developments, synthesized in your own words — not a copy of any
   single source.
-Output ONLY a single JSON object: {{"topic": "...", "story_summary": "..."}}.
+- "good_news_score": an integer 0-10 rating how positive/uplifting this
+  story is, judged as a whole including the new developments. 0 means
+  tragic/violent (murder, terror attack, war, fatal accident, serious
+  crime), 5 means routine/neutral news, 10 means heartwarming good news
+  (births, weddings, rescues, medical breakthroughs, major achievements).
+Output ONLY a single JSON object:
+{{"topic": "...", "story_summary": "...", "good_news_score": 0}}.
 No other text."""
     else:
         prompt = f"""You will be given a JSON array of news articles that all cover the SAME
@@ -176,16 +188,24 @@ in Hebrew:
 - "story_summary": a 1-2 sentence summary of the story, synthesized in your
   own words from the article titles/descriptions across sources — not a
   copy of any single one.
+- "good_news_score": an integer 0-10 rating how positive/uplifting this
+  story is. 0 means tragic/violent (murder, terror attack, war, fatal
+  accident, serious crime), 5 means routine/neutral news, 10 means
+  heartwarming good news (births, weddings, rescues, medical breakthroughs,
+  major achievements).
 Keep any Hebrew text you read exactly as-is; translate non-Hebrew source
 text into Hebrew for the summary if needed. Output ONLY a single JSON
-object: {{"topic": "...", "story_summary": "..."}}. No other text.
+object: {{"topic": "...", "story_summary": "...", "good_news_score": 0}}.
+No other text.
 
 Articles:
 {json.dumps(members, ensure_ascii=False)}"""
 
     result = call_claude_json(prompt, SYNTH_MODEL, retries=1)
     if result and result.get("topic") and result.get("story_summary"):
-        return result["topic"], result["story_summary"]
+        score = result.get("good_news_score")
+        score = score if isinstance(score, int) and 0 <= score <= 10 else DEFAULT_GOOD_NEWS_SCORE
+        return result["topic"], result["story_summary"], score
 
     if existing_context:
         # Don't regress an already-good Hebrew topic/summary to an arbitrary
@@ -197,12 +217,13 @@ Articles:
             f"WARNING: re-synthesis failed for story '{existing_context['topic']}', keeping its existing topic/summary",
             file=sys.stderr,
         )
-        return existing_context["topic"], existing_context["ai_summary"]
+        return existing_context["topic"], existing_context["ai_summary"], existing_context["good_news_score"]
 
     # New story, no prior text to fall back to: degrade this one story
     # instead of failing the whole run.
     print(f"WARNING: synthesis failed for new story (first title: {members[0]['title']!r}), using it verbatim", file=sys.stderr)
-    return verbatim_topic_summary(members)
+    topic, summary = verbatim_topic_summary(members)
+    return topic, summary, DEFAULT_GOOD_NEWS_SCORE
 
 
 def main():
@@ -301,8 +322,8 @@ def main():
         ]
         topic, summary = verbatim_topic_summary(members)
         cur = conn.execute(
-            "INSERT INTO stories (topic, category, ai_summary) VALUES (?, ?, ?)",
-            (topic, g.get("category") or "news", summary),
+            "INSERT INTO stories (topic, category, ai_summary, good_news_score) VALUES (?, ?, ?, ?)",
+            (topic, g.get("category") or "news", summary, DEFAULT_GOOD_NEWS_SCORE),
         )
         conn.executemany(
             "UPDATE articles SET story_id = ?, updated_at = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') WHERE id = ?",
@@ -317,10 +338,10 @@ def main():
         ]
         existing = candidates_by_id.get(g["story_id"]) if g["story_id"] else None
         if existing:
-            topic, summary = synthesize_story(members, existing_context=existing)
-            return {"kind": "update", "story_id": existing["id"], "topic": topic, "summary": summary, "article_ids": g["article_ids"]}
-        topic, summary = synthesize_story(members)
-        return {"kind": "new", "category": g.get("category") or "news", "topic": topic, "summary": summary, "article_ids": g["article_ids"]}
+            topic, summary, score = synthesize_story(members, existing_context=existing)
+            return {"kind": "update", "story_id": existing["id"], "topic": topic, "summary": summary, "score": score, "article_ids": g["article_ids"]}
+        topic, summary, score = synthesize_story(members)
+        return {"kind": "new", "category": g.get("category") or "news", "topic": topic, "summary": summary, "score": score, "article_ids": g["article_ids"]}
 
     with ThreadPoolExecutor(max_workers=SYNTH_WORKERS) as pool:
         results = list(pool.map(process_group, top_groups))
@@ -331,14 +352,14 @@ def main():
         if r["kind"] == "update":
             story_id = r["story_id"]
             conn.execute(
-                "UPDATE stories SET topic = ?, ai_summary = ?, updated_at = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') WHERE id = ?",
-                (r["topic"], r["summary"], story_id),
+                "UPDATE stories SET topic = ?, ai_summary = ?, good_news_score = ?, updated_at = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') WHERE id = ?",
+                (r["topic"], r["summary"], r["score"], story_id),
             )
             updated_count += 1
         else:
             cur = conn.execute(
-                "INSERT INTO stories (topic, category, ai_summary) VALUES (?, ?, ?)",
-                (r["topic"], r["category"], r["summary"]),
+                "INSERT INTO stories (topic, category, ai_summary, good_news_score) VALUES (?, ?, ?, ?)",
+                (r["topic"], r["category"], r["summary"], r["score"]),
             )
             story_id = cur.lastrowid
             new_count += 1

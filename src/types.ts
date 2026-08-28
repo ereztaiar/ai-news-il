@@ -12,5 +12,6 @@ export interface Story {
   topic: string
   category?: string
   story_summary?: string
+  good_news_score?: number
   sources: StorySource[]
 }

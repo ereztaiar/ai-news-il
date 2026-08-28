@@ -6,15 +6,17 @@
 --
 -- stories: one row per clustered story (possibly spanning many sources/
 -- articles). ai_summary + topic are (re)written by group_stories.py every
--- time a new article joins that story.
+-- time a new article joins that story. good_news_score (0-10, 0 = tragic/
+-- violent, 10 = heartwarming) is synthesized by the same Claude call.
 
 CREATE TABLE IF NOT EXISTS stories (
-  id          INTEGER PRIMARY KEY AUTOINCREMENT,
-  topic       TEXT NOT NULL,
-  category    TEXT,
-  ai_summary  TEXT,
-  created_at  TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now')),
-  updated_at  TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now'))
+  id               INTEGER PRIMARY KEY AUTOINCREMENT,
+  topic            TEXT NOT NULL,
+  category         TEXT,
+  ai_summary       TEXT,
+  good_news_score  INTEGER,
+  created_at       TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now')),
+  updated_at       TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%SZ', 'now'))
 );
 
 CREATE TABLE IF NOT EXISTS articles (

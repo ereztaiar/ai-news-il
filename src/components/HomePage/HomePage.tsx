@@ -1,6 +1,7 @@
-import { useHomeSections } from "@hooks/useHomeSections";
+import { useGoodNewsStories, useHomeSections } from "@hooks/useHomeSections";
 import type { Story } from "@/types";
 import CategorySection from "./CategorySection";
+import GoodNewsSection from "./GoodNewsSection";
 
 interface HomePageProps {
   stories: Story[];
@@ -9,6 +10,7 @@ interface HomePageProps {
 function HomePage(props: HomePageProps) {
   const { stories } = props;
   const sections = useHomeSections(stories);
+  const goodNewsStories = useGoodNewsStories(stories);
 
   const sectionList = sections.map(({ category, stories: categoryStories }) => (
     <CategorySection
@@ -45,6 +47,7 @@ function HomePage(props: HomePageProps) {
   return (
     <div className="flex flex-col gap-8 sm:gap-10">
       {intro}
+      <GoodNewsSection stories={goodNewsStories} />
       {sectionList}
     </div>
   );

@@ -66,7 +66,27 @@ export const CATEGORIES: CategoryDef[] = [
     tile: 'bg-pink-600/90',
     accent: 'border-pink-500',
   },
+  {
+    slug: 'weather',
+    label: 'מזג אוויר',
+    badge: 'bg-cyan-600 text-white',
+    banner: 'bg-cyan-50 dark:bg-cyan-950/30',
+    tile: 'bg-cyan-600/90',
+    accent: 'border-cyan-500',
+  },
 ]
+
+// Not part of CATEGORIES: this isn't a real category value on stories (it's
+// a good_news_score threshold, see useHomeSections), so it's excluded from
+// the header nav / category pages and only used for styling that section.
+export const GOOD_NEWS_CATEGORY: CategoryDef = {
+  slug: 'good-news',
+  label: 'חדשות טובות',
+  badge: 'bg-amber-500 text-white',
+  banner: 'bg-amber-50 dark:bg-amber-950/30',
+  tile: 'bg-amber-500/90',
+  accent: 'border-amber-400',
+}
 
 const BY_SLUG = new Map(CATEGORIES.map((c) => [c.slug, c]))
 const FALLBACK = CATEGORIES.find((c) => c.slug === 'news')!
