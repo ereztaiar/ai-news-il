@@ -1,5 +1,38 @@
 [
   {
+    "story_id": 462,
+    "topic": "התקפה של מתנחלים בקוסרה",
+    "category": "security",
+    "story_summary": "עשרות מתנחלים בפנים מוסכות התבצרו בבית בכפר קוסרה בשומרון, יידו אבנים, תקפו עיתונאים זרים וגרמו לפצועים פלסטינים, כשכוחות הביטחון הוציאו אותם מהמקום אך לא עצרו אף אחד.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "רעולי פנים, על טנדרים: יהודים התבצרו בבית בקוסרה, תקפו כתבים ויידו אבנים - ועצורים אין",
+        "published": "Sat, 29 Aug 2026 16:26:12 +0300",
+        "summary": "שבועות אחרי המאחז שהוקם ליד הכפר, והסערה העולמית בעקבות המצור עליו, עשרות יהודים יידו אבנים והתבצרו בבית - בזמן שהתושבים בפנים. כוחות צה\"ל ומג\"ב שהוקפצו הוציאו אותם מהבית והחרימו כלי רכב, אחרי שהפורעים המשיכו לכפר סמוך. הפורעים גם תקפו עיתונאים זרים וניפצו את שמשת רכבם. הפלסטינים דיווחו על פצועים",
+        "url": "https://www.ynet.co.il/news/article/hkole8xome",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/HJdcIPguGx/HJdcIPguGx_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "מתנחלים יידו אבנים והתבצרו בבית בקוסרה שבשומרון - פלסטינים נפצעו",
+        "published": "Sat, 29 Aug 2026 15:44:00 GMT",
+        "summary": "כוחות צה\"ל ומג\"ב הוקפצו לכפר בשומרון, לאחר שעשרות פורעים התבצרו בבית בזמן שיושביו שהו בתוכו. מצה\"ל נמסר כי התקבלו דיווחים על פלסטינים פצועים, בהם אישה. כוחות הביטחון החרימו רכבים שעל פי החשד שימשו את הפורעים - אך איש לא נעצר",
+        "url": "https://news.walla.co.il/item/3864017",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093777-46.jpeg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Dozens of masked Israeli settlers wound Palestinians, attack foreign journalists in West Bank",
+        "published": "Sat, 29 Aug 2026 18:13:18 +0300",
+        "summary": "Israeli soldiers in the Palestinian village of Qusra were filmed shielding a building where workers had taken shelter. They did not detain or identify the masked settlers, despite an order criminalizing face coverings in the West Bank",
+        "url": "https://www.haaretz.com/west-bank/2026-08-29/ty-article/.premium/dozens-of-settlers-wound-palestinians-attack-foreign-journalists-in-w-bank/000001a0-4d35-d649-a7be-dd77900a0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-4e16-d5a0-a1f7-fe367c700001/95/e3/48436704441c933c35a350b9b20d/234711.jpg?width=1200"
+      }
+    ]
+  },
+  {
     "story_id": 444,
     "topic": "סערת רוח בסוף אוגוסט",
     "category": "weather",
@@ -188,6 +221,14 @@
         "summary": "One Writers' Complex resident said a truck driver who unloaded containers, blocking access to the neighborhood, told him he had been sent by the municipality. Another warned of a 'religious war if police fail to intervene",
         "url": "https://www.haaretz.com/israel-news/2026-08-29/ty-article/.premium/haredim-again-block-bnei-brak-neighborhood-cutting-off-secular-residents/000001a0-4a32-da19-affd-def71c950000",
         "image": "https://img.haarets.co.il/bs/000001a0-4a35-d2c5-a1b2-efbff3dd0000/d5/22/021b7b76400d8fc7fa1c3f41aa51/whatsapp-image-2026-08-28-at-20-06-59.jpeg?width=1200"
+      },
+      {
+        "source": "walla",
+        "title": "שבת של מחאות חרדים: מפגינים ניסו לחסום את הכניסה לירושלים",
+        "published": "Sat, 29 Aug 2026 19:35:00 GMT",
+        "summary": "בצומת מירון, כמידי שבת, כ-20 מפגינים ניסו לשבש את תנועת האוטובוסים בין צפת לנהריה; בירושלים, ניסו מפגינים חרדים לחסום את הכניסה לעיר - במחאה על חילול השבת. \"מי שחושב שאפשר לסגור את ירושלים בשבת דרך לחץ והפחדה פשוט לא מכיר את הירושלמים\", אמר סגן ראש העיר",
+        "url": "https://news.walla.co.il/item/3864055",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093830-46.jpg"
       }
     ]
   },
@@ -595,6 +636,14 @@
         "summary": "אחמד עבד שוקרא, בן 29, נורה בזמן שרכב על אופניים בשדרות ירושלים, לאחר שג'יפ נעצר לידו ואחד מיושביו ירד ופתח לעברו באש. במהלך המעצר בחולון השליכו שניים מהחשודים אקדח גלוק מהדירה בה שהו. האקדח אותר, ובהמשך אותר גם הג'יפ שלפי החשד שימש לביצוע הרצח ולהימלטות",
         "url": "https://news.walla.co.il/item/3863908",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/4/3/4043101-46.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "נדרס - ואז נורה מטווח אפס: \"איבדנו את הבן שלנו תוך רגע, ההלם עצום\"",
+        "published": "Sat, 29 Aug 2026 11:04:38 +0300",
+        "summary": "בני משפחתו של אחמד עבד שקרה (29) עדיין מנסים להבין את המניעים שהובילו לרצח בנם, שאירע על פי הדיווחים לאחר שנדרס כשרכב על אופניים חשמליים. \"זה הרס את כולנו\", שיתף בכאב האב, שמטיל ספק בכך שהחשודים ישלמו על מעשיהם. \"מעשי הרצח הפכו למחלה שמתפשטת ומחמירה מדי יום\"",
+        "url": "https://www.ynet.co.il/news/article/rjatewxugx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/ryfqEZeOze/ryfqEZeOze_0_0_850_479_0_medium.jpg"
       }
     ]
   },
@@ -3468,23 +3517,6 @@
         "summary": "כ-15 שנה אחרי שהכורדים ניצלו את מלחמת האזרחים כדי לבסס שליטה בצפון-מזרח סוריה, הכוח הצבאי שהפך לבן בריתה המרכזי של ארה\"ב במאבק בדאעש הודיע על פירוקו. הכוחות יתמזגו בצבא שנגדו נלחמו רק לפני כמה חודשים, המפקד מזלום עבדי: \"המדינה נכנסה לשלב חדש של שלום ובניית סוריה חדשה\"",
         "url": "https://www.ynet.co.il/news/article/hktb4dovzx",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H1XMfCwivzx/H1XMfCwivzx_79_113_921_518_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 152,
-    "topic": "תקיפות צה״ל בדרום לבנון",
-    "category": "security",
-    "story_summary": "צה״ל תקף מוקדים בדרום לבנון בפעילות יזומה, עם דיווחים של כלי תקשורת לבנוניים על התקפות בכמה אזורים בדרום הארץ.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "דיווחים בלבנון: צה\"ל תקף בכמה מוקדים בדרום המדינה",
-        "published": "Wed, 26 Aug 2026 01:02:00 +0300",
-        "summary": "כלי תקשורת לבנוניים דיווחו על תקיפות באזור א-דבשה, סרבין, אל-קנטרה ורכס עלי טאהר. זמן קצר קודם לכן הודיעה עיריית קריית שמונה כי ייתכן שיישמעו הדי פיצוצים: \"פעילות יזומה של כוחותינו\"",
-        "url": "https://www.ynet.co.il/news/article/ryhwryspge",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H1xia00swzg/H1xia00swzg_0_0_1280_720_0_medium.jpg"
       }
     ]
   }
