@@ -1,5 +1,1479 @@
 [
   {
+    "story_id": 327,
+    "topic": "השהיית מפת סיכונים אקלימיים",
+    "category": "news",
+    "story_summary": "שר הסביבה בישראל מעכב פרויקט שנועד למפות את הסיכונים האקלימיים ולעזור להנהלה להתכונן לגלי חום, הצפות וסכנות אחרות.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Israel's environment minister sidelines flagship climate risk portal",
+        "published": "Wed, 26 Aug 2026 22:34:34 +0300",
+        "summary": "The flagship project maps Israel's climate vulnerabilities to help officials prepare for heat, floods and other risks, but the environmental protection minister did not announce its release",
+        "url": "https://www.haaretz.com/science-and-health/climate-change/2026-08-26/ty-article/.premium/israels-environment-minister-sidelines-flagship-climate-risk-portal/000001a0-3ee2-d1f1-a5f0-3fead1a10000",
+        "image": "https://img.haarets.co.il/bs/0000018d-3bdf-d35c-a39f-bbdfe0f50007/bb/71/ba2a8077494ebb53022870fe54b8/595106-2.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 326,
+    "topic": "בהירות עמדות הימין בנושאי טריטוריה",
+    "category": "news",
+    "story_summary": "פרשנות המתייחסת לכך שהימין בישראל ברור וגלוי יותר מהאופוזיציה לגבי עמדותיו בעניינים של עזה, הגדה המערבית וכישות פלסטינית.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Israel's opposition should be jealous of the right. At least it speaks its mind",
+        "published": "Thu, 27 Aug 2026 00:04:04 +0300",
+        "summary": "From Gaza and the West Bank to Palestinian statehood, the right says exactly what it intends to do",
+        "url": "https://www.haaretz.com/opinion/2026-08-27/ty-article-opinion/.premium/israels-right-has-a-clear-agenda-why-is-gadi-eisenkots-opposition-so-afraid/000001a0-3f17-d268-a1fe-3f571fe50000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3f57-d02f-a9ed-7f7f6cbc0000/07/29/9c6f43db4f2188f1c1f115989f9d/133471.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 325,
+    "topic": "מתיחות בין נתניהו לגנרלי צה\"ל",
+    "category": "news",
+    "story_summary": "תומכים קיצוניים של נתניהו רואים בגנרלי צה\"ל אישים חלשים ממלחמתיים שהוליכו את הצבא לכישלון וגרמו לאובדן האמון בהנהגה.",
+    "good_news_score": 3,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Why do Netanyahu's most fanatical loyalists despise IDF generals?",
+        "published": "Thu, 27 Aug 2026 00:08:47 +0300",
+        "summary": "'The generals' are cast as weak defeatists who betrayed both the soldiers and the supreme leader's strategic genius",
+        "url": "https://www.haaretz.com/opinion/2026-08-27/ty-article-opinion/.premium/the-new-rabin-of-israels-lunatic-far-right-gadi-eisenkot/000001a0-3f25-d274-a7f4-bfa5a7e30000",
+        "image": "https://img.haarets.co.il/bs/0000017f-db13-df62-a9ff-dfd7f2f20000/50/bb/5edee26860be24cbf6957899e3c4/1018316866.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 324,
+    "topic": "הנהגה דמוקרטית מקדמת תומכי ישראל",
+    "category": "world",
+    "story_summary": "הנהגת הדמוקרטים הקדימה חקיקים תומכי ישראל לתפקידים בכירים בענייני חוץ, כאשר הנציג ג'ארד מוסקוביץ קיבל כוח משמעותי על חקיקה הקשורה לישראל, מה שהעלה כעס בקרב חברים פרוגרסיביים בקבוצה.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Democrats elevate pro-Israel lawmakers to key foreign affairs posts, angering progressives",
+        "published": "Thu, 27 Aug 2026 00:12:13 +0300",
+        "summary": "The new role for AIPAC-backed Rep. Jared Moskowitz would give him significant power over legislation related to Israel, especially if Democrats retake the House",
+        "url": "https://www.haaretz.com/us-news/2026-08-27/ty-article/.premium/democrats-tap-pro-israel-lawmakers-for-key-house-posts-angering-progressives/000001a0-3f92-d268-a1fe-3fd64eec0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3f98-d02f-a9ed-7ffb85640000/ce/36/cb664a104fb294bb7f3d7b4e2657/130700-2.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 323,
+    "topic": "דילמה בין ישראל להתנחלויות",
+    "category": "news",
+    "story_summary": "כתבה המציגה את הטענה כי ישראל צריכה להתמודד עם בחירה אסטרטגית בין שמירת אינטרסיה הלאומיים המרכזיים לבין המשך בהחזקת התנחלויות בגדה המערבית.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Israel must choose between itself and its West Bank settlements",
+        "published": "Thu, 27 Aug 2026 00:16:00 +0300",
+        "summary": "",
+        "url": "https://www.haaretz.com/opinion/editorial/2026-08-27/ty-article-opinion/israel-must-choose-between-itself-and-its-west-bank-settlements/000001a0-3f8a-d840-abbe-7ffbfed10000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3fec-d274-a7f4-bfeded170001/52/29/99a7b6434477bb1e4e3984ed1cad/biderman-cartoon.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 322,
+    "topic": "קריקטורה של הארץ",
+    "category": "culture",
+    "story_summary": "קריקטורה של הארץ ללא תיאור זמין לסיכום.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Haaretz Cartoon",
+        "published": "Thu, 27 Aug 2026 00:30:38 +0300",
+        "summary": "",
+        "url": "https://www.haaretz.com/opinion/daily-cartoon/2026-08-27/ty-article-opinion/haaretz-cartoon/000001a0-3ff8-d268-a1fe-3ffccdde0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3fec-d274-a7f4-bfeded170001/52/29/99a7b6434477bb1e4e3984ed1cad/biderman-cartoon.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 321,
+    "topic": "תזוזות פוליטיות בקואליציה הימנית",
+    "category": "news",
+    "story_summary": "סקר חדש מראה ירידה בתמיכה בליכוד לטובת מפלגות ימין חדשות, כשהבלוק האנטי-נתניהו משיג 57 מנדטים לעומת 48 בקואליציה, ועם דיונים על איחוד מפלגות ימניות תחת הנהגת נתניהו.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Can this new far-right party threaten Netanyahu's path to victory?",
+        "published": "Thu, 27 Aug 2026 02:47:51 +0300",
+        "summary": "Coalition members warn that Smotrich voters could be wooed by the alternative offered by hardline former IDF general Ofer Winter, potentially keeping his Religious Zionism party out of the Knesset. Some sources say that Netanyahu could push for the two rival parties to join forces",
+        "url": "https://www.haaretz.com/israel-news/israel-politics/2026-08-27/ty-article/.premium/ofer-winters-new-party-threatens-smotrichs-survival-and-the-netanyahu-bloc/000001a0-3f8c-d02f-a9ed-7fefc2bf0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-39a6-d274-a7f4-bda741b90001/9f/32/855661b64094b885dbc2d6c5ea6a/ofer-winter.PNG?width=1200"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Poll: Likud sinks to 19 seats as new right-wing party falls below threshold",
+        "published": "Wed, 26 Aug 2026 23:11:57 +0300",
+        "summary": "According to the poll, Eisenkot's party wins 24 seats, while the anti-Netanyahu bloc reaches 57 seats, compared with 48 for the coalition. The Arab parties rise to 15 seats following the Joint List merger",
+        "url": "https://www.haaretz.com/israel-news/elections/2026-08-26/ty-article/poll-likuds-decline-continues-new-right-wing-party-fails-to-cross-threshold/000001a0-3f77-d1ec-a7ec-7fff54df0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3f99-d929-abec-ffd9b3100001/79/34/b2d9a76e4e4fa0deafaef0324d79/201789.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 320,
+    "topic": "התקפות צה״ל בדרום לבנון",
+    "category": "security",
+    "story_summary": "לפי דוחות לבנוניים, צה״ל ביצע תקיפות בדרום לבנון כחלק מהפעילויות הצבאיות בגבול הצפוני.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Lebanese report says IDF strikes in southern Lebanon",
+        "published": "Thu, 27 Aug 2026 04:47:18 +0300",
+        "summary": "",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-27/ty-article-live/board-of-peace-envoy-israel-must-honor-gaza-commitments-to-advance-cease-fire/000001a0-40db-d518-a5ad-ecdf14c90000",
+        "image": "https://img.haarets.co.il/bs/000001a0-400d-d02f-a9ed-5c6fbad00000/63/52/4b5bcd4242faa397300774b0e43e/207590.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 269,
+    "topic": "משבר דיפלומטי עם בריטניה, איטליה וגרמניה",
+    "category": "news",
+    "story_summary": "ישראל שוקלת להרחיק נציגים בריטיים, גרמנים ואיטלקיים ממרכז התיאום של שיקום עזה, בתגובה להביקורת אירופית על מדיניות הבנייה בE1 וגישתה בעזה והגדה. הצעד משקף התגברות משמעותית בקונפליקט הדיפלומטי עם המעצמות האירופיות הגדולות.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "בכירים דיפלומטיים: \"הסילוק מהמפקדה - טירוף. הממשלה חושבת שזה יוסיף לה קולות\"",
+        "published": "Thu, 27 Aug 2026 12:23:26 +0300",
+        "summary": "גורמים מדיניים אומנם הכחישו חלקית את הדיווח ב\"פייננשל טיימס\", וטענו כי אין כוונה לגרש את גרמניה ואיטליה ממרכז התיאום. עם זאת, הבהירו כי כל סנקציה בריטית נגד ישראל תוביל לתגובה. בכירים בי-ם מתחו ביקורת על סילוקה של הולנד: \"הממשלה חושבת ש'הברוגזים' האלה יוסיפו לה קולות בבחירות\"",
+        "url": "https://www.ynet.co.il/news/article/rjms4dpwge",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/29/BJ11kj4xeyWx/BJ11kj4xeyWx_1_29_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "ישראל שוקלת לגרש עוד נציגים מהמפקדה בקריית גת: \"עדות לשפל ביחסים עם המעצמות\"",
+        "published": "Thu, 27 Aug 2026 08:05:52 +0300",
+        "summary": "ישראל בוחנת גירוש של נציגים מבריטניה ממרכז התיאום, צעדים נשקלים גם נגד איטליה וגרמניה: \"תגובה על הביקורת של המדינות נגד מדיניות נתניהו\". בחודשים האחרונים סולקו נציגי ספרד והולנד",
+        "url": "https://www.ynet.co.il/news/article/by7e11spwzx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/18/Skx11KB0Yebe/Skx11KB0Yebe_0_176_3000_1689_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "דיווח: ישראל שוקלת לגרש נציגים בריטים מהמפקדה הבינלאומית לעזה",
+        "published": "Thu, 27 Aug 2026 09:01:00 GMT",
+        "summary": "לפי ה\"פייננשל טיימס\", בישראל דנו בשבועות האחרונים בהרחקת נציגי בריטניה ממרכז התיאום הרב-לאומי בקריית גת. צעדים דומים נשקלו גם נגד גרמניה ואיטליה, על רקע הביקורת האירופית על תוכנית הבנייה ב-E1 והחרפת הצעדים הבריטיים נגד ההתנחלויות",
+        "url": "https://news.walla.co.il/item/3863533",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/8/4/3984003-46.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Report: Israel considers expelling British officials from post-war Gaza coordination center",
+        "published": "Thu, 27 Aug 2026 11:43:19 +0300",
+        "summary": "This move comes amid criticism of Israel's policies in the West Bank and Gaza, the Financial Times reported, adding that Italy and Germany could also be targeted",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-27/ty-article/.premium/report-israel-considers-expelling-u-k-officials-from-gaza-coordination-center/000001a0-41ba-d02f-a9ed-5dfb95e90000",
+        "image": "https://img.haarets.co.il/bs/000001a0-4200-d02f-a9ed-5e6b419c0001/d7/80/8b09b95b4f11bdcc74d8ee9be512/whatsapp-image-2025-10-30-at-09-49-34-2.jpeg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 319,
+    "topic": "הפרדה בחינוך מיוחד של ילדי מהגרים לא-תועדים",
+    "category": "news",
+    "story_summary": "בתל אביב, ילדים של מבקשי מקלט לא-תועדים עם אי-ספיקויות למידה מוצבים בבתי ספר מופרדים, בעוד שילדים ישראלים עם בעיות דומות משולבים בבתי ספר רגילים.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Tel Aviv segregates undocumented children with learning disabilities from Israeli peers",
+        "published": "Thu, 27 Aug 2026 12:01:51 +0300",
+        "summary": "Special education placement is not dependent on registration zones, yet children of asylum seekers were sent to segregated schools while Israeli peers went to integrated ones. 'I feel like they threw my son in the trash,' said a mother",
+        "url": "https://www.haaretz.com/israel-news/2026-08-27/ty-article/.premium/undocumented-children-with-learning-disabilities-segragated-from-israeli-peers/000001a0-3ec6-d341-aff6-bfff71b60000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3eca-d02f-a9ed-7eeb756d0007/fe/d5/9a0c5d3e449ab5269d4ef1710cba/575424.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 318,
+    "topic": "התייקרות עוגות דבש לראש השנה",
+    "category": "business",
+    "story_summary": "רשתות קונדיטוריה בישראל העלו את מחירי עוגות הדבש המסורתיות לראש השנה בין 4% ל-15%, בגלל עליית מחירי חומרי גלם וכוח אדם.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "יותר עוקץ מאשר דבש: התייקרות של עד 15% בעוגות לראש השנה",
+        "published": "Thu, 27 Aug 2026 06:56:10 +0300",
+        "summary": "רשתות הקונדיטוריה העלו את מחירי עוגות הדבש, שמזוהות במיוחד עם ראש השנה, ב-4% עד 15% בהשוואה לחגי תשרי הקודמים. בעלי הרשתות מסבירים שההתייקרויות נובעות מעליית מחירי חומרי הגלם, הייצור, התפעול וכוח האדם, ‏בעוד אחרות טוענות שהעוגות שהתייקרו כלל אינן זהות לעוגות משנה שעברה. וגם: מי הצדיקים שלא העלו מחירים?",
+        "url": "https://www.ynet.co.il/economy/article/yokra14879041",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/yk14879747/yk14879747_0_73_1039_585_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 317,
+    "topic": "פרישת עובדים מיומנים מבריה״מ",
+    "category": "business",
+    "story_summary": "עשרות אלפי עובדים מיומנים שהגיעו מברית המועצות לשעבר בשנות התשעים מתקרבים לגיל הפנסיה, וזה מהווה אתגר משמעותי לתעשייה הישראלית שבה ריכוז גבוה במיוחד של עובדי הקבוצה הזו.",
+    "good_news_score": 3,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "גל העלייה הגדול מגיע לגיל פנסיה – ותעשיית ישראל עומדת לשלם את המחיר",
+        "published": "Thu, 27 Aug 2026 06:56:14 +0300",
+        "summary": "עשרות אלפי עובדים מיומנים שעלו מבריה\"מ לשעבר בשנות ה-90 מתקרבים לפרישה. בתעשייה שיעורם של ‏עולי בריה\"מ בני 60 ומעלה גבוה פי 2.3 מהממוצע במשק. נשיא התאחדות התעשיינים: הממשלה הבאה חייבת ‏לטפל בדחיפות",
+        "url": "https://www.ynet.co.il/economy/article/yokra14878920",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/B1yyG22wfe/B1yyG22wfe_1_108_960_540_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 316,
+    "topic": "קנסות דרישות ליבה שלא נגבו",
+    "category": "news",
+    "story_summary": "משרד החינוך הטיל קנסות וקיזוזים בהיקף 103 מיליון שקל על מוסדות חרדיים שנכשלו בעמידה בדרישות ליבה, אך בפועל לא גבה מהם כסף.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "המדינה שילמה על לימודי ליבה שלא נלמדו",
+        "published": "Thu, 27 Aug 2026 08:11:15 +0300",
+        "summary": "משרד החינוך הטיל במשך שנים קנסות וקיזוזים בהיקף של 103 מיליון שקל על מוסדות חרדיים שלא עמדו בדרישות הליבה, אבל המדינה מודה כי בפועל לא נגבה מהם שקל",
+        "url": "https://www.ynet.co.il/economy/article/s1fyib6pgx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/30/BkQ00JZCbR/BkQ00JZCbR_0_0_2000_1333_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 315,
+    "topic": "הנמכת מחיר הדלק",
+    "category": "business",
+    "story_summary": "מחיר הדלק שעלה בחדות החודש צפוי לרדת בספטמבר בכ-25 אגורות לכ-7.84 שקל לליטר, מה שיקל על הצרכנים לפני החגים.",
+    "good_news_score": 7,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "הוזלה משמעותית בדלק לפני החגים? צפוי לרדת מתחת לשמונה שקלים לליטר",
+        "published": "Thu, 27 Aug 2026 09:59:26 +0300",
+        "summary": "אחרי הזינוק החד במחיר הדלק החודש, מחירו יירד בספטמבר לפי ההערכות בכ-25 אגורות - לכ-7.84 שקל לליטר. מחירו הסופי ייקבע ביום ראשון בבוקר על פי מחירי הנפט ושער הדולר",
+        "url": "https://www.ynet.co.il/economy/article/s1btpitdml",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/03/21/ByMVX6tRT/ByMVX6tRT_0_0_800_450_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 314,
+    "topic": "משבר פולקסווגן",
+    "category": "business",
+    "story_summary": "חברת הרכב הגרמנית פולקסווגן נמצאת במשבר קיומי עקב כישלון בהסתגלות לשוק המשתנה, והיא מתכננת סגירת מפעלים וביטול עד 50 אלף מקומות עבודה.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "המשבר בפולקסווגן: העובדים חוששים מפיטורים של עוד 50 אלף איש",
+        "published": "Thu, 27 Aug 2026 10:52:36 +0300",
+        "summary": "המצב \"קריטי\" כמו שטוענים העובדים או רק \"חמור\" כמו שאומר המנכ\"ל? האמת שזה לא משנה איך מגדירים את המשבר, כי לכולם ברור שחברת הפאר הגרמנית פולקסווגן נמצאת בשפל חסר תקדים. מה על הפרק? פיטורי ענק בדרך, סגירת מפעלים והמשך חוסר היכולת להתמודד בשוק הרכב המשתנה",
+        "url": "https://www.ynet.co.il/economy/article/b1ijdx2vzx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/07/r1bl117lXzWe/r1bl117lXzWe_0_0_1600_901_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 313,
+    "topic": "עורכת דין במשפחה וגישור",
+    "category": "culture",
+    "story_summary": "קרול נורמן שבירו מנהלת משרד בוטיק המתמחה בדיני משפחה, גירושין ויורשה. דרך גישור רגיש ומלווה אנשים בצמתי חיים, היא עוזרת למשפחות רבות להתמודד עם הליכים מורכבים בהצלחה.",
+    "good_news_score": 7,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "בין דיני משפחה לדיני נפשות - \"אני לא מנהלת תיקים, אני מלווה אנשים בצמתי חיים\"",
+        "published": "Thu, 27 Aug 2026 11:30:47 +0300",
+        "summary": "כבר בגיל שש אימה של קורל נורמן שבירו סימנה אותה כעורכת דין לעתיד. כיום, כשהיא עומדת בראש משרד הבוטיק קורל נורמן שבירו - חברת עורכי דין וגישור, היא מנהלת במקצועיות וברגישות הליכים מורכבים של דיני משפחה, גירושין וירושה, ומצליחה לעשות זאת גם בדרך הגישור המצילה משפחות רבות. מאת: אורי גפן",
+        "url": "https://www.ynet.co.il/economy/article/r1saegowfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/HJBrBfOPGl/HJBrBfOPGl_771_86_1776_1000_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 312,
+    "topic": "פסק דין בכללי הפינוי-בינוי",
+    "category": "news",
+    "story_summary": "ביהמ\"ש קבע כי תוספת אחידה בהסכמי פינוי-בינוי עלולה להיות בלתי שוויונית וקיפוח לבעלי דירות גדולות, דבר שעלול לפתוח מחדש דיונים בתמורות ולהאריך משא ומתן עם דיירים.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "פסק הדין שמערער את כללי הפינוי-בינוי",
+        "published": "Thu, 27 Aug 2026 11:44:05 +0300",
+        "summary": "ביהמ\"ש ביקש למנוע קיפוח של בעלי דירות גדולות וקבע שתוספת אחידה שאינה שוויונית עלולה לפתוח מחדש את הדיון בתמורות, להאריך משא ומתן ולהקשות על ההתמודדות עם דיירים סרבנים",
+        "url": "https://www.ynet.co.il/economy/article/skjjlupdgl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/08/npco0t22y/npco0t22y_182_485_2422_1364_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 311,
+    "topic": "הפטור מחובות לנכה נפשית",
+    "category": "news",
+    "story_summary": "אישה בת 43 הסובלת מנכות נפשית, שהפסיקה לעבוד וגדלת לבדה שני ילדים, קיבלה פטור מיתר 411 אלף שקלים של חוב מהבית המשפט, שדחה את בקשת הנאמן לחזור 50 אלף שקל.",
+    "good_news_score": 7,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "בגלל נכות נפשית: קיבלה פטור מחובות של 411 אלף ש'",
+        "published": "Thu, 27 Aug 2026 11:44:38 +0300",
+        "summary": "בת 43 הפסיקה לעבוד בשל מצבה ומגדלת לבדה שני ילדים באמצעות קצבאות ומזונות. הנאמן ביקש שתחזיר 50 אלף שקל, אך ביהמ\"ש העניק לה הפטר לאלתר",
+        "url": "https://www.ynet.co.il/economy/article/hyozwdpdmg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/01/11/4393549/4393549_0_0_1000_667_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 310,
+    "topic": "זיכוי בהאשמת התקפה",
+    "category": "news",
+    "story_summary": "גבר הוגן מתיק התקפה שהגיש נגדו בן זוגו לשעבר במחלוקת עדויות. בעוד היא טענה שתפס בידה והטיל אותה בעוצמה לעיני בנם, הוא טוען שהיא נכשלה על חפצים שפוזרו על הרצפה, וביהמ״ש זיכה אותו מחמת הספק.",
+    "good_news_score": 3,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "ברקע סתירות בעדות: גבר זוכה מתקיפת פרודתו",
+        "published": "Thu, 27 Aug 2026 11:45:30 +0300",
+        "summary": "אם לשלושה טענה שבן זוגה לשעבר תפס בידה והטיח אותה בעוצמה לעיני בנם, אך לדבריו היא מעדה על חפצים שפוזרו על הרצפה. ביהמ\"ש זיכה אותו מחמת הספק",
+        "url": "https://www.ynet.co.il/economy/article/rjwx00dpvfx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/21/HJScBKgN1eg/HJScBKgN1eg_0_0_1000_563_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 309,
+    "topic": "דרישות משכורת לחיים נוחים בארה״ב",
+    "category": "business",
+    "story_summary": "מחקר של חברת SmartAsset בדק את דרישות ההכנסה השנתית להחיות בנוחות בכל מדינה בארה״ב, כאשר מסצ'וסטס מובילה בדרישה של 329,555 דולר לשנה למשפחה של ארבע נפשות, המחולקת ל-50% לצרכים בסיסיים, 30% למותרויות ו-20% לחיסכון.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "חושבים על רילוקיישן? זה השכר שתצטרכו להרוויח בשביל לחיות בנוחות בארה\"ב",
+        "published": "Thu, 27 Aug 2026 12:23:21 +0300",
+        "summary": "מחקר חדש של חברת הפינטק SmartAsset בדק כמה צריך להרוויח בשנה כדי לחיות בנוחות בכל מדינה בארצות הברית, כשההגדרה מבוססת על חלוקת ההכנסה ל-50% לצרכי בסיס, 30% למותרות ו-20% לחיסכון. מסצ'וסטס מובילה את הטבלה, ומשפחה בת ארבע נפשות תזדקק לשכר שנתי של 329,555 דולר בשנה. וגם: איפה הכי זול לחיות?",
+        "url": "https://www.ynet.co.il/economy/article/rjvcu8tvzl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/H1l26I6DMg/H1l26I6DMg_0_85_3000_1688_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 308,
+    "topic": "ניסוי תפיסה-על-חושית בירח",
+    "category": "tech",
+    "story_summary": "האסטרונאוט אדגר מיטשל ערך בשנת 1971 בזמן משימת אפולו 14 ניסוי בתפיסה-על-חושית שלא אישרה נאסא, שבו ניסה לשדר סמלים מהירח לכדור הארץ באמצעות מחשבה בלבד. אשתו לשעבר חושפת כעת פרטים חדשים על הניסוי שייחס אליו מיטשל משמעות עצומה.",
+    "good_news_score": 6,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "אשתו של האסטרונאוט חושפת: הניסוי הסודי על הירח והתוצאות המסתוריות בכדור הארץ",
+        "published": "Thu, 27 Aug 2026 00:24:00 GMT",
+        "summary": "בפברואר 1971, בזמן שאפולו 14 הייתה בדרכה בין כדור הארץ לירח, האסטרונאוט אדגר מיטשל ניצל את זמני המנוחה שלו לניסוי שאף אחד בנאס\"א לא אישר. בלי משדר, בלי ציוד מיוחד ובלי ליידע את סוכנות החלל, הוא ניסה לשלוח לכדור הארץ סמלים באמצעות המחשבה בלבד. מיטשל, טייס רכב הנחיתה והאדם השישי שהלך על הירח, הודה לאחר שובו כי ערך במהלך המשימה ניסוי בתפיסה על-חושית. אבל אניטה מיטשל, שנישאה לו לאחר אפולו 14 והתגרשה ממנו ב-1984, חושפת כעת פרטים אישיים חדשים על מה שהתרחש מאחורי הקלעים - כולל החוקרים שסייעו להכין את הניסוי והמשמעות העצומה שהוא ייחס לתוצאות. לדבריה, מיטשל האמין שהסיכוי לקבל את התוצאה במקרה היה \"שניים למיליארד\". החישוב הזה לא אומת באופן עצמאי, וגם מיטשל עצמו היה זהיר יותר כשדיבר בפומבי, אבל מבחינתו התוצאה הייתה משמעותית מספיק כדי להשפיע על מסלול חייו.",
+        "url": "https://news.walla.co.il/item/3862577",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/5/6/0/3560849-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 307,
+    "topic": "הגברת אבטחה בבתי כנסת בחגים",
+    "category": "world",
+    "story_summary": "מחלקת המדינה האמריקנית הורתה לנציגויותיה לעבוד עם ממשלות כדי להגביר אמצעי אבטחה, כולל נוכחות שוטרים וכוחות צבאיים, בבתי כנסת ומוסדות יהודיים בתקופת חגי תשרי.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "ארה\"ב למדינות העולם: הגבירו אבטחה סביב בתי כנסת בחגי תשרי",
+        "published": "Thu, 27 Aug 2026 02:29:00 GMT",
+        "summary": "מחלקת המדינה האמריקנית הורתה לנציגויותיה בעולם לפנות לממשלות ולדרוש הצבת שוטרים ואף כוחות צבאיים במקומות בהם יתקיימו אירועי חג. ההנחיה כוללת בתי כנסת, מוסדות יהודיים, אזורי מגורים ומסלולי הליכה לתפילות. במקביל, ניתנה הוראה להעביר התרעות על איומים בשבתות",
+        "url": "https://news.walla.co.il/item/3863498",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/1/2/3712123-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 306,
+    "topic": "פטירת יאיוי קוסמה, אמנית יפנית מפורסמת",
+    "category": "culture",
+    "story_summary": "האמנית היפנית יאיוי קוסמה, שנחשבת לאחת מ-100 האנשים המשפיעים ביותר בעולם על פי מגזין טיים, נפטרה בגיל 97 לאחר קריירה ארוכה ומשפיעה בתחום האומנות הגלובלי.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "האמנית היפנית יאיוי קוסמה נפטרה בגיל 97",
+        "published": "Thu, 27 Aug 2026 05:00:00 GMT",
+        "summary": "קוסמה היא אחת מהאמנים הפופולריים בעולם, ונחשבה ל\"מותג עולמי\" גם בשנות התשעים לחייה. בשנת 2016 היא נבחרה על ידי מגזין טיים לאחד מ-100 האנשים המשפיעים ביותר. האסתטיקה הממגנטת והמשחקית של יצירתה קשורה קשר הדוק למחלת הנפש עמה התמודדה מאז ילדותה",
+        "url": "https://e.walla.co.il/item/3863500",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/2/1/6/1/2161779-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 277,
+    "topic": "תאונות דרכים קטלניות",
+    "category": "news",
+    "story_summary": "תאונות דרכים קטלניות גרמו למותם של שני אנשים: רוכב אופנוע בן 25 בחדרה והולך רגל בן 60 בטייבה שנדרס ממשאית. הולך הרגל נמצא ללא הכרה עם פציעות קשות ומותו נקבע בזירה.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "רוכב אופנוע נהרג בחדרה, גבר נדרס למוות על ידי משאית בטייבה",
+        "published": "Thu, 27 Aug 2026 07:21:19 +0300",
+        "summary": "רוכב האופנוע בן 25 החליק במהלך נסיעה בכביש 4, פונה לבית חולים במצב קשה - שם נקבע מותו. בטייבה נקבע מותו של בן 60 שנפגע ממשאית",
+        "url": "https://www.ynet.co.il/news/article/bkosle6dfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/BJW9F4pvGg/BJW9F4pvGg_0_85_448_252_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "הולך רגל כבן 60 נהרג מפגיעת משאית בטייבה",
+        "published": "Thu, 27 Aug 2026 06:56:00 GMT",
+        "summary": "הולך רגל כבן 60 נהרג הבוקר (חמישי) לאחר שנפגע ממשאית בטייבה. צוותי מד\"א שהוזעקו למקום מצאו אותו כשהוא מחוסר הכרה וסובל מחבלה רב-מערכתית, ונאלצו לקבוע את מותו במקום. בשעה 06:40 התקבל דיווח במוקד 101 של מד\"א במרחב ירקון על הולך רגל שנפגע ממשאית בעיר. חובשים ופראמדיקים שהגיעו לזירה ביצעו בגבר בדיקות רפואיות, אך הוא היה ללא דופק וללא נשימה ומותו נקבע במקום.",
+        "url": "https://news.walla.co.il/item/3863505",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093070-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 305,
+    "topic": "תקיפה אלימה באילת",
+    "category": "news",
+    "story_summary": "תושב אילת ספג מכות וקטלי צלעות לאחר שהעיר לאחד המעורבים על הישיבה בתוך רכבו. שבעה חשודים, כולל שלושה קטינים, נעצרו בחשד לתקיפה אלימה.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "מכות ואגרופים: תושב אילת העיר לאחד החשודים לאחר שנכנס לרכבו ועבר לינץ' | פרסום ראשון",
+        "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "יחידת התביעות המשטרתית באילת הגישה אמש (רביעי) הצהרת תובע נגד שבעה חשודים, בהם שלושה נערים, בחשד לתקיפת תושב העיר באמצע החודש. בימים הקרובים צפויים להיות מוגשים נגדם כתבי אישום ובקשות למעצרם עד תום ההליכים המשפטיים. האירוע התרחש ב-15 באוגוסט, אז החנה תושב אילת את רכבו בסמוך לבית עסק ונכנס למקום. כשיצא, הבחין באחד המעורבים כשהוא יושב בתוך רכבו. לאחר שהעיר לו, התפתח עימות שבמהלכו הותקף על ידי כמה מהמעורבים באגרופים ובעיטות.",
+        "url": "https://news.walla.co.il/item/3863476",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/4/3/4043102-46.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "העיר להם ליד רכבו - והותקף באגרופים ובעיטות: תיעוד קשה מהלינץ' באילת",
+        "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "summary": "בתיעוד נראה תושב העיר כשהוא יוצא מבית העסק ומבחין באחד המעורבים יושב ברכבו, מעיר לו - ומותקף באכזריות בידי החבורה. הוא פונה לבית החולים עם חבלות ושברים בצלעות. שבעה חשודים, בהם שלושה קטינים, נעצרו ובימים הקרובים צפויים להיות מוגשים נגדם כתבי אישום",
+        "url": "https://news.walla.co.il/item/3863535",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093112-46.png"
+      }
+    ]
+  },
+  {
+    "story_id": 304,
+    "topic": "קטטה אלימה בפאב באשדוד",
+    "category": "news",
+    "story_summary": "קטטה אלימה בפאב ידוע באשדוד הובילה לסגירת המקום בצו מנהלי של 6 ימים, כשבעלי העסק חשודים בהשתתפות באירוע, כחלק מסדרה של אלימות בדרום הארץ.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "קטטה הובילה לסגירת פאב מוכר באשדוד - הבעלים חשודים בהשתתפות",
+        "published": "Thu, 27 Aug 2026 07:24:00 GMT",
+        "summary": "פרסום ראשון: המשטרה סגרה בצו מנהלי לפרק זמן של 6 ימים את מקום הבילוי הידוע בעיר, לאחר שדווח על אירוע אלימות שהתרחש במקום בו היו מעורבים אזרחים ובעלי העסק. האירוע הזה נוסף לשורה של קטטות אלימות שקרו בימים האחרונים באזור הדרום",
+        "url": "https://news.walla.co.il/item/3863484",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093054-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 303,
+    "topic": "מגעים סודיים של נתניהו עם חמאס",
+    "category": "news",
+    "story_summary": "במהלך מבצע צוק איתן בשנת 2014 ניהל ראש הממשלה בנימין נתניהו מגעים ישירים עם בכיר ארגון חמאס רازי חמד, תוך התחקות מהמערכת הביטחונית בעזרת איש העסקים שלומי פוגל.",
+    "good_news_score": 3,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "מאחורי גבה של מערכת הביטחון: המגעים הישירים שניהל נתניהו עם חמאס",
+        "published": "Thu, 27 Aug 2026 08:07:00 GMT",
+        "summary": "בעיצומו של מבצע צוק איתן ב-2014 ניהל ראש הממשלה מגעים ישירים עם בכיר ארגון הטרור ראזי חמד מאחורי גבה של המערכת (כולל הרמטכ\"ל וראש המוסד) באמצעות מקורבו, איש העסקים שלומי פוגל",
+        "url": "https://news.walla.co.il/item/3863521",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/1/7/5/2/1752885-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 302,
+    "topic": "מחקר על הכשות נחשים ברחבי העולם",
+    "category": "culture",
+    "story_summary": "מחקר חדש של חוקרים בריטיים חושף כי למרות הסטריאוטיפ של אוסטרליה, דווקא 20 מדינות בלבד הן אחראיות על 75% מהכשות הנחש בעולם, עם אומדן של 2.1-7 מיליון הכשות שנתיות וכ-274 אלף עד 513 אלף מוות.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "זו המדינה שיש בה הכי הרבה הכשות נחש, והישראלים מתים עליה",
+        "published": "Thu, 27 Aug 2026 08:12:00 GMT",
+        "summary": "אוסטרליה נחשבת לאחת המדינות המזוהות ביותר בעולם עם נחשים, עכבישים ושאר יצורים שעלולים לגרום לתייר הממוצע לחשוב פעמיים לפני שהוא יוצא לטבע. אלא שמחקר חדש מגלה כי כשמדובר בהכשות נחשים, דווקא מדינות אחרות נמצאות הרבה יותר גבוה ברשימה. חוקרים מבית הספר לרפואה טרופית בליברפול בבריטניה בחנו נתונים מ-79 מדינות, שנאספו בין ינואר 2007 למרץ 2025, וניסו להעריך היכן מתרחשות הכי הרבה הכשות נחשים מדי שנה. לפי המחקר, שפורסם בכתב העת PLOS Medicine, בין 2.1 ל-7 מיליון בני אדם בעולם מוכשים מדי שנה על ידי נחשים ארסיים. בין 274 אלף ל-513 אלף מהמקרים מסתיימים במוות. הנתון המפתיע במיוחד: 75% מההכשות מתרחשות ב-20 מדינות בלבד. עוד על הכשות נחש: לידיעת המטיילים: כך תימנעו מהכשת נחש בטיול נחש קוברה זחל למכנסיו של תייר במצרים - והכיש אותו למוות טייל במדבר, נאחז בסלע והבין שנגע בנחש הכי ארסי בישראל",
+        "url": "https://travel.walla.co.il/item/3863348",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092810-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 301,
+    "topic": "התרסקות כלי טיס באיטליה",
+    "category": "world",
+    "story_summary": "כלי טיס קל התרסק בצפון איטליה לאחר התנגשות בכבלי רכבל של סכר, והתלקח באוויר. שני הנוסעים, טייס בן 62 ונוסעת בת 63, נהרגו במקום.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "\"ראיתי כדור אש בשמיים\": שני הרוגים בהתרסקות כלי טיס באיטליה",
+        "published": "Thu, 27 Aug 2026 09:05:00 GMT",
+        "summary": "כלי הטיס הקל פגע ככל הנראה בכבלי רכבל המשמש לתפעול סכר בצפון איטליה, התלקח באוויר והתרסק סמוך לאגם מלאכותי באזור הררי. הטייס בן ה-62 ונוסעת בת 63 נהרגו במקום. הרשויות פתחו בחקירת נסיבות התאונה ובודקות את נתיב הטיסה והאישורים שניתנו לו",
+        "url": "https://news.walla.co.il/item/3863538",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093091-46.gif"
+      }
+    ]
+  },
+  {
+    "story_id": 300,
+    "topic": "קטטה בחתונה",
+    "category": "news",
+    "story_summary": "חתונה בווסטלייק, אוהיו הפכה לזירת קטטה בין שתי משפחות, עם אורחים בורחים, כלים מתעופפים, שני פצועים בבית החולים ושלוש עצירות.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "צפו: החתונה הפכה לקרב בין שתי משפחות - ואז מישהו שלף נשק מפתיע",
+        "published": "Thu, 27 Aug 2026 09:06:00 GMT",
+        "summary": "זה התחיל כריקודים בחתונה ונגמר בעשרות אורחים מבוהלים שנמלטים מהאולם, כיסאות שמתעופפים באוויר, שני פצועים בבית החולים ושלושה עצורים. הסיבה, לפי המשטרה, לא הייתה יותר מדי אלכוהול או ויכוח שיצא משליטה - אלא סכסוך ישן בין שתי משפחות שנפגשו במקום הלא נכון ובזמן הלא נכון. המהומה פרצה ביום שישי בערב באולם האירועים La Centre בעיר ווסטלייק שבאוהיו, כ-23 ק\"מ ממערב לקליבלנד. בסביבות 20:50 התקבלו במשטרה כמה דיווחים על קטטה גדולה בתוך אולם הנשפים, ועד שהשוטרים הגיעו היא כבר גלשה אל מחוץ לבניין. אחד האורחים סיפר לשוטר במצלמת הגוף שלו מה קרה מבחינתו: \"רקדנו, וארבעה אחים קפצו עלינו\". אבל אז הקטטה קיבלה תפנית ביזארית במיוחד.",
+        "url": "https://news.walla.co.il/item/3863539",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093095-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 299,
+    "topic": "גל עלייה משפחות מצפון אמריקה",
+    "category": "news",
+    "story_summary": "בעונה היוצאת לדופן זו, מעלה מ-1,100 עולים מצפון אמריקה הגיעו לישראל בחודש אוגוסט. צפויים לנחות כ-2,200 עולים חדשים בין יוני לספטמבר, כולל כ-480 משפחות הממילים אמצעים דרך כ-100 טיסות קבוצתיות.",
+    "good_news_score": 8,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "קיץ של עלייה: למעלה מ-1,100 עולים מצפון אמריקה הגיעו במהלך חודש אוגוסט לישראל",
+        "published": "Thu, 27 Aug 2026 09:26:00 GMT",
+        "summary": "כ-150 עולים יגיעו במהלך היום לישראל ב-6 טיסות שונות, במסגרת עונת עלייה מרשימה במיוחד. למעלה מ-2,200 עולים חדשים, בהם כ-480 משפחות, צפויים לנחות בישראל בין החודשים יוני לספטמבר. העולים החדשים יגיעו באמצעות כ-100 טיסות קבוצתיות מרחבי ארה\"ב וקנדה",
+        "url": "https://news.walla.co.il/item/3863548",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093086-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 298,
+    "topic": "דוגמנית אונליפאנס בהליכים משפטיים",
+    "category": "news",
+    "story_summary": "דוגמנית אונליפאנס ישראלית נאשמת בסדרת גניבות מגברים ונשים אמידים שהכירה ברשת. לאחר התפרצות רגשית בבית המשפט בלוס אנג'לס, הוקפא ההליך להערכה נפשית.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "\"אני לא יכולה לשרוד בכלא\": דוגמנית האונליפאנס הישראלית פרצה בבכי בבית המשפט",
+        "published": "Thu, 27 Aug 2026 09:34:00 GMT",
+        "summary": "אדוה לביא, המוכרת בשם מיה ונטורה, בכתה וצעקה בבית המשפט בלוס אנג'לס וטענה כי היא מוכה בכלא. לאחר שסנגורה העלה ספק בדבר כשירותה לעמוד לדין, הוקפא ההליך והיא תובא לבית המשפט לבריאות הנפש. לביא נאשמת בשורת גניבות מגברים אמידים ומנשים שהכירה ברשת",
+        "url": "https://news.walla.co.il/item/3863547",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/5/9/3959438-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 297,
+    "topic": "ג'יי זי חוזר בגדול",
+    "category": "culture",
+    "story_summary": "הראפר הגדול ג'יי זי מחזיר קריירה בחזרה משמעותית עם חנות פופ אפ בלונדון ופריטי אספנות בלעדיים, במקביל לסדרת הופעות גדולות כולל קונצרטים באצטדיון יאנקי.",
+    "good_news_score": 8,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "ג'יי זי חוזר ועוד הכי בגדול שיש: אבל למה דווקא עכשיו?",
+        "published": "Thu, 27 Aug 2026 10:00:00 GMT",
+        "summary": "הראפר האגדי ג'יי זי יפתח היום (חמישי) פופ אפ ב- UMusic Shop בקמדן, לונדון רגע ויפעל עד השני בספטמבר רגע לפני סדרת הופעות שיערוך במדינה. במתחם ימכרו פריטי אספנות בלעדיים למדינה וגם ספרו של הראפר. הקאמבק הגדול החל כבר בסט הענק שנתן בסוף חודש מאי ב-Roots Picnic בפילדלפיה שנמשל גם בתחילת חודש יולי לשלושה הופעות נוספות באצטדיון יאנקי. החזרה הגדולה, אולי ממוסגר בתור חגיגות שלושים שנה לקריירה של ג'יי זי - אבל קשה שלא לתהות האם הניסיון לשליטה בנרטיב שנוצר סביבו בתקופה האחרונה.",
+        "url": "https://e.walla.co.il/item/3863486",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/4/4064365-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 276,
+    "topic": "תקרית חנייה אלימה",
+    "category": "news",
+    "story_summary": "לאחר ויכוח על חנייה בין נהג לקצינת שב\"ס, תקפוהו שלוש נשים בעזרת אלות וברזל. כעת פורסם תיעוד וידאו של ההתקיפה המתעדת את השבירת שמשות הרכב והתקיפה האלימה.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "נהג התווכח עם קצינת שב\"ס על חנייה - אחותה תקפה אותו באלות | תיעוד",
+        "published": "Thu, 27 Aug 2026 08:39:55 +0300",
+        "summary": "מחקירת משטרה עולה כי קצינת שב\"ס, שהתווכחה על מקום חנייה עם נהג אחר, יצרה קשר עם אחותה שהגיעה למקום עם שתי נשים נוספות - ואלו הכו אותו קשות. כתב אישום הוגש נגד שלוש מהמעורבות, הקצינה נחקרה באזהרה ושוחררה",
+        "url": "https://www.ynet.co.il/news/article/s1uqisppzg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/HkNj5SpPMl/HkNj5SpPMl_0_0_848_480_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "\"אנחנו נגמור אותך\": תיעוד התקיפה באלות בעקבות ויכוח על חניה",
+        "published": "Thu, 27 Aug 2026 10:01:00 GMT",
+        "summary": "טוהר עמית דויד, בן 25 מכפר יונה, שחזר לוואלה את התקיפה שעבר לאחר ויכוח על חניה עם קצינת שב\"ס. בתיעוד שהובא לידי וואלה נראות שלוש צעירות חוסמות את רכבו, מנפצות את שמשותיו ותוקפות אותו באלות ובמוט ברזל. \"מאז אני בחרדות, מפחד לחזור הביתה\"",
+        "url": "https://news.walla.co.il/item/3863561",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093134-46.gif"
+      }
+    ]
+  },
+  {
+    "story_id": 296,
+    "topic": "סערה פוליטית על ערוצים חשאיים",
+    "category": "news",
+    "story_summary": "יו\"ר ישר! תקף את נתניהו בעקבות חשיפה על ערוץ תקשורת חשאי מול חמאס, וטען כי זה מתבטא בשיטה מסוכנת לביטחון ישראל ולא בשגיאה חד פעמית.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "איזנקוט בעקבות חשיפת וואלה: \"כעת מתבהר מדוע נתניהו בקרב חייו נגד ועדת חקירה\"",
+        "published": "Thu, 27 Aug 2026 10:23:00 GMT",
+        "summary": "יו\"ר \"ישר!\" תקף את נתניהו בעקבות חשיפת וואלה על הערוץ החשאי מול חמאס והדגיש כי מדובר בתרבות, ולא במקרה בודד: \"מדובר בשיטה שתוצאותיה ידועות לכל\". ליברמן הוסיף: \"רה\"מ שקיים קשרים חשאיים מאחורי הגב של מערכת הביטחון. נתניהו מסוכן לביטחון ישראל\"",
+        "url": "https://news.walla.co.il/item/3863563",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/5/4085071-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 295,
+    "topic": "התפתחות תיירות בקיבוץ דפנה",
+    "category": "culture",
+    "story_summary": "קיבוץ דפנה בגליל מתפתח כמיקד תיירות משגשג, עם מתחם מסחרי חדש המציע אטרקציות לטיילים ותושבים מקומיים, במטרה להעלות את התיירות לאחר תקופה ארוכה של קיפאון.",
+    "good_news_score": 7,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "כולם נוהרים לקיבוץ הגלילי הזה. אחרי שהיינו, הבנו גם למה",
+        "published": "Thu, 27 Aug 2026 10:30:00 GMT",
+        "summary": "יש מקומות שלא צריך להמציא להם אטרקציה. מספיק להחזיר אותם לחיים. כשטיילנו בנחלי הצפון או בירידה מהגולן, תמיד עצרנו בקיבוץ דפנה. ותיקי הקיבוץ, שהקימו אותו בסוף ימי \"חומה ומגדל\" ב-1939, ודאי לא חשבו ש-80 ומשהו שנים לאחר מכן הוא יהפוך למיני-מפלצת תיירותית שתולים בה תקוות לא פחות מהאבוקדו ודגי הפורל שגדלים בנחל הדן. עוד לפני ש\"גן הצפון\" היה בכלל קיים והתפתח למה שהוא היום, היה בדפנה את קפה \"קוקיה\" ואת ה\"פיצה טראק\" - אולי הפוד טראק הראשון בצפון, וכל המטיילים, חיילים, סטודנטים באזור באו לשם. והיה גם את פאב \"הפטריה\" בקיבוץ דן שוותיק משניהם, וזהו (אני לא מחשיב את קניון נחמיה בצומת כביש 90 ו-99). מאז עברו איזה שני עשורים ובקיבוץ דפנה, שסמוך לקריית שמונה ולנחלי הבניאס והדן, הולך ונרקם משהו שנראה כמו מתחם מסחרי שהוא נטו תיירות למטיילים, וכן גם למקומיים. אחרי תקופה ארוכה שבה המלחמה עצרה כמעט הכול, הקיבוץ מנסה להפוך את התיירות למארג שלם - כזה שיגרום למבקרים להגיע, לאכול, לטייל, לישון ובעיקר להישאר עוד קצת. זהו \"דפנהל'ה\".",
+        "url": "https://travel.walla.co.il/item/3862601",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092922-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 294,
+    "topic": "מוות מסתורי של אלדר דיין",
+    "category": "news",
+    "story_summary": "אלדר דיין נמצא מת בנסיבות ערומות לאחר שהופעיל חקירה של שבעה חשודים שהשתחררו למעצר בית. עדים המצביעים על תיאור אחר של האירוע מתייחסים לחוסר הבהירות בנסיבות מותו.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "מי שראה את אלדר דיין לפני מותו: \"הוא הלך ודיבר, לא נראה פצוע ברמה שיתמוטט וימות\"",
+        "published": "Thu, 27 Aug 2026 10:34:00 GMT",
+        "summary": "אחרי שכל שבעת החשודים בפרשה שוחררו למעצר בית וסיבת המוות נותרה ללא תשובה, איש צוות בתחנת הדלק ילו שראה את אלדר דיין זמן קצר לפני שנעלם תוהה: \"איך הוא עומד פה, מדבר והולך, ואז נמצא מת מטרים מכאן? אלה שאלות שפשוט לא נותנות מנוח\"",
+        "url": "https://news.walla.co.il/item/3863566",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/3/4083859-46.png"
+      }
+    ]
+  },
+  {
+    "story_id": 281,
+    "topic": "משבר מערכת החינוך",
+    "category": "news",
+    "story_summary": "מערכת החינוך בישראל ממשיכה להתמודד עם משברים קיומיים, כשטענות שר החינוך יואב קיש על שיפור המצב עומדות בניגוד לעדויות מנהלי בתי ספר המצביעות על בעיות ומחסור מתמשך בעובדי הוראה.",
+    "good_news_score": 3,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "הציון העלוב הוא שלנו",
+        "published": "Thu, 27 Aug 2026 00:37:50 +0300",
+        "summary": "בתוך שנים של מגפה, מלחמה בלתי נגמרת, ויוקר מחיה לא נתפס, לא שמנו לב לשפל חסר התקדים שאליו הגיעה מערכת החינוך. אם אנחנו באמת דואגים לעתיד המדינה והילדים שלנו, כדאי שלקראת הבחירות נסביר למתמודדים מה הכי חשוב כאן",
+        "url": "https://www.ynet.co.il/news/article/yokra14879892",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/10/HyJM11hIZMl/HyJM11hIZMl_0_0_1280_923_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "קיש הבטיח ששנת הלימודים תיפתח כסדרה, מנהלים מחו נגדו בדיון",
+        "published": "Thu, 27 Aug 2026 10:38:00 GMT",
+        "summary": "ימים לפני פתיחת שנת הלימודים הצהיר שר החינוך יואב קיש כי המצב טוב משמעותית מהשנה שעברה ולא צפוי מחסור חריג במורים. ח\"כים הציגו עדויות על מחסור בשטח ומנהלים מחו. בתשפ\"ז ילמדו 2.6 מיליון תלמידים ויעבדו כ-260 אלף עובדי הוראה",
+        "url": "https://news.walla.co.il/item/3863568",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/4/1/3941787-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 293,
+    "topic": "חקירה בעניין סחר בנשק",
+    "category": "news",
+    "story_summary": "בן של ראש ארגון פשע חשוד בסחר בנשק וסיפוח רימונים לעבריינים, שלכאורה השתמשו בהם לתקיפות סניפי עסקים. תובע הגיש הצהרה כנגדו וצפוי כתב אישום בימים הקרובים.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "סחר בנשק וסייע בתקיפות סניפי ג'פניקה: הצהרת תובע נגד בנו של ראש ארגון הפשע",
+        "published": "Thu, 27 Aug 2026 10:40:00 GMT",
+        "summary": "אחמד חרירי, בנו של ראש ארגון הפשע חרירי, חשוד כי סחר בנשק וסיפק רימונים לעבריינים המזוהים עם מוסלי, ששומשו על פי החשד לתקיפות נגד ג'רושי סניפי ג'פניקה. הצהרת תובע הוגשה, ובימים הקרובים צפוי כתב אישום | צפו באמל\"ח שלפי החשד עבר מיד ליד בין העבריינים",
+        "url": "https://news.walla.co.il/item/3863571",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093144-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 292,
+    "topic": "עלייה של מפלגת קיצונית בגרמניה",
+    "category": "world",
+    "story_summary": "מפלגת AfD הימנית קיצונית רושמת זינוק בסקרים לקראת הבחירות המקומיות בגרמניה, כשמנהיגיה מבטיחים שינויים בתוכניות חינוך ותרבות. תושבים מודאגים מהעלייה של אידיאולוגיות אנטי-דמוקרטיות ודורשים שימור זיכרון השואה.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "מגמה מדאיגה? מפלגת הימין הקיצוני שעשויה לעשות היסטוריה בגרמניה",
+        "published": "Thu, 27 Aug 2026 11:01:00 GMT",
+        "summary": "רגע לפני הבחירות המקומיות - מפלגת ה-AfD רושמת זינוק בסקרים. מנהיג המפלגה מבטיח \"שינוי בתוכניות האומנות והחינוך\" - והסרת התוכניות ה\"אנטי-פטריוטיות\". תושבים במדינה מודאגים מאידיאולוגיות אנטי דמוקרטיות, ודורשים שימור של זיכרון השואה",
+        "url": "https://news.walla.co.il/item/3863583",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093159-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 291,
+    "topic": "תייר אוסטרלי נעצר בבאלי על מעשים מיניים בציבור",
+    "category": "culture",
+    "story_summary": "תייר אוסטרלי בן 27 נעצר בשדה התעופה בבאלי לאחר שתיעודו וידאו בו הוא כביכול קיים מעשים מיניים במקום ציבור, בעוד החיפושים אחר האישה שהייתה עמו עדיין בעיצומם.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "תייר נעצר לאחר שעשה סקס בפומבי, בתיעוד שהפך ויראלי",
+        "published": "Thu, 27 Aug 2026 11:24:00 GMT",
+        "summary": "תייר אוסטרלי בן 27 נעצר בשדה התעופה בבאלי רגע לפני שעלה על טיסה לבריסביין, לאחר שסרטון שבו תועד לכאורה מקיים מעשים מיניים במקום ציבורי הפך לוויראלי. האישה שהייתה עמו בתיעוד עדיין לא אותרה, והרשויות באינדונזיה ממשיכות בחיפושים אחריה. הטרנד החדש בחופשות של ישראלים בחו\"ל: סקס עם מקומי המקרה התרחש ב-22 באוגוסט בכפר טיבובננג (Tibubeneng), באזור צפון קוטה שבבאלי, סמוך לאזור התיירות הפופולרי צ'אנגו. לפי המשטרה, מצלמות אבטחה תיעדו את הגבר, בילי אספינל, בן 27 מקולום ביץ' שבאוסטרליה, יחד עם אישה שזהותה עדיין לא ידועה. על פי החשד, השניים ביצעו מעשים מיניים במשך כ-15 דקות בסמוך לבית מגורים. תושבת מקומית שעברה במקום בדרכה לתפילה הבחינה בהם, צעקה לעברם וביקשה שיפסיקו. לאחר מכן השניים עזבו את המקום. עוד בנושא: לא הצליחו להתאפק: הזוג שהתחרמן בטיסה מול כולם - ושילם ביוקר 3 ימים של גניחות: פסטיבל סקס עורר תלונות על רעש בעיירה סמוכה \"אי הסקס\": החברה שמציעה ללקוחותיה גולף, סוסים - ו-60 נשים",
+        "url": "https://travel.walla.co.il/item/3863586",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093160-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 290,
+    "topic": "איומים רוסים על בעלויות ברית מערביות",
+    "category": "world",
+    "story_summary": "רוסיה מאיימת על בריטניה וצרפת בגלל הרחבת סיועם הצבאי לאוקראינה, כולל עזרה בייצור טילי Storm Shadow. לצד זאת, דווחה על התקפה רוסית בכלי טיס ללא אנוש על הקומפלקס הגרעיני בזפורוז'יה.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "\"משחקות באש\": רוסיה מאיימת על בריטניה וצרפת",
+        "published": "Thu, 27 Aug 2026 11:51:00 GMT",
+        "summary": "מוסקבה מגיבה בחריפות להרחבת הסיוע הצבאי לקייב ומזהירה את לונדון ופריז מההשלכות. בריטניה צפויה לסייע לאוקראינה בייצור עצמי של טילי Storm Shadow ארוכי טווח. במקביל, רוסיה דיווחה על תקיפת כטב\"ם במתחם הגרעיני בזפורוז'יה",
+        "url": "https://news.walla.co.il/item/3863603",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/0/4090592-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 289,
+    "topic": "גבר עבר הליך הגדלה רפואי",
+    "category": "culture",
+    "story_summary": "גבר מצפון קרוליינה שטוען שיש לו את הפין הקטן ביותר בעולם עבר הליך הזרקת חומר מילוי להגדלת ההיקף. לדבריו, ההליך שיפר משמעותית את איכות חייו, כולל הקלה בקשיים בהטלת שתן.",
+    "good_news_score": 6,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "האיש עם \"הפין הכי קטן בעולם\" עבר הליך הגדלה - וזה מה שקרה",
+        "published": "Thu, 27 Aug 2026 15:19:00 GMT",
+        "summary": "לפני כחודש וחצי סיפרנו לכם על מייקל פיליפס, האיש שטוען כי יש לו את \"הפין הכי קטן בעולם\" וביקש מהציבור לעזור לו לממן הליך הגדלה. עכשיו הוא כבר יכול לספר מה קרה אחרי שהתרומות הגיעו: ביום שני האחרון הוא עבר את ההליך - ולדבריו, השינוי מורגש כבר עכשיו. פיליפס, בן 38 מצפון קרוליינה, טוען כי איבר מינו מגיע לאורך של כ-0.97 ס\"מ בלבד בזקפה. הוא אובחן לדבריו עם מיקרו-פין, ובמשך שנים סיפר שהמצב מקשה עליו ביחסים אינטימיים, פוגע בביטחון העצמי שלו ובעיקר הופך פעולה יומיומית פשוטה כמו הטלת שתן למסובכת ומתסכלת. הפעם הוא לא עבר ניתוח להארכת הפין. במהלך ביקור שנמשך כשלוש שעות בבית חולים בצפון קרוליינה הוזרק לאיבר מינו חומר מילוי עורי חצי-קבוע שנועד להגדיל את ההיקף. פיליפס סיפר ל-TMZ כי הצוות מרח תחילה חומר מאלחש, הזריק חומר הרדמה ולאחר מכן ביצע כמה הזרקות של חומר המילוי מכל צדי הפין. והשינוי הראשון מבחינתו בכלל לא קשור לסקס. לדבריו, במצב רפוי איבר מינו נהג להתכווץ פנימה כמעט לחלוטין, מה שהקשה עליו מאוד להטיל שתן. מאז ההליך, הוא טוען, האיבר נשאר בחוץ וההליכה לשירותים הפכה לנוחה משמעותית יותר.",
+        "url": "https://news.walla.co.il/item/3862293",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/0/4090851-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 288,
+    "topic": "סנקציות אמריקאיות על Palestine Action",
+    "category": "world",
+    "story_summary": "ארצות הברית הצטרפה לבריטניה והטילה סנקציות קשות על ארגון Palestine Action שהוביל הפגנות ענק נגד ישראל וביצע פעולות אלימות. הסנקציות מטרתן לחנוק את יכולת הארגון להמשיך בפעילותו.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "ארה\"ב הכריזה על Palestine Action כארגון טרור: \"נחסל את השמאל הקיצוני\"",
+        "published": "Wed, 26 Aug 2026 21:04:29 +0300",
+        "summary": "וושינגטון מצטרפת לבריטניה ומטילה סנקציות חונקות על הארגון הפרו-פלסטיני שהוביל הפגנות ענק נגד ישראל וביצע פעולות אלימות, כולל הסתערות על מפעלי אלביט והשחתת מטוסים של חיל האוויר הבריטי. כל מי שיעשה איתו עסקים יסתכן מעתה בעיצומים בעצמו, שר האוצר: \"ננתק את צינורות החמצן שלהם\"",
+        "url": "https://www.ynet.co.il/news/article/skx6njhpml",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/15/BkDa59abfl/BkDa59abfl_0_0_3000_1689_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 287,
+    "topic": "סירוב פקודה בעזה",
+    "category": "security",
+    "story_summary": "לוחמי גבעתי סירבו לצאת למשימה דחופה ברצועת עזה, אף לאחר קבלת הסכמת מפקדי הבטליון והחטיבה. המשימה בוטלה והלוחמים צפויים לעמוד לדין משמעתי.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "הפרמדיקית הצטרפה לכוח בעזה באישור הרב - אך לוחמי גבעתי סירבו פקודה",
+        "published": "Wed, 26 Aug 2026 21:41:06 +0300",
+        "summary": "כוח גבעתי שמורכב מבני ישיבות נדרש לצאת למשימה דחופה ברצועת עזה - וסירב גם אחרי שיח עם המ\"פ ואישור מרב החטיבה. המשימה בוטלה והם צפויים לעמוד לדין משמעתי",
+        "url": "https://www.ynet.co.il/news/article/ryppfjhdme",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/02/rJ11kiClV7ze/rJ11kiClV7ze_0_381_734_413_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 286,
+    "topic": "ניהול תדמית בנושא חטופים וסכסוכים בקבינט הביטחון",
+    "category": "news",
+    "story_summary": "התכתבויות חושפות כיצד סגני נתניהו הכינו את ראש הממשלה להופעה ציבורית בנושא חטופים כדי להציג עניין ודאגה, וניסו לסכסך בין שר הביטחון לרמטכ\"ל.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "אנשי נתניהו הזינו את רה\"מ במידע על חטופים \"שייראה שאכפת לו\", וסכסכו בין שר הביטחון לרמטכ\"ל",
+        "published": "Wed, 26 Aug 2026 21:49:06 +0300",
+        "summary": "ההתכתבויות בין אוריך, פלדשטיין וטופז לוק חושפות כיצד כבר בבוקר 7/10 עסקו בסביבת רה\"מ באופן שבו הוא צריך להיראות לציבור: \"בלי חליפה, מוד קרבי\". בהמשך דנו כיצד להכין אותו לפגישה עם משפחות חטופים כדי שייראה \"מתעניין\", ניסו לסכסך בין גלנט להלוי כדי שהרמטכ\"ל יתפטר - והכתיבו לברדוגו מה להגיד",
+        "url": "https://www.ynet.co.il/news/article/s1kjysnpfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/17/ryAodWySyl/ryAodWySyl_0_0_2048_1153_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 285,
+    "topic": "התמוטטות מאבטח בהופעה בכרמיאל",
+    "category": "news",
+    "story_summary": "מאבטח התמוטט לאחר עימות עם גבר בן 40 שניסה להיכנס להופעה של טיפקס וגלי עטרי בכרמיאל. הגבר נעצר, ומשטרה חוקרת אם היה בהשפעת גילופין.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "מאבטח התמוטט אחרי עימות מחוץ להופעה של טיפקס וגלי עטרי, מצבו קשה",
+        "published": "Wed, 26 Aug 2026 22:20:21 +0300",
+        "summary": "לפי החשד, להתמוטטות קדם עימות בין המאבטח לגבר כבן 40 שממנו מנע להיכנס למופע בכרמיאל. הגבר נעצר, ובמשטרה בודקים אם היה בגילופין",
+        "url": "https://www.ynet.co.il/news/article/b18w93hvfg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/HyeS00F3hwMe/HyeS00F3hwMe_0_115_1280_721_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 284,
+    "topic": "בג״ץ מבטלת סגירת גלי צה״ל",
+    "category": "news",
+    "story_summary": "בג״ץ הבטל את החלטת הממשלה לסגור את תחנת הרדיו גלי צה״ל.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "בין השר כ\"ץ לגל\"צ",
+        "published": "Thu, 27 Aug 2026 00:32:01 +0300",
+        "summary": "פסיקת בג\"ץ המבטלת את החלטת הממשלה לסגירת גל\"צ לא רק גודעת כרוניקה של כישלון ידוע מראש, אלא משרטטת שוב את דמותו של היושב בקומה ה-14 בקריה",
+        "url": "https://www.ynet.co.il/news/article/yokra14879339",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/05/HJcIExWLfx/HJcIExWLfx_0_0_1920_1080_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 283,
+    "topic": "אסטרטגיה מדינתית וזהות לאומית",
+    "category": "news",
+    "story_summary": "דיון על הצורך של מדינת ישראל להגדיר בבירור את זהותה ואסטרטגיתה, ולא להישתחק אחרי דעות בינלאומיות, אלא להתנהל לפי עקרונות פנימיים ברורים.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "מנטליות של \"אחריי המבול\"",
+        "published": "Thu, 27 Aug 2026 00:33:41 +0300",
+        "summary": "במקום להשתרך מאחורי דעת הקהל העולמית ולנסות למזער נזקים, וגם את זה בקושי, עלינו להתנהל כמדינה שמגדירה בבירור מה היא רוצה להיות, וגוזרת מכך אסטרטגיה סדורה",
+        "url": "https://www.ynet.co.il/news/article/yokra14879325",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/SkJ9eXcDzl/SkJ9eXcDzl_0_0_3000_2000_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 282,
+    "topic": "פעילויות דיפלומטיות סוריות",
+    "category": "world",
+    "story_summary": "שר החוץ הסורי מכין שבוע של מפגשים דיפלומטיים משמעותיים, כולל השלמת שיתוף כלכלי מלא עם ארצות הברית וישיבות עם מנהיגים אזוריים, במסגרת הפעלת דיפלומטיה פעילה בחזית מרובת כיוונים.",
+    "good_news_score": 6,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "השבוע העמוס של א-שרע",
+        "published": "Thu, 27 Aug 2026 00:36:08 +0300",
+        "summary": "פגישה בין שר החוץ הסורי לראש המוסד, החזרת השת\"פ הכלכלי המלא עם ארצות הברית וישיבה עם מפקד צבא הכורדים במדינה. סוריה \"יורה\" לכל הכיוונים",
+        "url": "https://www.ynet.co.il/news/article/yokra14879571",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/SJboMI11sIMe/SJboMI11sIMe_0_0_3000_2000_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 280,
+    "topic": "פתרון תעלומת נעדרי מלחמה",
+    "category": "security",
+    "story_summary": "לאחר עשרות שנים, נמצאו גופות של חיילים שנעדרו בקרבות, ממשיכה החקירה לפענח תעלומות ולספק סגירה למשפחות הנעדרים.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "הסודות מאחורי תיק יהודה כץ: \"מסע מודיעיני של ארבעה עשורים\"",
+        "published": "Thu, 27 Aug 2026 06:00:00 +0300",
+        "summary": "אפקט הדומינו בעקבות החזרתם גופותיהם של זכריה באומל וצבי פלדמן, המאמץ לאיתור הטנק, המבצעים החשאיים בשטח האויב - והמרוץ נגד הזמן בשביל לספק תשובה למשפחה. האנשים שפענחו את תעלומת יהודה כץ ז\"ל חושפים את כל מה שאפשר, ומבטיחים: \"יש לנו עוד נעדרים, אנחנו משקיעים את כל המאמצים\"",
+        "url": "https://www.ynet.co.il/news/article/yokra14879362",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/yk14879672/yk14879672_0_147_867_489_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 279,
+    "topic": "דרישות ש״ס לקואליציה הבאה",
+    "category": "news",
+    "story_summary": "בן צור, שר לשעבר מש״ס, הצהיר כי המפלגה תדרוש חוק גיוס בפני כל הצטרפות לממשלה הבאה, וביטל אפשרות לשותפות עם המחנה השני בטענה לחילוקי דעות אידיאולוגיים.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "יואב בן צור מש\"ס: \"כדי שנצטרף לממשלה הבאה נדרוש חוק גיוס עוד לפני ההשבעה\"",
+        "published": "Thu, 27 Aug 2026 06:22:42 +0300",
+        "summary": "בריאיון ל\"120 ואחת\", הפודקאסט הפוליטי של ynet, מפקפק השר לשעבר באפשרות לקואליציה עם המחנה השני: \"הציבור שלנו ימני, איזנקוט הוא שמאל. נישאר בגוש האמוני\". על הקדנציה שהסתיימה: \"עשו עלינו עליהום, היינו חייבים להקצין\". על הכעס כלפי הציבור החרדי: \"קמפיין להפלת הממשלה\". על החוסר בצה\"ל: \"מלחמות כיום לא נמדדות במספר החיילים\". על עומס המילואים: \"יש כאלה שזה משתלם להם, לא ארחיב\". והאם לדעתו ש\"ס היא מפלגה ציונית?",
+        "url": "https://www.ynet.co.il/news/120andone/article/b1sg1117wfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/By31v00jKwMl/By31v00jKwMl_0_21_1280_721_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 278,
+    "topic": "הסכסוך על התגמולים לפצ״רית",
+    "category": "news",
+    "story_summary": "זמיר החליט להעניק לתומר ירושלמי היטבים צבאיים לפורשים, אך האוצר עצר את ההחלטה בעוד הרמטכ״ל מתנגד לתשלום מטעמים קיימים.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "קרב התגמולים: האוצר עצר תשלומים לפצ\"רית - בניגוד להחלטת הרמטכ\"ל",
+        "published": "Thu, 27 Aug 2026 06:59:26 +0300",
+        "summary": "חשיפה: זמיר החליט כי תומר ירושלמי תקבל את התנאים של פורשי צה\"ל בשווי מיליוני שקלים ויישללו ממנה רק \"הגדלות הרמטכ\"ל\" - אך החשבת הכללית באוצר עצרה את ההחלטה. גורמי מקצוע סבורים כי יש להבין קודם לאן פני ההליך הפלילי, שזמיר עצמו אמר שאחריו ישקול עוד סנקציות. הוא זעם: \"ההחלטה בסמכותי\". צה\"ל: \"הרמטכ\"ל רואה את מעשיה בחומרה ושלל ממנה מיליון וחצי שקלים\"",
+        "url": "https://www.ynet.co.il/news/article/ryjjuw3pzl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/S13F5YnPzg/S13F5YnPzg_0_0_850_479_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 275,
+    "topic": "עדות ניצול שבי",
+    "category": "security",
+    "story_summary": "ניצול שבי אביתר דוד משתף בעדות חזוקה על חוויית שבותו הטראומטית בעזה, כולל כריית קברו בעצמו, וסימני PTSD כגון סיוטים שממשיכים להשפיע עליו.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "אביתר חוזר לסרטון שזעזע מדינה שלמה - ומספק עדות מטלטלת: \"אולי תמות מרעב\"",
+        "published": "Thu, 27 Aug 2026 09:45:34 +0300",
+        "summary": "באוגוסט שעבר פורסם התיעוד של אביתר דוד במנהרות החמאס, חופר את הקבר של עצמו. כעת, בריאיון לרשת CNN, הוא חוזר לרגעי השפל: \"הייתי נראה גרוע יותר מגיא גלבוע-דלאל, אז בחרו בי ל'שחקן'. הכול מבוים, אבל מסתמך על האמת\". שורד השבי מדבר בגילוי לב גם על הפוסט-טראומה: \"אני מתעורר בלילה מסיוטים\"",
+        "url": "https://www.ynet.co.il/news/article/sk3yw8apmx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/BkumcLTDGg/BkumcLTDGg_0_0_850_479_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 274,
+    "topic": "טעות בתקשורת צה״ל",
+    "category": "security",
+    "story_summary": "צה״ל פרסם סרטון בעמוד האינסטגרם הרשמי בו דמות של חרדי במדים נתנה טיפים לעריקים להימנע מעצר בנתב״ג, אך הסרטון הוסר לאחר מעט שעות.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "צה\"ל פרסם המלצות לעריקים: כך תימנעו ממעצר בנתב\"ג | הסרטון שגרם למבוכה",
+        "published": "Thu, 27 Aug 2026 09:48:13 +0300",
+        "summary": "בעמוד האינסטגרם הרשמי של צה\"ל פורסם סרטון שבו דמות של חרדי במדים הסבירה לעריקים חרדים \"טריק\" שמאפשר לצאת מהארץ מבלי להיעצר. לאחר כמה שעות הסרטון הוסר. צה\"ל: \"הסרטון הועלה בניגוד להנחיית דובר צה״ל\"",
+        "url": "https://www.ynet.co.il/news/article/bkdnmltdfx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/S1cytLawMx/S1cytLawMx_0_222_476_268_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 273,
+    "topic": "סכסוך פנימי בלשכת עורכי הדין",
+    "category": "news",
+    "story_summary": "הוחשפו התכתבויות פרטיות בהן גורמים בהנהלת לשכת עורכי הדין מביעים ביקורת על החלטות ממשלתיות שלהם, וטוענים שהן גוררות נזק לארגון; מול כך מגיבה ההנהלה בהפרכה וטענות כנגד ביקורת זו.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "\"למה אני צריך לפחד?\": התכתבויות שומרי הסף בלשכת עורכי הדין נחשפות",
+        "published": "Thu, 27 Aug 2026 10:14:58 +0300",
+        "summary": "בשיחות פרטיות, יועמ\"שית לשכת עוה\"ד הודתה כי \"נתקלתי בדילמות שלא היו בקדנציות של נווה וחימי. המהלכים של בכר חוקיים, אך פוגעים בלשכה\". חשב הלשכה: \"דרישות הזויות, המקום חולה\". כיום הם מסבירים שהתכוונו למחות על מהלכי המהפכה המשפטית, לשכת עוה\"ד בתגובה: \"הפרכות השקרים מדברות בעד עצמן. מכונת הרעל ממשיכה במאמץ לפגוע בנו\"",
+        "url": "https://www.ynet.co.il/news/article/rkrfyrkdzg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/24/ryMfJyGurJl/ryMfJyGurJl_0_51_1280_721_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 271,
+    "topic": "חיסול מחבלי נוחבה שתקפו ב-7 באוקטובר",
+    "category": "security",
+    "story_summary": "צה\"ל ושב\"כ חיסלו במהלך השבוע שני מחבלי נוחבה שחדרו למחנה רעים בתקיפת 7 באוקטובר, ביניהם רזק סהיל סלימאן אבו שחמה שהיה שומר ראשו של מנהיג החמאס יחיה סינוואר.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "חוסל שומר ראש של סינוואר, שחדר למחנה רעים ב-7 באוקטובר",
+        "published": "Thu, 27 Aug 2026 11:08:52 +0300",
+        "summary": "צה\"ל ושב\"כ חיסלו במהלך השבוע שני מחבלי נוחבה שחדרו למחנה רעים ב-7/10. אחד מהם הוא רזק סהיל סלימאן אבו שחמה, שהיה שומר ראשו של מנהיג החמאס",
+        "url": "https://www.ynet.co.il/news/article/bkhmadtvzg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/HyGPaD6vfl/HyGPaD6vfl_0_366_1280_721_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 268,
+    "topic": "מקרה כוכב כדורגל עם סמים ונהיגה מסוכנת",
+    "category": "sports",
+    "story_summary": "כוכב כדורגל אנגלי מואשם בשלוש עבירות חמורות כולל נהיגה מסוכנת והחזקת גז צחוק, בעקבות תאונה עם מכונית יוקרה. הוא סירב לבדיקות אלכוהול וסמים ועלול להיות משולח לכלא לשנתיים.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "הסתבך בענק: ראחים סטרלינג עשוי להישלח לשנתיים לכלא",
+        "published": "Wed, 26 Aug 2026 19:19:55 +0300",
+        "summary": "הכוכב האנגלי מואשם בשלוש עבירות חמורות בעקבות תאונה עם הלמבורגיני שלו, כולל נהיגה מסוכנת והחזקת \"גז צחוק\". המשטרה חשפה: סירב לבדיקת אלכוהול וסמים",
+        "url": "https://www.ynet.co.il/sport/worldsoccer/article/ryk2g5ndmg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/30/HkDvCRvlMe/HkDvCRvlMe_134_0_763_430_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 267,
+    "topic": "ניווט בגדה המערבית",
+    "category": "security",
+    "story_summary": "פלסטינים בגדה המערבית מתאימים לתנאים הקשים בעזרת רשת משותפת של שידורי רדיו וקבוצות משוגשוג, המאפשרת להם לנווט במעבר בין מחסומים שמשתנים ברציפות. נהגי מוניות, נוסעים וחובלים מסתמכים על המערכת החלוקתית הזו על מנת להתמודד עם הנוף המשתנה של מחזיקות מעצומות.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Forget a map, this is how Palestinians are navigating unpredictable West Bank roads",
+        "published": "Wed, 26 Aug 2026 18:51:56 +0300",
+        "summary": "Taxi drivers, commuters and ambulance crews rely on a crowdsourced web of radio broadcasts and messaging groups to cross a landscape of checkpoints and roadblocks that can change by the minute",
+        "url": "https://www.haaretz.com/middle-east-news/palestinians/2026-08-26/ty-article-magazine/.premium/forget-a-map-this-is-how-palestinians-are-navigating-west-bank-roads/000001a0-3e0a-d3b0-afb1-ffbbff5a0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3e17-dba3-a3ff-3edf97b60001/48/40/4e8ee03444438256faf0c5938f25/nagham2.PNG?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 266,
+    "topic": "חסימת חזרת פליטים למחנות",
+    "category": "security",
+    "story_summary": "צה\"ל חוסם את חזרת פלסטינים למחנות הפליטים בגדה המערבית, וכ-33,000 נשארים עקורים בטענה לחשש מפעילות טרור.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "IDF blocks return of Palestinians to West Bank refugee camps; UN data shows 33,000 remain displaced",
+        "published": "Wed, 26 Aug 2026 19:34:04 +0300",
+        "summary": "In response to a petition by the Association for Civil Rights in Israel, the Israeli government said the IDF is preparing for long-term operational control in the area, citing intelligence that terror battalions may seek to regroup in the camps after the forces withdraw",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-26/ty-article/.premium/idf-bars-return-of-palestinians-to-w-bank-refugee-camps-33-000-still-displaced/000001a0-3e18-ddff-a3a2-7f9a523d0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3e96-d268-a1fe-3fd608ac0001/b0/99/01d640dc4117a8abbb599b25eb36/191871.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 265,
+    "topic": "הרס בנויים חיזבאללה בלבנון",
+    "category": "security",
+    "story_summary": "חיזבאללה איבד אלפי פעילים ומפקדים, והתשתיות הצבאיות שבנה במשך יותר מ-20 שנה בדרום לבנון נהרסות בהדרגה. המשבר בארגון הוא עמוק עקב חיסולי מפקדים וחלופה בפעילים חסרי ניסיון.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "חילופי הדורות בלבנון וההרס שמותיר צה\"ל: \"מפעל חייו של נסראללה מתפרק\"",
+        "published": "Wed, 26 Aug 2026 19:20:00 GMT",
+        "summary": "במערכת הביטחון מעריכים כי חיזבאללה איבד אלפי פעילים ומפקדים, וכי תשתיות שנבנו במשך יותר מ-20 שנה בדרום לבנון נהרסות בהדרגה. גורם ביטחוני בכיר הסביר את הפער שנוצר בעקבות מפקדים שחוסלו ומחליפים חסרי ניסיון, וחשף את עומק המשבר בכוח רדואן: \"הם ספגו מכה קשה\"",
+        "url": "https://news.walla.co.il/item/3863317",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/8/6/3986271-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 263,
+    "topic": "חקירה בגין דוח מודיעיני שקרי",
+    "category": "sports",
+    "story_summary": "הגוף המפקח על המשטרה באנגליה פתח בחקירה נגד מפקדי משטרת וסט מידלנדס, החשודים ביצירת דוח מודיעיני שקרי בעזרת AI כדי למנוע מאוהדי מכבי תל אביב להגיע למשחק מול אסטון וילה.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "בעקבות איסור הכניסה על אוהדי מכבי ת\"א: מפקד המשטרה הבריטית לשעבר נחקר",
+        "published": "Wed, 26 Aug 2026 18:20:26 +0300",
+        "summary": "הגוף המפקח על המשטרה באנגליה פתח בחקירה נגד מפקד משטרת וסט מידלנדס לשעבר וקצינים בכירים. החשד: ניפקו דוח מודיעיני שקרי, בין היתר באמצעות AI, כדי למנוע מקהל ישראלי להגיע למשחק מול אסטון וילה",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/sy00zgk2wge",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/24/HkacCgGZZg/HkacCgGZZg_0_211_3000_1689_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 261,
+    "topic": "דולי פרטון - מעוני לאימפריה עסקית",
+    "category": "culture",
+    "story_summary": "דולי פרטון, שהלכה לעולמה בגיל 80, עלתה משפחה ענייה של 12 ילדים בהרי האפלצ'ים לבניית אימפריה עסקית בשווי 450 מיליון דולר. המורשת שלה כוללת פארק שעשועים בטנסי, מותג איפור ובשמים, וקרן פילנתרופית לתמיכה בילדים ממשפחות עניות.",
+    "good_news_score": 7,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "אמרה לא לאלביס: המוח הפיננסי שהפך את דולי פרטון לעסק ששווה חצי מיליארד דולר",
+        "published": "Wed, 26 Aug 2026 18:14:04 +0300",
+        "summary": "דולי פרטון, שנפטרה אתמול בגיל 80, היא אולי ההגדרה לאדם שבנה את עושרו בעשר אצבעותיו: כאחת מ-12 ילדים בבקתה ללא מים זורמים בהרי האפלצ'ים הפכה פרטון לאימפריה בשווי כ-450 מיליון דולר, עם פארק שעשועים על שמה בטנסי, מותג איפור ובשמים ומפעל פילנתרופי עבור ילדים ממשפחות עניות",
+        "url": "https://www.ynet.co.il/economy/article/sygc2d3vfl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/BJvmp72DMl/BJvmp72DMl_0_22_1024_576_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 259,
+    "topic": "מחנות קיץ לילדי מילואים",
+    "category": "culture",
+    "story_summary": "כ-300 בני נוער משפחות מילואימניקים, ובכלל זה צעירים שאיבדו קרובים במלחמת חרבות ברזל, משתתפים במחנות קיץ בתוכנית חוסן המעניקה להם הפוגה ותמיכה נפשית.",
+    "good_news_score": 7,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "הילדים שמאחורי המילואימניקים - היוזמה שמעניקה להם הפוגה מהמלחמה",
+        "published": "Wed, 26 Aug 2026 18:03:00 GMT",
+        "summary": "בקיץ הנוכחי ישתתפו במחנות הקיץ היהודיים כ-300 בני נוער נוספים בתוכנית חוסן ראשונה בעולם. המתכונת לשילובם מעניקה חוויה ייחודית לילדי מילואים, בינהם צעירים שאיבדו בני משפחה במלחמת \"חרבות ברזל\" מצפון ובדרום, \"זה הכוח של העם היהודי כרשת אנושית חוצת גבולות\"",
+        "url": "https://news.walla.co.il/item/3863430",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092989-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 257,
+    "topic": "תקיפה בכדורגל",
+    "category": "sports",
+    "story_summary": "שחקני ואוהדי בני סכנין הותקפו בסיום משחק, וממשטרת ישראל דיווחו על מעצרים של ארבעה חשודים בתקיפה. נציגים ציבוריים גינו את האירוע בחריפות.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "המשטרה עצרה ארבעה חשודים בתקיפת שחקני ואוהדי בני סכנין",
+        "published": "Tue, 25 Aug 2026 08:34:15 +0300",
+        "summary": "לאחר ששחקני ואוהדי הקבוצה הצפונית הותקפו בסיום ההתמודדות אתמול, במשטרה הודיעו כי ביצעו מעצרים. נתניה גינתה את התקיפה: \"אירועי אמש חורגים מכל נורמה מקובלת\". יו\"ר המינהלת: \"מצפה ממשטרת ישראל לשמור על שלום האוהדים\"",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/rjduwjqwze",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/Bkeo2DX5wfe/Bkeo2DX5wfe_0_501_720_406_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 256,
+    "topic": "בעיה אקדמית",
+    "category": "sports",
+    "story_summary": "נועם יעקב, שחקן הגארד שחתם לאוניברסיטת יוטה, לא קיבל אישור מה-NCAA לשחק בעונה זו בשל בעיות אקדמיות. מאמן יוטה אחל לשחקן את הטוב.",
+    "good_news_score": 3,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "לא קיבל אישור: נועם יעקב לא יוכל לשחק השנה במכללות",
+        "published": "Tue, 25 Aug 2026 09:25:57 +0300",
+        "summary": "בהנהלת ה-NCAA הבהירו כי הגארד, שכבר חתם באוניברסיטת יוטה, לא יוכל לשחק בשורותיה \"מסיבות אקדמאיות\". מאמן יוטה: \"אנחנו מאחלים לו את הטוב ביותר\"",
+        "url": "https://www.ynet.co.il/sport/israelibasketball/article/skl0q29dzg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/01/rk11JAk11fKbg/rk11JAk11fKbg_170_54_814_459_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 255,
+    "topic": "מורד בפיפ\"א נגד אינפנטינו",
+    "category": "sports",
+    "story_summary": "נשיא פיפ\"א ג'אני אינפנטינו מתמודד עם מורד חסר תקדים: לא פחות מ-15 התאחדויות אפריקאיות, יחד עם אירופה וחצי הכדור המערבי, מאחדות כוחות נגדו לאחר שנים שבהן שמר על כוחו על ידי קנית נאמנות וחיסול התנגדויות.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "סופו של דיקטטור הכדורגל? המרד הגדול נגד נשיא פיפ\"א",
+        "published": "Tue, 25 Aug 2026 11:45:11 +0300",
+        "summary": "במשך שנים קנה נשיא פיפ\"א ג'אני אינפנטינו נאמנות, חיסל התנגדויות והחזיק את אפריקה בכיס שלו. עכשיו לפחות 15 התאחדויות ביבשת מורדות, אירופה ואמריקה מתאחדות נגדו והאיום הגדול ביותר מגיע מתוך הבית. האם זהו סופו של דיקטטור הכדורגל, או שהשלמונים שוב יצילו אותו?",
+        "url": "https://www.ynet.co.il/sport/article/syog5m9vmx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/04/HJ43iyJUMe/HJ43iyJUMe_0_17_3000_1689_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 245,
+    "topic": "שינויים בהנהלת הפועל ת״א",
+    "category": "sports",
+    "story_summary": "בעקבות סדרת הטלטלות הניהוליות בהפועל ת״א, אורן חסון מונה למנכ״ל של המועדון תוך כדי סיום תפקידו של צחי רייכנשטיין.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "מאחורי הקלעים של הטלטלה הניהולית בהפועל ת\"א",
+        "published": "Wed, 26 Aug 2026 13:49:30 +0300",
+        "summary": "צחי רייכנשטיין, עד לפני רגע המנכ\"ל, כבר חשב שהצליח לבלום את היו\"ר אורן חסון לאחר שסתיו שחם מונה במקומו. אלא שכעבור יממה התבררה התמונה המלאה: חסון מונה למנכ\"ל - ורייכנשטיין סיים את דרכו במועדון",
+        "url": "https://www.ynet.co.il/sport/israelibasketball/article/rjtcsvjdme",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/31/BknpvhtSGg/BknpvhtSGg_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "צחי רייכנשטיין סיים את תפקידו בהפועל ת\"א, אורן חסון מונה במקומו למנכ\"ל",
+        "published": "Tue, 25 Aug 2026 12:42:05 +0300",
+        "summary": "הטלטלות בהנהלת סגנית האלופה נמשכות: אחרי שהוזז מתפקיד יו\"ר המועדון, חסון קיבל את תפקיד המנכ\"ל עם פיטוריו של רייכנשטיין. חסון: \"אני מודה על האמון בי\"",
+        "url": "https://www.ynet.co.il/sport/israelibasketball/article/hyojqkopge",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/BkfUNpvrfg/BkfUNpvrfg_0_0_850_479_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 254,
+    "topic": "מחאת אוהדי ווסטהאם נגד סולומון",
+    "category": "sports",
+    "story_summary": "קבוצת אוהדי ווסטהאם מתארגנת מחאה נגד חתימת השחקן סולומון, וקוראים לו להשאיר את המועדון בעקבות אי-הסכמה עם ההחתמה.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "\"נמשיך לתמוך בפלסטין\": המחאה שמנסה לגרום לסולומון לעזוב את ווסטהאם",
+        "published": "Tue, 25 Aug 2026 13:54:15 +0300",
+        "summary": "בסרטון שהעלה אוהד במסגרת התארגנות שמתיימרת לדבר בשם \"אוהדי ווסטהאם האמיתיים\", נאמר כי \"אנחנו לא מסכימים עם ההחתמה של סולומון ונמשיך להשמיע קול עד שהוא יהיה מחוץ למועדון\"",
+        "url": "https://www.ynet.co.il/sport/worldsoccer/article/ryh5kgodgx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rylFfExswMg/rylFfExswMg_423_61_2431_1369_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 253,
+    "topic": "סאגת העברת כוכב אתלטיקו",
+    "category": "sports",
+    "story_summary": "חלוץ ארגנטינאי בטוב כוחו בחתר לעזוב את אתלטיקו למען חלומו לשחק בברצלונה, אך הקבוצה הספרדית מסרבת בתוקף למכור אותו. ארסנל עומדת בצד וממתינה להתפתחויות בזמן שהיחסים בין השחקן לאוהדי אתלטיקו מתדרדרים עם סגירת חלון ההעברות.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "ארסנל ממתינה, ברצלונה חולמת: הסאגה של הקיץ ממשיכה להסתבך",
+        "published": "Tue, 25 Aug 2026 18:28:35 +0300",
+        "summary": "החלוץ הארגנטינאי מעוניין לעזוב את אתלטיקו ולהגשים את חלומו הגדול - מעבר לבארסה, אך קבוצתו מסרב בתוקף למכור אותו ליריבה המרה. אלופת אנגליה מחכה להתפתחויות ומוכנה לפעול במהירות אם ישנה את דעתו. בינתיים, היחסים בין הכוכב לאוהדי אתלטיקו הידרדרו, וכשנותרו ימים ספורים לסגירת חלון ההעברות - אף אחד לא יודע מה יקרה",
+        "url": "https://www.ynet.co.il/sport/worldsoccer/article/bk59n7owfg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/Hk00ET7sPzl/Hk00ET7sPzl_0_7_3000_1689_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 244,
+    "topic": "הפועל ירושלים והרחבת היורוליג",
+    "category": "sports",
+    "story_summary": "במסגרת תוכנית הרחבת היורוליג ל-24 קבוצות עם 21 רישיונות קבועים החל מ-2027/28, הפועל ירושלים לא עברה את שלב הסינון הראשוני למרות בקשתה לרישיון קבע, בעוד הפועל ת\"א נמשכת במרוץ על אחד משמונת הרישיונות החדשים.",
+    "good_news_score": 3,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "לא מוותרת: הפועל ירושלים הגישה בקשה לרישיון קבע ביורוליג",
+        "published": "Wed, 26 Aug 2026 14:06:40 +0300",
+        "summary": "למרות שהאדומים מהבירה לא נמנו בין 11 הקבוצות שעברו שלב הסינון הראשוני לקבלת רישיון, במועדון מתעקשים שהם עדיין מועמדים להיות משתתפת קבועה: \"התהליך מתנהל בשיתוף פעולה ובתיאום מלא עם הנהלת היורוליג\"",
+        "url": "https://www.ynet.co.il/sport/israelibasketball/article/s1tyvh3wgg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/08/rJFG4EnmGg/rJFG4EnmGg_187_41_633_357_0_medium.jpg"
+      },
+      {
+        "source": "ynet_sport",
+        "title": "היורוליג בדרך למהפכה: איך זה ישפיע על הפועל ת\"א וירושלים?",
+        "published": "Tue, 25 Aug 2026 19:26:24 +0300",
+        "summary": "החל מעונת 2027/28 המפעל צפוי להתרחב ל-24 קבוצות, כאשר 21 מהן יחזיקו ברישיון קבוע. הפועל ת\"א נותרה במרוץ על אחד משמונת הרישיונות החדשים, לצד 10 קבוצות נוספות. מנגד, הפועל ירושלים לא עברה את שלב הסינון הראשוני",
+        "url": "https://www.ynet.co.il/sport/israelibasketball/article/b1bhbhowmg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/03/BkgYeY0IVWg/BkgYeY0IVWg_340_74_2617_1474_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 252,
+    "topic": "CTE בשחקני NFL",
+    "category": "sports",
+    "story_summary": "מחקר חושף כי רבע מהשחקנים לשעבר שהלכו לעולמם בין 2016 ל-2021 נמצאו עם סימנים של CTE, מחלה ניוונית הקשורה לפגיעות חוזרות בראש. החוקרים מדגישים שחלק משמעותי מהפגיעות התרחשו בהכנות ובגילאי הנוער, ולא רק במשחקים הרשמיים.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "מחקר מדאיג: לפחות אחד מכל ארבעה שחקני NFL שמתו סבל מפגיעת ראש",
+        "published": "Tue, 25 Aug 2026 19:30:12 +0300",
+        "summary": "לפחות אחד מכל ארבעה שחקני פוטבול לשעבר שהלכו לעולמם בין 2016 ל-2021 נמצא עם סימנים של CTE, מחלה ניוונית הקשורה לפגיעות חוזרות בראש. החוקרים מזהירים: חלק גדול מהחבטות לא התרחשו במשחקים, אלא כבר באימונים ובגילאי הנוער",
+        "url": "https://www.ynet.co.il/sport/article/rju2e7iwgg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/S1J98QoDMe/S1J98QoDMe_0_0_1024_577_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 251,
+    "topic": "ניצחון דרמטי של אל נאסר",
+    "category": "sports",
+    "story_summary": "אל נאסר הקליעה קומבק דרמטי בעת משחק לחיסרון של 10 שחקנים, שיר מפגר של 2:0 לניצחון 2:3 בדקה ה-90 של המשחק.",
+    "good_news_score": 6,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "רונאלדו הוחלף במחצית וירד עצבני, אל נאסר ניצחה",
+        "published": "Tue, 25 Aug 2026 23:22:22 +0300",
+        "summary": "דווקא לאחר שכבש במחזור הקודם, הפורטוגלי יצא לאחר שקבוצתו נשארה ב-10 שחקנים, אך דווקא בחיסרון מספרי הפכה פיגור 2:0 ל-2:3 בדקה ה-90, צמד למאנה",
+        "url": "https://www.ynet.co.il/sport/article/one531606",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/one1884424/one1884424_0_0_800_444_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 250,
+    "topic": "ווסטהאם מנצחת בגביע הליגה",
+    "category": "sports",
+    "story_summary": "ווסטהאם ניצחה את סאות'המפטון בתוצאה של 4:1 בגביע הליגה, עם שחקנים ישראלים בהרכב. למרות שסאות'המפטון הובילה בתחילה, הגנתה התפרקה כמו שהמשחק התקדם.",
+    "good_news_score": 6,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "הדרבי הישראלי באנגליה: 1:4 מוחץ לווסטהאם וסולומון על סאות'המפטון ופרץ",
+        "published": "Tue, 25 Aug 2026 23:53:38 +0300",
+        "summary": "מנור עלה מהספסל, השוער הוציא ארבעה כדורים מהרשת: ווסטהאם פירקה את סאות'המפטון בגביע הליגה. פרץ סיפק הצלה גדולה בפתיחה והקדושים עוד הוליכו, אבל ההגנה שלו התפרקה ככל שהמשחק נמשך",
+        "url": "https://www.ynet.co.il/sport/worldsoccer/article/hjrrr00owze",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/25/SyD55YcaZe/SyD55YcaZe_0_34_3000_1689_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 249,
+    "topic": "סרינה וילאמס נפסלה מטניס הזוגות",
+    "category": "sports",
+    "story_summary": "סרינה וילאמס, אלופת היחידות לשנה שעברה, נפסלה מטניס הזוגות המעורבים באליפות ארה״ב לאחר הפסדה ברבע הגמר לבלינדה בנצ׳יץ׳ ופלאביו קובולי.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "סרינה ואלקראס הודחו בתחרות הזוגות המעורבים באליפות ארה\"ב",
+        "published": "Wed, 26 Aug 2026 07:37:59 +0300",
+        "summary": "אלוף היחידים מהשנה שעברה והטניסאית האגדית בת ה-44 הפסידו 5:4 (4), 4:1 לבלינדה בנצ'יץ' ופלאביו קובולי ברבע הגמר, וסיימו את דרכם בפלאשינג מדו. סביטולינה ומונפיס בחצי הגמר, גם אנדרייבה ורובלב עלו",
+        "url": "https://www.ynet.co.il/sport/article/rkyxjk3vgl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/Byd1tK1nPMe/Byd1tK1nPMe_0_163_2216_1248_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 248,
+    "topic": "מחווה לפדרר בניו-יורק",
+    "category": "sports",
+    "story_summary": "הטניסאי האגדי זכה למחווה רשמית בערב מרגש באצטדיון ארתור אש, שבע שנים לאחר משחקו האחרון בניו-יורק. האירוע כלל מופע רחפנים, יציעים מלאים, ומשחקי ראווה שבהם שיתף פדרר את הזיכרונות המדהימים שלו מהמגרש, מהאוהדים ומהעיר.",
+    "good_news_score": 8,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "עם מופע רחפנים ויציעים מלאים: המחווה המרגשת לפדרר באליפות ארה\"ב",
+        "published": "Wed, 26 Aug 2026 08:08:02 +0300",
+        "summary": "הטניסאי האגדי זכה לפרידה רשמית באצטדיון ארתור אש, שבע שנים אחרי משחקו האחרון בניו-יורק. השווייצרי קיים משחקי ראווה והזכיר נשכחות: \"יש לי זיכרונות מדהימים מהמגרש הזה, מהאוהדים כאן ומהעיר\"",
+        "url": "https://www.ynet.co.il/sport/article/byuhfx3pge",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/r1453Xgnvzl/r1453Xgnvzl_0_17_3000_1689_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 247,
+    "topic": "הדחת סלטיק מליגת האלופות",
+    "category": "sports",
+    "story_summary": "אלופת סקוטלנד סלטיק הודחה מליגת האלופות לאחר התבוסה המשפילה של 5:1 מול לאסק לינץ באוסטריה, למרות שהגיעה למשחק ההחזר עם יתרון של 0:3.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "\"מביכה ופתטית\": בבריטניה המומים מההדחה המשפילה של סלטיק מהצ'מפיונס",
+        "published": "Wed, 26 Aug 2026 09:52:59 +0300",
+        "summary": "אלופת סקוטלנד איבדה יתרון 0:3 מהמשחק הראשון והודחה מליגת האלופות בתום 5:1 משפיל באוסטריה מול לאסק לינץ, והביקורות לא איחרו להגיע: \"כולם אשמים\"",
+        "url": "https://www.ynet.co.il/sport/worldsoccer/article/bjnydzhdzl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/SynMTZnPfl/SynMTZnPfl_0_148_3000_1689_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 246,
+    "topic": "אבו פרחי עובר ל-MLS",
+    "category": "sports",
+    "story_summary": "החלוץ אבו פרחי עוזב את מכבי תל אביב ועבר לקבוצת MLS בקולורדו בעסקה בשווי 5.4 מיליון דולר.",
+    "good_news_score": 6,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "עוזב את מכבי ת\"א: אבו פרחי המריא לארה\"ב כדי לחתום רשמית בקולורדו",
+        "published": "Wed, 26 Aug 2026 10:14:50 +0300",
+        "summary": "החלוץ, שלא ייצא עם הצהובים לבטומי למשחק הגומלין מול לוגאנו במוקדמות הקונפרנס-ליג, יחתום לחמש שנים בקבוצה מה-MLS. מחזיקת הגביע תקבל עבורו 5.4 מיליון דולר",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/b1hg11z3dfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/12/B1HFRqYUzx/B1HFRqYUzx_0_0_850_479_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 243,
+    "topic": "גארי לינקר וטענות אנטישמיות",
+    "category": "sports",
+    "story_summary": "גארי לינקר מפיץ הודעות המתוארות כאנטישמיות ונגד ישראל, כולל השוואות בין ציונות לנאציזם וטענות על עברות כנגד האנושות, במשך שנתיים לאחר הסרתו מתפקידו בטלוויזיה הבריטית.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "גארי לינקר מציג: פרצופה של השנאה לישראל",
+        "published": "Wed, 26 Aug 2026 15:02:26 +0300",
+        "summary": "האשמות ברצח עם ובפשעים נגד האנושות, סילוף עובדות הקשורות לטבח 7 באוקטובר והשוואה בין הציונות לנאציזם - כולל שיתוף אימוג'י של עכברוש. גארי לינקר, פעם כדורגלן שאהבנו, מפיץ באובססיביות אנטישמיות ושנאה נגד ישראל גם אחרי ההדחה מ-BBC",
+        "url": "https://www.ynet.co.il/sport/article/s1tnfwjdgx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/03/12/S11sy1oJ3/S11sy1oJ3_1_24_1596_899_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 242,
+    "topic": "שחקנית כדורגל ספרדית בסעודיה",
+    "category": "sports",
+    "story_summary": "אלופת העולם אסתר גונזאלס הצטרפה לקבוצה סעודית ומחקה תמונות עם בת זוגה ובנם מהאינסטגרם שלה, מה שעורר ביקורת על הסכמה לתנאים מגבילים בתמורה לעבודה. התגובות הדגישו את הניגוד בין לחימה בעד זכויות במקומות בטוחים לעומת השמירה על ערכים במדינה עם חוקים מגבילים.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "סערה בספרד: אלופת העולם עברה לסעודיה – ומחקה את התמונות עם בת זוגה",
+        "published": "Wed, 26 Aug 2026 16:43:36 +0300",
+        "summary": "אסתר גונזאלס, אלופת העולם עם נבחרת ספרד, הצטרפה לאל-קאדסיה ועוררה ביקורת חריפה לאחר שתמונות עם בת זוגה ובנם נעלמו מחשבון האינסטגרם שלה. ברשת תקפו: \"קל להילחם למען זכויות במקום שבו אפשר לעשות זאת ללא פחד. אומץ אמיתי הוא לעשות זאת במקום שבו יש לכך השלכות\"",
+        "url": "https://www.ynet.co.il/sport/worldsoccer/article/sjy1wphvmx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/rkhWhDnPMe/rkhWhDnPMe_0_315_2604_1466_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 241,
+    "topic": "פירוק כוחות סוריים בעלות כורדית",
+    "category": "world",
+    "story_summary": "כוחות סוריים דמוקרטיים בהנהגה כורדית הופרקו כחלק מעסקה להשתלבות לוחמיהם בצבא סוריה, בצעד משמעותי בניסיון דמשק לפתור סכסוכים פנימיים ולשחזר את המדינה בתמיכה אמריקאית.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Syria's Kurdish-led SDF dissolves as part of integration with Damascus",
+        "published": "Wed, 26 Aug 2026 17:38:46 +0300",
+        "summary": "The Kurdish-led Syrian Democratic Forces has been dissolved as part of a deal to integrate its fighters into the Syrian army, a major step as Damascus seeks to resolve internal strife and rebuild the country with U.S. support",
+        "url": "https://www.haaretz.com/middle-east-news/syria/2026-08-26/ty-article/syrias-kurdish-led-sdf-dissolves-as-part-of-integration-with-damascus/000001a0-3de8-dba3-a3ff-3dfb4f530000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3df7-d268-a1fe-3df7efd90001/24/1e/bd3cd3d84d80a255c1aa21a09318/553939.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 240,
+    "topic": "עלות כלכלית של המילואים",
+    "category": "business",
+    "story_summary": "לפי הכלכלן הראשי באוצר, העלות הכלכלית של המילואים עלתה משמעותית - כ-39 אלף שקל בחודש עבור חיילים בגילי 22–30 וכ-68 אלף שקל בחודש בגילי 31–39.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "מחיר המילואים למשק: עד 68 אלף שקל בחודש לכל חייל שנעדר מהעבודה",
+        "published": "Tue, 25 Aug 2026 13:05:09 +0300",
+        "summary": "לפי הכלכלן הראשי באוצר, העלות הכלכלית של המילואים זינקה לעומת אומדן קודם: כ-39 אלף שקל בחודש עבור גברים בגילי 22–30, וכ-68 אלף שקל בחודש בגילי 31–39",
+        "url": "https://www.ynet.co.il/economy/article/syeb1jodzg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/HkluYVWo8fe/HkluYVWo8fe_0_0_1601_901_0_medium.jpg"
+      }
+    ]
+  },
+  {
     "story_id": 194,
     "topic": "שיטפונות בנפאל",
     "category": "world",
@@ -101,23 +1575,6 @@
         "summary": "כ־15 אלף אנשי ביטחון נפרסו בין הכפרים שנמחקו בחיפוש אחר אלפי נעדרים. 350 עובדים ותושבים אותרו במנהרה של תחנת כוח, וניצולים חולצו לאחר לילה ביער. המבצע נעצר זמנית בשל סכנת הצפה נוספת - ואז חודש. לאחר שסירבה לסיוע בינלאומי, נפאל הסכימה להכניס מומחים זרים",
         "url": "https://news.walla.co.il/item/3863940",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093077-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 239,
-    "topic": "הצעת תקציב ביטחון שנויה במחלוקת",
-    "category": "news",
-    "story_summary": "ראש הממשלה נתניהו הציע להגדיל בדחיפות את תקציב הביטחון בעשרות מיליארדי שקלים, אך הדיון הממשלתי בנושא בוטל וברור אינו אם הוא יוכל להתקבל לפני הבחירות.",
-    "good_news_score": 4,
-    "sources": [
-      {
-        "source": "ynet_economy",
-        "title": "נתניהו טען שהתקציב ייפרץ לטובת הוצאות הביטחון - אבל הממשלה לא תדון בזה כלל",
-        "published": "Tue, 25 Aug 2026 13:52:39 +0300",
-        "summary": "ראש הממשלה טען שיש להגדיל בדחיפות את תקציב הביטחון בעשרות מיליארדי שקלים, אבל הדיון בממשלה בוטל ולא ברור אם היוזמה תוכל לצאת לפועל לפני הבחירות",
-        "url": "https://www.ynet.co.il/economy/article/byx3wgsdgg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/04/rJlmdeg1zWg/rJlmdeg1zWg_0_47_1280_721_0_medium.jpg"
       }
     ]
   },
@@ -262,23 +1719,6 @@
         "summary": "עיריית חיפה והחברה הכלכלית מקדמות מגה-פרויקט בעלות מוערכת של עד 4 מיליארד שקל: רצועת עסקים, פנאי ומלונאות שתשתרע על פני 130 דונם. גולת הכותרת: מסוע נוסעים נע וממוזג, וטיילת עילית מוצלת שיחברו בין תחנת הרכבת חוף הכרמל, דרך מרכז קונגרסים חדש, ארנה להופעות ומלונות – ישירות לקו המים",
         "url": "https://www.ynet.co.il/economy/article/yokra14877387",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/yk14877309/yk14877309_0_0_700_391_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 230,
-    "topic": "תיקון צוואה בחלט שגוי",
-    "category": "news",
-    "story_summary": "בית משפט הורה לתקן צוואה של גבר ערירי לאחר שנמצא שסעיף ביטול בצוואה השנייה השתרבב בטעות. אחיין שהפסיד בנכס בנס ציונה בגלל הסעיף הטעוי הצליח בתביעתו, והשופטת קיבלה את הטענה שהוא לא הסכים לשם כך.",
-    "good_news_score": 6,
-    "sources": [
-      {
-        "source": "ynet_economy",
-        "title": "חריג: בית משפט הורה לתקן צוואת קשיש ערירי",
-        "published": "Wed, 26 Aug 2026 09:19:53 +0300",
-        "summary": "המנוח ערך בחייו שתי צוואות, והמאוחרת כללה סעיף המבטל את הקודמת. אחיין שהפסיד בשל כך בית בנס ציונה טען שהסעיף השתרבב בטעות, והשופטת הסכימה",
-        "url": "https://www.ynet.co.il/economy/article/hjo0qwhvzg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2014/05/28/5358261/5358261_0_77_1300_732_0_medium.jpg"
       }
     ]
   },
@@ -572,23 +2012,6 @@
     ]
   },
   {
-    "story_id": 212,
-    "topic": "ערעור על סגירת תיק מוות בתאונת בניין",
-    "category": "news",
-    "story_summary": "אם שאבדה את בנה בן 22 בקריסת פיגום בפרויקט יוקרה מערערת על החלטת הפרקליטות לגנוז את התיק ללא הגשת כתבי אישום, וטוענת כי לא הודיעו לה כראוי על ההחלטה.",
-    "good_news_score": 0,
-    "sources": [
-      {
-        "source": "ynet_economy",
-        "title": "\"הודעת הגניזה נשלחה לבני שנהרג\": האם שאיבדה את בנה מערערת",
-        "published": "Wed, 26 Aug 2026 15:35:19 +0300",
-        "summary": "האם, שבנה ג'אזי אבו סביתאן ז\"ל, נהרג בהיותו בן 22 בקריסת פיגום בפרויקט היוקרה בפארק בבלי מבקשת לבטל את החלטת הפרקליטות לסגור את התיק במישור הפלילי ללא הגשת כתבי אישום. בנוסף, תוקפת האם את אופן מסירת החלטת הגניזה למשפחה. הפרקליטות: \"בני המשפחה עודכנו באופן אישי בפרטים במלואם\"",
-        "url": "https://www.ynet.co.il/economy/article/hjkobihvfg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/02/09/rkXn00jWJ9/rkXn00jWJ9_0_360_961_541_0_medium.jpg"
-      }
-    ]
-  },
-  {
     "story_id": 211,
     "topic": "משכורות במערכת הביטחון",
     "category": "business",
@@ -602,47 +2025,6 @@
         "summary": "השכר הממוצע של המשרתים הצעירים עלה בתוך שנתיים ב-17%, מ-11,786 שקל ל-13,845 שקל – כך לפי דוח השכר ‏במערכת הביטחון ל-2024-2023. בראש טבלת השכר ניצבים אלופים בצה\"ל עם כ-73 אלף שקל ברוטו, ניצבים במשטרה עם כ-63 אלף שקל וגונדרים בשירות בתי הסוהר עם כ-63 אלף שקל ברוטו בחודש",
         "url": "https://www.ynet.co.il/economy/article/sjqgbd3wzg",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/07/HkEhiBc4vbe/HkEhiBc4vbe_0_187_1280_721_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 202,
-    "topic": "סלובניה חוסמת הצהרה אירופית משותפת נגד התנחלויות בE1",
-    "category": "news",
-    "story_summary": "סלובניה וצ'כיה חסמו הצהרה משותפת של האיחוד האירופי נגד בנייה בE1, מה שהביא ליו\"מ האיחוד האירופי להוציא הצהרה אישית במקום הצהרה משותפת של 27 החברים. התפנית הדיפלומטית משקפת שינוי דרמטי בקשרים עם הממשל החדש בלובליאנה, וישראל צפויה לפתוח שגרירות בסלובניה בספטמבר.",
-    "good_news_score": 6,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "התקווה החדשה של ישראל: זו המדינה שתמנע סנקציות מהאיחוד האירופי?",
-        "published": "Wed, 26 Aug 2026 17:11:08 +0300",
-        "summary": "סלובניה וצ'כיה הטילו וטו על הצהרה משותפת של מדינות האיחוד נגד הבנייה ב-E1 ובכך אילצו את שרת החוץ האירופית קאיה קאלאס לפרסם הצהרה מטעמה בלבד. במקביל, בירושלים מזהים שינוי דרמטי ביחסים עם הממשל החדש בלובליאנה - ובספטמבר צפויה פתיחת השגרירות הישראלית הראשונה במדינה",
-        "url": "https://www.ynet.co.il/news/article/s1omvv3wgx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/19/rkR11HEFkMe/rkR11HEFkMe_0_67_1050_591_0_medium.jpg"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Slovenia undercuts EU condemnation of Israel's West Bank E1 settlement plan",
-        "published": "Wed, 26 Aug 2026 17:09:32 +0300",
-        "summary": "Slovenia downgraded a joint EU statement condemning Israel's planned settlement construction in the West Bank's E1, leading to EU foreign policy chief Kaja Kallas issuing a statement in her own name rather than on behalf of all 27 member states",
-        "url": "https://www.haaretz.com/world-news/europe/2026-08-26/ty-article/slovenia-undercuts-eu-condemnation-of-israels-west-bank-e1-settlement-plan/000001a0-3db5-d274-a7f4-bdb5d1300000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3d6d-d5ed-a7a6-7ded024b0000/ce/26/87c8cd0d493d8fef56dcd537393e/725987.jpg?width=1200"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Netanyahu rival Eisenkot says E1 West Bank settlement plan 'a mistake'",
-        "published": "Thu, 27 Aug 2026 12:10:05 +0300",
-        "summary": "In an interview, the former IDF chief said the globally condemned construction plan is inappropriate 'at this time,' while doubling down on his opposition to a two-state solution, saying anyone considering it after October 7 'is simply delusional'",
-        "url": "https://www.haaretz.com/israel-news/elections/2026-08-27/ty-article/.premium/netanyahu-rival-eisenkot-says-e1-west-bank-settlement-plan-a-mistake/000001a0-426b-d02f-a9ed-5e6bdace0000",
-        "image": "https://img.haarets.co.il/bs/0000019f-ae4c-d993-af9f-be5f92340000/38/61/4f752d5e4cb6bb04258bbac6d4e3/953009.jpg?width=1200"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Slovenia PM confirms country blocked EU condemnation of West Bank E1 settlement plan",
-        "published": "Thu, 27 Aug 2026 15:34:47 +0300",
-        "summary": "Prime Minister Janez Janša said Slovenia 'removed' itself from a 'vicious circle' of losing credibility through what he described as disproportionate condemnations of Israel, accusing the EU of being hypocritical by remaining silent on violence and persecution elsewhere in the world",
-        "url": "https://www.haaretz.com/world-news/europe/2026-08-27/ty-article/.premium/slovenia-pm-confirms-country-blocked-eu-condemnation-of-w-bank-settlement-plan/000001a0-4331-d274-a7f4-f7b1b9180000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3d6d-d5ed-a7a6-7ded024b0000/ce/26/87c8cd0d493d8fef56dcd537393e/725987.jpg?width=1200"
       }
     ]
   },
@@ -685,40 +2067,6 @@
         "summary": "The Hollywood actor criticized the concentration of power in the hands of the Ellison family, while also mentioning the family's ties to Israel. Antisemitism is a real threat in America today, but this isn't an example of it",
         "url": "https://www.haaretz.com/opinion/2026-08-27/ty-article-opinion/.premium/mark-ruffalo-is-right-calling-out-power-doesnt-make-you-an-antisemite/000001a0-3fb9-d268-a1fe-3ffdac0c0000",
         "image": "https://img.haarets.co.il/bs/000001a0-3fc5-d274-a7f4-bfe5e8ff0000/1e/53/ecb992ea4f73abfe1b8d4e5a56d5/361567.jpg?width=1200"
-      }
-    ]
-  },
-  {
-    "story_id": 208,
-    "topic": "נהג מונית בחשד לשוד תיירים באתונה",
-    "category": "news",
-    "story_summary": "משפחה ישראלית נהגרמה לשוד בידי נהג מונית באתונה שדרש 600 אירו בתוך איום על אלימות, והנהג נעצר שבועות אחר כך בחשד לרובוציה ודומה כי היה מעורב בגם במקרים נוספים.",
-    "good_news_score": 3,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "נהג מונית ביוון נעצר, כי דרש מישראלים 600 אירו על נסיעה ואיים עליהם",
-        "published": "Wed, 26 Aug 2026 15:25:00 GMT",
-        "summary": "משפחה ישראלית שנחתה באתונה מצאה את עצמה בסיטואציה מאיימת במיוחד: נהג מונית דרש ממנה 600 אירו, איים באלימות ולא אפשר לנוסעים לרדת מהמונית או לקחת את המזוודות. המשפחה שילמה - וכעת, כשבועיים לאחר האירוע, הנהג נעצר בחשד לשוד. המשטרה בודקת אם היה מעורב במקרה נוסף שבו תייר נדרש לשלם 800 אירו. האירוע התרחש בלילה של 13 באוגוסט, לאחר שהמשפחה הישראלית נחתה בנמל התעופה הבין-לאומי של אתונה. לפי משטרת יוון (ELAS), כפי שדווח בתקשורת המקומית, המשפחה עלתה על מונית בנמל התעופה, והנהג הסיע אותה למלון במרכז העיר. אלא שכשהגיעו ליעד, הנסיעה קיבלה תפנית מאיימת. לפי החשד, הנהג בן ה-38 דרש מהמשפחה לשלם 600 אירו, הרבה מעבר למחיר הנסיעה החוקי, שעומד על כ-55 אירו. כאשר הנוסעים סירבו, הוא איים עליהם באלימות ולא אפשר להם לרדת מהמונית או לקחת את המזוודות. בסופו של דבר, בני המשפחה נאלצו לשלם את הסכום שדרש הנהג כדי להשתחרר מהמצב ולקבל את המזוודות שלהם.",
-        "url": "https://travel.walla.co.il/item/3863400",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092945-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 207,
-    "topic": "תקיפה אלימה ושוד",
-    "category": "news",
-    "story_summary": "כתב אישום הוגש נגד משה אלימלך בגין שוד ותקיפה אלימה של עיסוקת מין בדירתה, כשהחשוד איים כי ידקור וירצח אותה ובנס שנתפס עם הכספים והציוד שגנבו. בן 28, שהשתחרר ממאסר רק יומיים קודם לכך, מואשם בעבירות אלה.",
-    "good_news_score": 0,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "\"אני אדקור אותך, אני ארצח אותך\": היצאנית שהותקפה באכזריות על ידי לקוח בראיון בלעדי",
-        "published": "Wed, 26 Aug 2026 16:06:00 GMT",
-        "summary": "כתב אישום הוגש היום (רביעי) נגד משה אלימלך, בן 28, בגין שוד בנסיבות מחמירות של ל', בת 23 שעובדת בשירותי מין. לפי האישום, מה שהחל כמפגש בדירתה במרכז הארץ הפך בתוך דקות לאירוע אלים במיוחד: אלימלך תקף אותה, איים כי ידקור וירצח אותה ונמלט מהמקום עם שני מכשירי אייפון, תיק ואלפי שקלים. זמן קצר לאחר השוד אותר אלימלך סמוך לקניון קריית אונו על ידי שוטרי תחנת בת ים בשיתוף תחנת מסובים, כשלפי המשטרה ברשותו כסף מזומן וקבלות על בגדים שרכש מכספה של ל'. אלא שהחקירה העלתה תמונה מטרידה נוספת: רק יומיים קודם לכן, ב-12 באוגוסט, הוא השתחרר ממאסר בגין עבירות רכוש. כעת, לראשונה מאז אותו לילה, ל' מדברת עם וואלה ומשחזרת את הרגעים שבהם, לדבריה, הייתה בטוחה שלא תצא מהדירה בחיים. \"חשבתי שאני הולכת למות\", היא מספרת. \"זה האירוע הכי הזוי שהיה לי בחיים. לא חשבתי שיקרה לי דבר כזה\".",
-        "url": "https://news.walla.co.il/item/3863403",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092947-46.jpeg"
       }
     ]
   },
@@ -790,48 +2138,6 @@
     ]
   },
   {
-    "story_id": 204,
-    "topic": "דקירה בתא המעצר",
-    "category": "news",
-    "story_summary": "בן 17 תקף את שותפו לתא המעצר בעזרת שבר קרמיקה לאחר מחלוקת על כוס מים, וגרם לו לפציעות בנסיבות מחמירות.",
-    "good_news_score": 0,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "בגלל כוס מים: בן 17 דקר את שותפו לתא המעצר",
-        "published": "Wed, 26 Aug 2026 15:05:44 +0300",
-        "summary": "בן 17 עלה לדיון בבית המשפט בנושא אחר, שוחרר לביתו - ואז התגלה כי דקר את שותפו לתא המעצר בפנים ובצוואר עם שבר קרמיקה. הוא מואשם בפציעה בנסיבות מחמירות",
-        "url": "https://www.ynet.co.il/news/article/bktxye3wzx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/B1vNF43DMg/B1vNF43DMg_1_155_825_465_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 203,
-    "topic": "משבר בהנהלת משטרת תל אביב",
-    "category": "news",
-    "story_summary": "תת-ניצב דניאל חדד, מפקד מרחב איילון, צפוי לפרוש ממשטרה בקרוב לאחר יותר מ-30 שנות שירות, כ'אקט גיבוי' להדחתו של מפקד תחנת חולון על ידי ניצב חיים סרגרוף, מפקד מחוז תל אביב.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "משבר במחוז ת\"א: מפקד מרחב איילון פורש במחאה על הדחת קצין מהמשטרה",
-        "published": "Wed, 26 Aug 2026 16:21:59 +0300",
-        "summary": "תת-ניצב דניאל חדד יעזוב את המשטרה בשבועות הקרובים כ\"אקט של גיבוי\" למפקד תחנת חולון - שהודח לאחרונה על-ידי מפקד מחוז ת\"א ניצב חיים סרגרוף",
-        "url": "https://www.ynet.co.il/news/article/hjbxrv3wfl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/20/HkDyQu70gl/HkDyQu70gl_692_421_1323_745_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "טלטלה במשטרת תל אביב: מפקד מרחב איילון צפוי לפרוש מהמשטרה",
-        "published": "Wed, 26 Aug 2026 17:14:00 GMT",
-        "summary": "תנ\"צ דניאל חדד צפוי לסיים את שירותו במשטרה בקרוב, לאחר יותר מ-30 שנות שירות. גורמים בסביבתו מסרו לוואלה כי ההחלטה התקבלה מסיבות אישיות השמורות עמו ולאחר שמיצה את תפקידו. במקביל, רק לפני כשבוע הודח מפקד תחנת חולון",
-        "url": "https://news.walla.co.il/item/3863418",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/6/3/3963521-46.jpg"
-      }
-    ]
-  },
-  {
     "story_id": 200,
     "topic": "נושאת מטוסים אמריקנית חוזרת לנמל",
     "category": "world",
@@ -845,31 +2151,6 @@
         "summary": "נושאת המטוסים השתתפה במלחמה האמריקנית נגד איראן. לאחרונה דווח על הידרדרות במצבם הנפשי של אנשי הצוות ועל מחסור באספקה בסיסית, לרבות מזון ומוצרי היגיינה",
         "url": "https://news.walla.co.il/item/3863389",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/4/6/3646221-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 191,
-    "topic": "התאמה מקצועית של מורי מתמטיקה ומדעים",
-    "category": "news",
-    "story_summary": "למרות גדלת מספר מורי המתמטיקה והמדעים מאז 2011, נתונים הלמ\"ס חושפים כי חצי מהמורים למתמטיקה בחינוך היסודי אינם מתאימים מקצועית, וחלק משמעותי מהם מלמדים במשך שנים ללא הכשרה מתאימה.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "מאחורי העלייה בכמות המורים: מי באמת מלמד מתמטיקה ומדעים?",
-        "published": "Wed, 26 Aug 2026 13:00:00 GMT",
-        "summary": "נתוני הלמ\"ס מצביעים על גידול במספר עובדי ההוראה במתמטיקה ובמדעים מאז 2011, אך גם על פערי התאמה מקצועית ושיעורי עזיבה לא מבוטלים בקרב מורים חדשים. בחלק מהמקרים, מורים ממשיכים ללמד את מקצועות הליבה החשובים במשך שלוש שנים ויותר - בהיותם חסרי התאמה",
-        "url": "https://news.walla.co.il/item/3863323",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/9/2/3892560-46.jpg"
-      },
-      {
-        "source": "ynet",
-        "title": "חצי מהמורים למתמטיקה בחינוך היסודי - לא מתאימים | הנתונים מדוח הלמ\"ס",
-        "published": "Wed, 26 Aug 2026 14:43:53 +0300",
-        "summary": "מורים רבים למתמטיקה ולמדעים מלמדים את המקצועות לתלמידים מכל שכבות הגיל, למרות שאינם מוכשרים. חלק משמעותי מהמורים הלא מתאימים עוסקים בלימוד המקצועות במשך 3 שנים ויותר",
-        "url": "https://www.ynet.co.il/news/article/h1111kb2vzg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/06/25/9325914/9325914_0_0_640_360_0_medium.jpg"
       }
     ]
   },
@@ -895,40 +2176,6 @@
         "summary": "משטרת קנטון באזל־שטאדט הודיעה כי הפגנה המתוכננת לשבת תחת הכותרת \"Death to Zionism\" - \"מוות לציונות\" - אינה יכולה לקבל אישור, וכי כוחות הביטחון נערכים לנקוט את האמצעים הדרושים כדי להתמודד עמה.",
         "url": "https://news.walla.co.il/item/3863392",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092911-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 198,
-    "topic": "משבר הגירה מישראל",
-    "category": "news",
-    "story_summary": "מאות אלפים עוזבים את ישראל בשנים האחרונות, מעבר לנסיגה מהמלחמה המתמשכת - המדובר גם בהפסד אמון עמוק בהנהגת המדינה ובעתידה.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Israel's emigration crisis is about more than war and security failures",
-        "published": "Wed, 26 Aug 2026 12:49:06 +0300",
-        "summary": "The hundreds of thousands who have left Israel in recent years are not just fleeing a state of constant war; they are expressing a deeper loss of faith in the country's leadership and future",
-        "url": "https://www.haaretz.com/opinion/2026-08-26/ty-article-opinion/.premium/israels-emigration-crisis-is-about-more-than-war-and-security-failures/000001a0-3d57-d5ed-a7a6-7ddff4c90000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3d70-d274-a7f4-bdf1b3310000/2d/cb/10e08b304dd38b63450643dd68b7/432171.jpg?width=1200"
-      }
-    ]
-  },
-  {
-    "story_id": 197,
-    "topic": "תחזוקת טיסות ישראל-סן פרנסיסקו",
-    "category": "business",
-    "story_summary": "אייירליינס יונייטד תחדש טיסות ישירות בין סן פרנסיסקו לתל אביב החל מ-28 במרץ 2027, בפעם הראשונה מאז ביטול הנתיב בעקבות מלחמת גדולה בעזה, כשלוש טיסות בשבוע.",
-    "good_news_score": 7,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "United Airlines to resume San Francisco-Tel Aviv flights in March 2027",
-        "published": "Wed, 26 Aug 2026 12:52:06 +0300",
-        "summary": "For the first time since flights connecting Israel and the Bay Area were canceled following the October 7, 2023 war in Gaza, the direct route will resume on March 28, 2027, with three flights a week",
-        "url": "https://www.haaretz.com/israel-news/2026-08-26/ty-article/.premium/united-airlines-to-resume-san-francisco-tel-aviv-flights-in-march-2027/000001a0-3d6a-d5ed-a7a6-7deac3840000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3dcd-dba3-a3ff-3ddfa9930001/ea/d2/22c417f14fa1a55c5973a1baa602/800348.jpg?width=1200"
       }
     ]
   },
@@ -991,40 +2238,6 @@
     ]
   },
   {
-    "story_id": 193,
-    "topic": "תינוק שנחלץ מסיכות מהדק בדרכי הנשימה",
-    "category": "news",
-    "story_summary": "תינוק שסבל מהיקוש, שיעול וקוצר נשימה במשך שבועות הגיע לבית החולים אסותא אשדוד, והרופאים גילו חבילת סיכות מהדק שחלקן ננעצו בדופן הוושט וגרמו דלקת. הצוות הרפואי ביצע הליך מורכב בן שעה וחצי והצליח לשלוף את כל הסיכות בהצלה רפואית משמעותית.",
-    "good_news_score": 7,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "התינוק התקשה לנשום - והרופאים גילו בוושט סיכות מהדק",
-        "published": "Wed, 26 Aug 2026 12:39:00 GMT",
-        "summary": "התינוק הגיע לאסותא אשדוד אחרי שבועות של שיעול, צפצופים, קוצר נשימה והקאות. צילום חשף חבילת סיכות מהדק, שחלקן ננעצו בדופן הוושט וגרמו לדלקת ולזיהום. בהליך מורכב שנמשך כשעה וחצי הצליחו הרופאים לשלוף אותן, כולל סיכות שננעצו בדופן הוושט",
-        "url": "https://news.walla.co.il/item/3863341",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092789-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 192,
-    "topic": "עימות על הפיילוט להחלפת הסייעות הרפואיות בבתי ספר",
-    "category": "news",
-    "story_summary": "עמותת יה\"ל וההורים דורשים לעצור מיידית את פיילוט להחלפת סייעות רפואיות בסיעות בעשרה בתי ספר, ומאיימים בעתירה לבג\"ץ אם משרד החינוך לא יבטל את התכנית עד 30 באוגוסט.",
-    "good_news_score": 3,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "ההורים מאיימים בבג\"ץ: \"להקפיא מיד את הפיילוט להחלפת הסייעות הרפואיות\"",
-        "published": "Wed, 26 Aug 2026 12:58:00 GMT",
-        "summary": "בעקבות חשיפת וואלה על הצבת אחיות בעשרה בתי ספר כבר בשנת הלימודים הקרובה, עמותת יה\"ל דורשת לעצור את המהלך ולהבטיח שאף ילד לא יאבד את המענה הרפואי הקיים. אם משרד החינוך לא ישיב עד 30 באוגוסט, בעמותה מאיימים לעתור לבג\"ץ",
-        "url": "https://news.walla.co.il/item/3863351",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/3/5/4035822-46.jpeg"
-      }
-    ]
-  },
-  {
     "story_id": 190,
     "topic": "חתונה בטיסה",
     "category": "culture",
@@ -1038,166 +2251,6 @@
         "summary": "שרה ארויו מונטלבו ובן זוגה טסו ב-13 באוגוסט בטיסת סאות'ווסט איירליינס (Southwest Airlines) ללאס וגאס, שם תכננו להינשא בטקס פרטי. אלא שדיילי הטיסה שמעו על התוכנית והחליטו להפוך את הטיסה עצמה לחגיגה בלתי צפויה. מול 178 הנוסעים, קברניט המטוס, שהוא גם כומר מוסמך, ניהל את הטקס והשיא את בני הזוג במהלך הטיסה. כך הפכה הטיסה שהייתה אמורה להוביל אותם לחתונה בלאס וגאס לאירוע החתונה עצמו. צוות הדיילים התגייס למשימה והחל לאלתר אביזרי חתונה מחפצים שהיו זמינים במטוס. הדיילות הכינו לכלה הינומה ושמלת כלה מנייר טואלט, ואפילו את הזר יצרו ממקלות ערבוב לקפה. מונטלבו כתבה לאחר מכן כי בני הזוג מעולם לא טסו קודם לכן עם סאות'ווסט, והוסיפה: \"הגורל לא יכול היה להסתדר בצורה טובה יותר\". היא הודתה לצוות על שהפך את מה שהיה אמור להיות טקס פרטי לחגיגה בלתי צפויה. עוד בנושא: אסור לקיים חתונות באולם? הכירו את \"טיסת החתונה\" בני ערובה בטיסה: זוג התחתן באוויר וחסם את הגישה לשירותים",
         "url": "https://travel.walla.co.il/item/3863357",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092815-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 189,
-    "topic": "סוחר סמים ישראלי נמלט מהודו",
-    "category": "news",
-    "story_summary": "יניב בנעים, סוחר הסמים הישראלי המפורסם שהיה במרכז פרשת סמים שטלטלה את גואה בשנת 2010, נמלט שוב לאחר שלא התייצב לדיון בתיק חדש נגדו. רשויות הודו הוציאו נגדו צו מעצר והתראת גבולות.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "\"מלך הסמים הישראלי של גואה\" שוב נעלם לרשויות בהודו",
-        "published": "Wed, 26 Aug 2026 13:32:00 GMT",
-        "summary": "יניב בנעים, שכונה \"אטאלה\" ועמד במרכז פרשת סמים שטלטלה את גואה ב-2010, לא התייצב לדיון בתיק חדש נגדו לאחר ששוחרר בערבות. הרשויות בהודו הגדירו אותו נמלט, הוציאו נגדו צו מעצר והתראת גבולות - 16 שנה אחרי שנעלם בפעם הראשונה מגואה והוסגר מפרו",
-        "url": "https://news.walla.co.il/item/3863362",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092826-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 188,
-    "topic": "אישום נגד מפקד במג״ב בגין תקיפה ומעשה מיני",
-    "category": "news",
-    "story_summary": "מפקד כיתה במג״ב בא״י נאשם בתקיפה גופנית ובמעשה מיני ללא הסכמה כלפי שוטרת צעירה לאחר משמרת משותפת.",
-    "good_news_score": 0,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "נעל את הדלת, הכה באגרופים ומשך בשיער: מפקד במג\"ב נאשם בתקיפת שוטרת ובמעשה מגונה",
-        "published": "Wed, 26 Aug 2026 13:35:00 GMT",
-        "summary": "איתמר קרקו, מפקד כיתה במג\"ב איו\"ש, נאשם כי לאחר משמרת משותפת לקח שוטרת צעירה למועדון בבסיס אבו דיס, נעל את הדלת וחסם אותה במקל מטאטא. לפי האישום, במסגרת \"משחק זובור\" הוא הכה אותה שוב ושוב, משך בשיערה ובהמשך קירב את פניה לאיבר מינו בניגוד להסכמתה",
-        "url": "https://news.walla.co.il/item/3863367",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/4/3/4043103-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 187,
-    "topic": "תפיסת משאיות בחשד להברחה ברהט",
-    "category": "news",
-    "story_summary": "המשטרה החרימה שתי משאיות ושתי מלגזות בשווי כ-3 מיליון שקל במתחם לוגיסטי ברהט שחשד ששימש להברחת סחורות, וגם עוכד שוהה בלתי חוקי שניסה להימלט מהמקום.",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "בשווי של כ-3 מיליון שקל: המשטרה החרימה משאיות ומלגזות ברהט",
-        "published": "Wed, 26 Aug 2026 14:02:00 GMT",
-        "summary": "במסגרת חקירה נגד תושב רהט פשטו המשטרה ורשויות האכיפה על מתחם לוגיסטי שעל פי החשד שימש להסלקת סחורות. במקום נתפסו שתי משאיות ושתי מלגזות בשווי מיליוני שקלים. שוהה בלתי חוקי שניסה להימלט לאחר שירד ממלגזה עוכב לחקירה",
-        "url": "https://news.walla.co.il/item/3863373",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092837-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 141,
-    "topic": "סערה סביב הצהרות מנסור עבאס בנוגע ליהדות המדינה",
-    "category": "news",
-    "story_summary": "יו״ר רע״מ מנסור עבאס הבהיר כי קבלת הגדרת ישראל כמדינה יהודית הייתה תנאי מכריח לקחת חלק בבחירות, וטוען כי חברי כנסת מימין התקיפו אותו בשל הצהרותיו; באותו זמן הוא מדגיש כי לא מכחיש את הנכבה, הגירוש והנרטיב הפלסטיני.",
-    "good_news_score": 3,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "מנסור עבאס: יהדות המדינה - עובדה שנכפתה עלינו, קיבלנו כדי לא להיפסל בבחירות",
-        "published": "Wed, 26 Aug 2026 11:12:41 +0300",
-        "summary": "יו\"ר רע\"מ כתב בפייסבוק כי עמדתו בנוגע ליהדותה של ישראל \"עוותו וסולפו\", והבהיר: \"לא אנחנו בחרנו ביהדות המדינה. המפלגות הערביות נאלצו לקבל את זה מעשית, אחרת היו נפסלות מהתמודדות בבחירות\". הוא הוסיף: \"אני לא מכחיש את הנכבה, הגירוש או הנרטיב הפלסטיני\"",
-        "url": "https://www.ynet.co.il/news/article/rjnwqfhwzg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/S111BrEU4wfx/S111BrEU4wfx_0_9_945_532_0_medium.jpg"
-      },
-      {
-        "source": "ynet",
-        "title": "התמנון האיסלאמי",
-        "published": "Wed, 26 Aug 2026 00:23:06 +0300",
-        "summary": "עבאס, תלמידו המובהק של דרוויש, הוא אמן הטקטיקה של הדיבור הסימפטי בעברית במקביל למעשים ולדיבור שונה לחלוטין בערבית",
-        "url": "https://www.ynet.co.il/news/article/yokra14877743",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/S111BrEU4wfx/S111BrEU4wfx_0_0_945_630_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "סערה בעקבות דברי מנסור עבאס: \"נאלצנו לקבל את הגדרת המדינה כיהודית כדי שלא ניפסל\"",
-        "published": "Wed, 26 Aug 2026 11:56:00 GMT",
-        "summary": "יו\"ר רע\"ם כתב בערבית כי מפלגתו נאלצה לקבל את הגדרת ישראל כמדינה יהודית כדי להתמודד לכנסת והוסיף כי אינו מכחיש את הנכבה. הדברים עוררו תגובות חריפות בימין: סמוטריץ' כינה אותו \"אויב מסוכן\", בעוצמה יהודית הודיעו שיפעלו לפסילתו, ארדן, וינטר והנדל גם תקפו",
-        "url": "https://news.walla.co.il/item/3863326",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/8/4068701-46.jpg"
-      },
-      {
-        "source": "ynet",
-        "title": "מנסור עבאס: יהדות המדינה - עובדה שנכפתה עלינו, קיבלנו כדי לא להיפסל בבחירות",
-        "published": "Wed, 26 Aug 2026 11:12:41 +0300",
-        "summary": "יו\"ר רע\"מ כתב בפייסבוק כי עמדתו בנוגע ליהדותה של ישראל \"עוותו וסולפו\", והבהיר: \"לא אנחנו בחרנו ביהדות המדינה. המפלגות הערביות נאלצו לקבל את זה מעשית, אחרת היו נפסלות מהתמודדות בבחירות\". הוא הוסיף: \"אני לא מכחיש את הנכבה, הגירוש או הנרטיב הפלסטיני\"",
-        "url": "https://www.ynet.co.il/news/elections2026/article/rjnwqfhwzg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/S111BrEU4wfx/S111BrEU4wfx_0_9_945_532_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 186,
-    "topic": "התקיפה על נזירה בירושלים וזיכוי מחמת אי-שפיות",
-    "category": "news",
-    "story_summary": "גבר תקף נזירה בירושלים ובעט בה, אך בית המשפט זיכה אותו לאחר קביעה שהיה במצב פסיכוטי, והוא יישלח לאשפוז פסיכיאטרי למשך שש שנים.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "הפיל נזירה לקרקע בירושלים, בעט בה - וזוכה מחמת אי-שפיות | תיעוד התקיפה",
-        "published": "Wed, 26 Aug 2026 14:14:06 +0300",
-        "summary": "בית המשפט קבע כי יונה שמחה שרייבר מפדואל ביצע את המעשים שיוחסו לו - אך זיכה אותו בעקבות חוות דעת פסיכיאטרית, שקבעה שהיה במצב פסיכוטי. הוא יישלח לאשפוז פסיכיאטרי למשך שש שנים",
-        "url": "https://www.ynet.co.il/news/article/bkekmrnpgl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/07/rkVauaYAbx/rkVauaYAbx_0_0_850_479_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 185,
-    "topic": "סקר ליכוד וסכסוך עם ערוץ 9",
-    "category": "news",
-    "story_summary": "ליכוד ערכה סקר בקרב ישראלים דוברי רוסית בנוגע לשילוב עיתונאים מערוץ 9 ברשימת הבחירות שלה, וערוץ 9 התנגדה בנוקשות לשימוש בשמות העיתונאים למטרות פוליטיות והעלתה איום משפטי.",
-    "good_news_score": 4,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Likud polls Russian-speaking Israelis on adding Channel 9 journalists to slate",
-        "published": "Wed, 26 Aug 2026 12:29:56 +0300",
-        "summary": "Channel 9 condemned the poll for using its journalists' names for 'political purposes' and threatened legal action. The survey followed a rare Netanyahu interview with the channel, filmed at a Likud campaign studio",
-        "url": "https://www.haaretz.com/israel-news/israel-politics/2026-08-26/ty-article/.premium/likud-polls-russian-speaking-israelis-on-adding-channel-9-journalists-to-slate/000001a0-3d47-ddff-a3a2-7ddf86520000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3d47-ddff-a3a2-7ddf87350001/e0/94/1be12af34ed0b6a841e564992169/192979-2.jpg?width=1200"
-      }
-    ]
-  },
-  {
-    "story_id": 184,
-    "topic": "בית המשפט העליון עוצר מימון לחינוך חרדי והתנחלויות",
-    "category": "news",
-    "story_summary": "בית המשפט העליון הקפיא העברת תקצוב של 400 מיליון שקל שאושרה בהליך דחוק לטענת האופוזיציה, המיועדת לשר החינוך ושר הישוב וענייני המימון.",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Israel's top court halts coalition funds earmarked for Haredi education, West Bank settlements",
-        "published": "Tue, 25 Aug 2026 19:54:08 +0300",
-        "summary": "The transfers, providing about 400 million shekels ($134 million) to the Education Ministry and the Settlement and National Missions Ministry, were approved last month in what opposition MKs claim to be a rushed procedure by the Knesset Finance Committee",
-        "url": "https://www.haaretz.com/israel-news/elections/2026-08-25/ty-article/.premium/top-court-halts-coalition-funds-for-haredi-education-west-bank-settlements/000001a0-3833-dfc3-abf8-be37da540000",
-        "image": "https://img.haarets.co.il/bs/000001a0-389a-dfc3-abf8-be9e5df50001/5b/51/ae44b5094ca29410fd4363300fcc/346949.jpg?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 183,
-    "topic": "משמרת נתניהו בחוף",
-    "category": "news",
-    "story_summary": "בשתי הזדמנויות בשבוע האחרון הצביעו שומרי גופו של נתניהו כלים חישוליים לעבר אזרחים בחוף, מה שמשקף פחד עמוק של ראש הממשלה מישראלים עצמם ולא רק מאיומים חיצוניים.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Netanyahu guards pointing assault rifles at beachgoers shows how he sees Israeli civilians",
-        "published": "Tue, 25 Aug 2026 20:15:36 +0300",
-        "summary": "On two occasions over this past week, Netanyahu's bodyguards have drawn long guns on Israeli civilians, behavior that telegraphs a sense of intense, even mortal, personal embattlement. Netanyahu does not just fear an Iranian assassination plot – he fears Israel's own citizens",
-        "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-08-25/ty-article/.highlight/netanyahu-guards-pointing-guns-at-beachgoers-shows-how-he-sees-israeli-civilians/000001a0-39ad-d274-a7f4-bdadc91a0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-39e2-d936-a7ac-39ef8d250001/71/a2/e66004f64dab9f72fb4165c73369/c25ed2ea-785e-4932-95c9-d56e70d9c030.png?width=108&height=81"
       }
     ]
   },
@@ -1260,40 +2313,6 @@
     ]
   },
   {
-    "story_id": 181,
-    "topic": "תלונה על אלימות משטרה באילת",
-    "category": "news",
-    "story_summary": "גבר מהקהילה העברית הישראלית טוען שנעצר אחרי שעזב מועדון באילת, כאשר שוטרים הכו אותו, כבלוהו והשאירוהו במקום מבודד ורחוק. הוא ביטא חשש שרצו להרוג אותו.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Man says police left him wounded in remote Eilat location after beating",
-        "published": "Tue, 25 Aug 2026 22:34:24 +0300",
-        "summary": "Yadin White, a member of the Hebrew Israelite community, says he was arrested after leaving an Eilat club last week, when two police officers tackled him to the ground, handcuffed him and took him to an isolated location. 'I thought they wanted to kill me,' he said",
-        "url": "https://www.haaretz.com/israel-news/israel-crime/2026-08-25/ty-article/.premium/man-says-police-beat-him-left-him-wounded-in-remote-location-in-southern-israel/000001a0-38b9-d268-a1fe-39fd856a0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-38f2-db47-afe9-fbf6e3820005/d8/3b/5df683774573bc5f9436f5b1dfda/182558.jpg?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 180,
-    "topic": "סחר בזכויות בסיסיות בפוליטיקה",
-    "category": "news",
-    "story_summary": "הרשימה הערבית משתמשת בביטחון אישי כנושא מיקוח פוליטי במעמד של זכות בסיסית. ביקורת על שימוש בזכויות יסוד כמטבע חליפין בהסכמים פוליטיים שמערער על שוויון אמיתי.",
-    "good_news_score": 3,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "The United Arab List is selling the house for a night in a hotel",
-        "published": "Wed, 26 Aug 2026 00:51:17 +0300",
-        "summary": "Personal security is a basic right, not a political prize to be exchanged for recognizing Israel's Jewish character or accepting national service. Partnership built on those terms isn't equality",
-        "url": "https://www.haaretz.com/opinion/2026-08-26/ty-article-opinion/.premium/the-united-arab-list-is-selling-the-house-for-a-night-in-a-hotel/000001a0-34a9-d02f-a9ed-7ceb22860000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3a8f-db47-afe9-fb9fd4dc0001/92/0a/8e00e4a7472494a8958e0f2735a8/49474987.JPG?width=108&height=81"
-      }
-    ]
-  },
-  {
     "story_id": 179,
     "topic": "היהדות כמטבע תרבותי",
     "category": "culture",
@@ -1311,104 +2330,6 @@
     ]
   },
   {
-    "story_id": 51,
-    "topic": "אלטלנה וממלכתיות",
-    "category": "news",
-    "story_summary": "גילוי שרידי אוניית האלטלנה המשיך להדלק ויכוחים פוליטיים על היסודות הדמוקרטיים בישראל, כאשר בכירים פוליטיים מתחלקים על משמעותו ומנסים לנצל את הסמל ההיסטורי לצורכי פרסום עדכניים - כולל סרטון שגרם לפינוי חוף ציבורי בתל אביב.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "שלמה בן ה-97 המתין לנשק מאלטלנה: \"היום יהודים לא יירו על יהודים\"",
-        "published": "Tue, 25 Aug 2026 17:50:39 +0300",
-        "summary": "איתור שרידי אוניית האצ\"ל הציף מחדש את הסיפורים האישיים של אלו שהיו שם משני צדי המתרס. בתו של ישראל סנדר, שהיה על האלטלנה ויצא ללא פגע: \"אבא איבד חברים רבים ולא דיבר על כך\". יניב סימון, נכדו של בנימין בובש שקיבל את המשימה להטביע את הספינה: \"בזמן אמת הוא לא הבין את גודל האירוע\"",
-        "url": "https://www.ynet.co.il/news/article/rjn11t1ovfe",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/BklGJffoDMe/BklGJffoDMe_0_0_1280_720_0_medium.jpg"
-      },
-      {
-        "source": "ynet",
-        "title": "אלטלנה לא הייתה רק טרגדיה. היא אזהרה",
-        "published": "Tue, 25 Aug 2026 08:26:05 +0300",
-        "summary": "יותר מ-70 שנה אחרי העימות בין צה\"ל לאצ\"ל, פרשת אלטלנה שוב הופכת לכלי פוליטי בידי בנימין נתניהו ואיתמר בן גביר. אבל הלקח ההיסטורי שלה נוגע דווקא לממלכתיות: למדינה אחת, לצבא אחד ולמונופול אחד על השימוש בכוח. אחרי הכול, כל מי שמביט בהתרחשויות באיו\"ש בשנתיים האחרונות חייב לזכור מה קורה כשקיצונים מסרבים לקבל את דין הריבון",
-        "url": "https://www.ynet.co.il/news/article/rjgwgj5pge",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/H1CcIk9Dzg/H1CcIk9Dzg_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Altalena shipwreck found intact underwater 78 years after IDF sank Irgun vessel",
-        "published": "Mon, 24 Aug 2026 11:25:35 +0300",
-        "summary": "The vessel was found 500 meters underwater, over seven decades after it was was brought to Israel's coast by the Irgun militia loaded with weapons and fighters. Ben-Gurion saw it as a threat to the state's sovereignty and ordered it to be fired upon",
-        "url": "https://www.haaretz.com/jewish/history/2026-08-24/ty-article/.premium/altalena-shipwreck-found-intact-underwater-78-years-after-idf-sank-irgun-vessel/000001a0-32c2-df45-a1a5-b7efcf090000",
-        "image": "https://img.haarets.co.il/bs/000001a0-32c2-df45-a1a5-b7efcf4f0000/19/1c/b2baecfe45cf8bd3cdbd84b3ee3f/370700.jpg?width=108&height=81"
-      },
-      {
-        "source": "ynet",
-        "title": "להחזיר את אלטלנה לים",
-        "published": "Wed, 26 Aug 2026 00:24:44 +0300",
-        "summary": "השתגעתם. תחזירו את הספינה למאיפה שבאה. אותה ואת השדים שלה. ההקבלות, ההשלכות, הלקחים, הפנדורות. הכל חזרה לבקבוק. גדול עלינו. טרי לנו. אנחנו לא במצב",
-        "url": "https://www.ynet.co.il/news/article/yokra14877716",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/HyQe5dJoPzx/HyQe5dJoPzx_0_0_503_400_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "אלטלנה: החשש ממלחמת אזרחים שמסרס את הימין",
-        "published": "Wed, 26 Aug 2026 07:56:00 GMT",
-        "summary": "אלטלנה הפכה מטראומה היסטורית לרפלקס פוליטי שמרתיע את הימין מעימות עם מוקדי כוח לא נבחרים. פרופ' משה כהן-אליה טוען כי הממלכתיות לא נועדה לבטל מאבק דמוקרטי - אלא להציב לו גבולות: לא אלימות ולא אנרכיה, אבל גם לא כניעה בשם החשש ממלחמת אחים",
-        "url": "https://news.walla.co.il/item/3863262",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/0/9/3909196-46.jpg"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "I was on the Altalena. Its political exploitation distorts memory and history",
-        "published": "Wed, 26 Aug 2026 11:09:26 +0300",
-        "summary": "The far right calls the ship's rediscovery a symbol of unity. But the Altalena's memory does not belong to those now stoking grievance and revenge",
-        "url": "https://www.haaretz.com/opinion/2026-08-26/ty-article-opinion/.premium/i-was-on-the-altalena-its-political-exploitation-distorts-memory-and-history/000001a0-391e-ddff-a3a2-7d9e645a0000",
-        "image": "https://img.haarets.co.il/bs/0000019f-d72f-d7e2-a39f-f7effc120001/8e/54/621260b6495682aea7d51afd272f/a-view-from-abd-al-nabi-cemetery-altalena-on-fire-after-being-shelled-from-tel-aviv-june-22-1948.jpg?width=108&height=81"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Netanyahu's gun-toting security detail clears Tel Aviv beach for Altalena video shoot",
-        "published": "Wed, 26 Aug 2026 01:18:27 +0300",
-        "summary": "Shin Bet defends security measures after bodyguards clear beachgoers so the prime minister could film a video about the newly found shipwreck",
-        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-26/ty-article/.premium/netanyahus-gun-toting-security-detail-clears-tel-aviv-beach-for-video-shoot/000001a0-3af2-d40e-a9f2-3bfa88620000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3afb-d936-a7ac-3aff369f0001/2e/b6/28972ab14b228ef7c184cd908774/img-20260825-wa0013.jpg?width=108&height=81"
-      },
-      {
-        "source": "ynet",
-        "title": "מורשת של הנמכת להבות",
-        "published": "Thu, 27 Aug 2026 00:29:30 +0300",
-        "summary": "מורשתו של מנחם בגין בכלל ובאלטלנה בפרט, הייתה ותהיה קריאתו \"לא למלחמת אחים\". השנאה העיוורת, המערבלת חושים ומעשים, היא האויב של חברה, של מדינה, של עם. ולכן, חשיבותה של המורשת של האלטלנה היא בהורדת להבות השנאה וההסתה בימים האלה בין הצדדים היריבים בעם היהודי ובין האזרחים היהודים והערבים",
-        "url": "https://www.ynet.co.il/news/article/yokra14879332",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/08/25/By0980tKlx/By0980tKlx_0_0_687_630_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "שקעה במצולות, צפה בזיכרון: שרידי אלטלנה נחשפו, אבל מלחמת האחים עדיין כאן",
-        "published": "Fri, 28 Aug 2026 14:25:00 GMT",
-        "summary": "איתור האונייה בעומק הים הצית מחדש את אחד הפצעים המדממים בישראל. בעוד הפוליטיקאים קוראים לאחדות, האנדרטאות בחוף ממשיכות לספר רק חצי מהסיפור - ומחקו לחלוטין את חיילי צה\"ל שנפלו בקרב",
-        "url": "https://news.walla.co.il/item/3863696",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/2/5/1/8/2518799-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 178,
-    "topic": "יוזמת נתניהו לאיסוף נתונים בחירות",
-    "category": "news",
-    "story_summary": "נתניהו הזמין אזרחים להתקשר אליו עם דאגות, אך מומחים חשפו שיוזמה זו נועדה לאסוף מידע למסד הנתונים של הליכוד לקראת הבחירות באוקטובר, תוך חשיפת פרטים אישיים של המשתתפים ברשתות חברתיות.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Netanyahu invited Israelis to call him. Experts warn that he just wants their data",
-        "published": "Wed, 26 Aug 2026 01:45:08 +0300",
-        "summary": "The Israeli prime minister urged citizens to call him with their concerns, but experts warn the initiative is more about gathering information for Likud's campaign database ahead of the October election – as social media content exposed users' information online in the process",
-        "url": "https://www.haaretz.com/israel-news/israel-politics/2026-08-26/ty-article/.premium/netanyahu-invited-israelis-to-call-him-experts-warn-he-just-wants-their-data/000001a0-3b08-d268-a1fe-3b5ce13a0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3b15-d268-a1fe-3b553c1e0002/0e/0f/77881ec343cc9f2b6b53a0dc33f2/whatsapp-image-2026-08-24-at-19-02-55.jpeg?width=108&height=81"
-      }
-    ]
-  },
-  {
     "story_id": 177,
     "topic": "קריקטורה",
     "category": "culture",
@@ -1422,31 +2343,6 @@
         "summary": "",
         "url": "https://www.haaretz.com/opinion/daily-cartoon/2026-08-26/ty-article-opinion/haaretz-cartoon/000001a0-3be9-d268-a1fe-3bfd14bc0000",
         "image": "https://img.haarets.co.il/bs/000001a0-3bea-d02f-a9ed-7feb4a2b0001/be/a9/2acb46bb407c89b59b0b5163e031/image-2026-08-25-193330520.png?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 175,
-    "topic": "קבוצת נוער שמאלית תכננה התיישבות בגדה",
-    "category": "news",
-    "story_summary": "קבוצת הנוער השמאלית 'המחנות הולים' בוחנת הקמת קיבוץ בעמק הירדן, צעד שעורר ביקורת כסתירה לעמדות שמאליות בנושא התיישבויות.",
-    "good_news_score": 3,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Israeli left-wing youth group plans kibbutz-style settlement in West Bank",
-        "published": "Wed, 26 Aug 2026 10:00:11 +0300",
-        "summary": "Hamahanot Haolim – a century-old 'pioneering, socialist Zionist youth group' – says it is exploring the possibility of building a new Kibbutz in the Jordan Valley, arguing that leftists should populate the area rather than far-right outposts inhabited by violent settlers",
-        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-26/ty-article/.premium/israeli-leftist-youth-group-plans-kibbutz-style-settlement-in-jordan-valley/000001a0-3b22-d268-a1fe-3b7675040000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3b8f-d274-a7f4-bfaf7c1f0001/46/ff/cc8d75d845eb83d496d8c1feec3a/556436-2.jpg?width=108&height=81"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "The Israeli left should be fighting settlements - not building them",
-        "published": "Wed, 26 Aug 2026 01:00:34 +0300",
-        "summary": "It's hard to think of anything more hypocritical – humanism with dispossession, socialism with expulsion. With a left like this, there's truly no need for the right",
-        "url": "https://www.haaretz.com/opinion/editorial/2026-08-26/ty-article-opinion/the-israeli-left-should-be-fighting-settlements-not-building-them/000001a0-3a0b-d936-a7ac-3a2f03a10000",
-        "image": "https://img.haarets.co.il/bs/0000019c-6b7d-d759-a7bf-ffff55fd0000/57/f5/913ca5534e22bbcadba9aa907b7b/364586.jpg?width=108&height=81"
       }
     ]
   },
@@ -1480,57 +2376,6 @@
         "summary": "Israeli intelligence reportedly uncovered the plot last December, prompting Yair Netanyahu to immediately leave his Miami-area home and return to Israel",
         "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-26/ty-article/iran-planned-to-assassinate-netanyahus-son-yair-in-florida-report-says/000001a0-3cb1-d274-a7f4-bcb112a60000",
         "image": "https://img.haarets.co.il/bs/0000019f-b84d-de01-a5bf-ff4d3d7f0000/e7/b4/82c232c74d3595a896bf8914d59b/808610-3.jpg?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 174,
-    "topic": "טיפול בבעלי חיים משוטטים בבסיסי צה\"ל",
-    "category": "news",
-    "story_summary": "עמותת הגנת בעלי חיים שלחה למנהיגות הצבא דרישה דחופה להתערבות בטיפול בכלבים וחתולים משוטטים בבסיסים, לאחר טענות כי הצבא לא מספק טיפול וטרינרי מספיק ומומת בעלי חיים בשטח במקום לשלחם להסגר או לעמותות.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "\"המתת חסד\": צה\"ל יורה בכלבים בבסיסים במקום למצוא להם מקלט",
-        "published": "Tue, 25 Aug 2026 22:00:00 GMT",
-        "summary": "עמותת \"תנו לחיות לחיות\" שיגרה השבוע מכתב בהול לשר הביטחון ישראל כ\"ץ, לרמטכ\"ל אייל זמיר ולקצין הרפואה הראשי, בדרישה להתערבות דחופה בטיפול בכלבים ובחתולים משוטטים בבסיסי צה\"ל. לטענת העמותה, הצבא אינו מעניק לחלק מבעלי החיים טיפול רפואי מספק, צמצם את פעולות העיקור והסירוס, ובהיעדר התקשרות עם מתקן הסגר - כלבים נלכדים ומומתים בשטח. הצרה החדשה מעזה: מאות כלבים משוטטים חדרו לישראל במכתב ששיגרה מנכ\"לית העמותה יעל ארקין, נטען כי בחודשים האחרונים התקבלו פניות רבות מחיילים, מהורי חיילים ומגורמים בצבא בנוגע לבעלי חיים פצועים וחולים שאינם מקבלים טיפול. בעמותה מדגישים כי פקודות מטכ\"ל מחייבות להעביר בעלי חיים משוטטים שנלכדו, לרבות בעלי חיים פצועים, לתחנת הסגר, לעמותה או לרשות הטבע והגנים, בהתאם להנחיית וטרינר צבאי.",
-        "url": "https://travel.walla.co.il/item/3863218",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092633-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 173,
-    "topic": "תקיפת נהג אוטובוס",
-    "category": "news",
-    "story_summary": "בן 18 התקיף נהג אוטובוס בקו מבני ברק למודיעין עילית וגרם לו לפציעות בגופו, והחשוד נעצר בחשד לתקיפה קשה.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "בן 18 חשוד שתקף נהג אוטובוס - זו הגרסה שמסר בחקירה",
-        "published": "Tue, 25 Aug 2026 22:06:00 GMT",
-        "summary": "החשוד, בן 18, הובא הבוקר (שלישי) לבית המשפט לאחר שנעצר בחשד לתקיפה קשה של נהג אוטובוס במודיעין עילית. לבקשת המשטרה, מעצרו הוארך בשלושה ימים נוספים, עד יום חמישי, לצורך המשך החקירה. האירוע התרחש ביום רביעי האחרון, לאחר חצות. נהג תחבורה ציבורית שנסע בקו שירות מבני ברק למודיעין עילית דיווח כי הותקף במהלך הנסיעה בידי מספר צעירים. בעקבות התקיפה נגרמו לו חבלות בגופו והוא נזקק לטיפול רפואי. לאחר קבלת הדיווח נפתחה חקירה בתחנת מודיעין עילית. הנהג מסר עדות ובה תיאר את מה שהתרחש במהלך הנסיעה, ובמקביל נבדק תיעוד מצלמות האבטחה מתוך האוטובוס. לפי עדותו של הנהג והתיעוד שנאסף, אחד הצעירים הצליח לפרוץ את מחיצת המגן שמפרידה בין הנהג לנוסעים, הגיע עד אליו בעודו יושב במקומו והחל להכות אותו. בתיעוד נראה החשוד חובט בנהג באגרופים ובועט בו.",
-        "url": "https://news.walla.co.il/item/3863216",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/1/5/3/0/1530798-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 172,
-    "topic": "תרמית בשם בית חולים בילינסון",
-    "category": "news",
-    "story_summary": "חולה בחו\"ל הונאה על ידי מתחזים שהעמידו עצמם כעובדי בית חולים בילינסון וגבו ממנה כסף עבור טיפול רפואי. בית החולים הגיש תלונה למשטרה לחקירת המקרה.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "העוקץ בשם בילינסון: התחזו לאנשי צוות וגבו כסף ממטופלת בחו\"ל",
-        "published": "Tue, 25 Aug 2026 22:08:00 GMT",
-        "summary": "המטופלת הייתה משוכנעת שהיא מתנהלת מול גורמים הקשורים לבית החולים בילינסון, שילמה עבור טיפול רפואי - ורק בהמשך התברר כי נפלה קורבן לתרמית. בעקבות גילוי המקרה הוגשה תלונה במשטרה. מבית החולים בילינסון נמסר: \"אנו סומכים על משטרת ישראל שתמצה את החקירה עד תום\".",
-        "url": "https://news.walla.co.il/item/3863217",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/2/6/2/3262160-46.jpeg"
       }
     ]
   },
@@ -1603,23 +2448,6 @@
     ]
   },
   {
-    "story_id": 167,
-    "topic": "מרדף וההתנגשות רכב גנוב בירושלים",
-    "category": "news",
-    "story_summary": "חשוד בגניבת רכב נמלט מהשוטרים בנסיעה בניגוד לכיוון התנועה בירושלים, והשוטרים ירו לעברו בניסיון לעצור אותו. החשוד התנגש בעמוד וברכב פרטי בצומת א-טור וההתנגשות הביאה לכך שהוא נהרג, כשגם שוטר ואזרח נפצעו קל.",
-    "good_news_score": 1,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "חשוד בגניבת רכב נהרג בתום מרדף לילי בירושלים",
-        "published": "Wed, 26 Aug 2026 07:27:00 GMT",
-        "summary": "לפי המשטרה, החשוד נמלט ברכב שנגנב מקטמון ונסע בניגוד לכיוון התנועה. השוטרים ירו לעבר גלגלי הרכב בניסיון לעצור אותו, אך הוא המשיך בנסיעה עד שהתנגש בעמוד וברכב פרטי בצומת א-טור. שוטר ואזרח נפצעו קל",
-        "url": "https://news.walla.co.il/item/3863256",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092680-46.jpeg"
-      }
-    ]
-  },
-  {
     "story_id": 166,
     "topic": "ניצחון בפריימריז רפובליקני",
     "category": "world",
@@ -1650,31 +2478,6 @@
         "summary": "יום הכלב הבינלאומי, שחל היום (26 באוגוסט), הוא הזדמנות להציץ בקשר המיוחד שנרקם בישראל בין בני האדם לחבריהם הטובים ביותר. סקר חדש שנערך על ידי מכון המחקר רושינק עבור רויאל קנין ישראל, המתמחה בתזונה בריאותית מדויקת ומבוססת מדע לכלבים ולחתולים, מציג תמונה מעניינת של הרגלי בעלי הכלבים בישראל ועד כמה חיות המחמד הפכו לחלק בלתי נפרד מחיי המשפחה. לפי הסקר, 24% מהציבור בישראל מגדלים כלב בבית, לעומת 15% שמגדלים חתול. בקרב בעלי הכלבים, הרוב המכריע - 88% - מגדירים את הכלב כבן משפחה לכל דבר. אבל הקשר המשפחתי לא מסתיים בהגדרה. 94% מבעלי הכלבים מספרים כי הם מדברים אל הכלב שלהם באופן קבוע או לפעמים כאילו הוא מבין כל מילה. כמעט מחצית - 47% - אף מדווחים שהכלב ישן איתם בחדר השינה, וב-17% מהמקרים הוא אפילו חולק עם הבעלים את המיטה. עוד על כלבים: צפו: הדיילת בשוק, כשכלב מסוג \"דני ענק\" נכנס למטוס קטן \"לכו ת**יינו\": צפו בנוסעת שהתפרעה בטיסה כי לא הרשו לה לשבת עם הכלב",
         "url": "https://travel.walla.co.il/item/3863053",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/6/8/3968857-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 148,
-    "topic": "כישורי המורים בישראל",
-    "category": "news",
-    "story_summary": "מחקר של מוסד שורש חוזק ממצאים כי מורים בישראל דורגו במקום ה-16 מתוך 19 מדינות OECD בכישורי בסיס כמו קריאה, מתמטיקה ופתרון בעיות. הפערים משמעותיים במיוחד בהשכלת מורים למדעים וטכנולוגיה, בחינוך הערבי ובגיל הרך, עם רק 78% מהמורים בעלי תואר אקדמי.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "במקום ה-16, גם אחרי צ'ילה: כישורי המורים בישראל - מהנמוכים במדינות המפותחות",
-        "published": "Wed, 26 Aug 2026 07:58:37 +0300",
-        "summary": "המורים בישראל הגיעו למקום ה-16 מתוך 19 במבחן מיומנויות המבוגרים PIAAC, על פי בדיקת מוסד שורש למחקר כלכלי-חברתי. הנתונים שמתייחסים לשנים 2023-2022 מעלים כי שיעור המורים האקדמאים בארץ נמוך יחסית. פער חד במיוחד בקרב בעלי ההשכלה במדעים וטכנולוגיה - ענף שעליו מתחרה ההייטק עם מערכת החינוך",
-        "url": "https://www.ynet.co.il/news/article/r1ufnjhwmx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/S1gDfNemGl/S1gDfNemGl_0_0_3000_2000_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "מקום 16 מתוך 19 מדינות: כישורי המורים בישראל מהנמוכים בעולם המפותח",
-        "published": "Wed, 26 Aug 2026 08:14:00 GMT",
-        "summary": "מחקר של מוסד שורש מצא כי המורים בישראל מפגרים אחרי עמיתיהם ב-OECD בקריאה, מתמטיקה ופתרון בעיות, הפערים בולטים במיוחד בקרב מורים למדעים וטכנולוגיה, בחינוך הערבי ובגיל הרך, רק 78% מהמורים בישראל בעלי תואר אקדמי",
-        "url": "https://news.walla.co.il/item/3863267",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/4/6/3946083-46.jpg"
       }
     ]
   },
@@ -2019,82 +2822,6 @@
     ]
   },
   {
-    "story_id": 89,
-    "topic": "Netherlands to boycott Eurovision for second year over Israel's participation",
-    "category": "world",
-    "story_summary": "A Dutch broadcaster said the contest cannot be considered neutral as long as Israel participates due to the humanitarian situation in Gaza, and called on the European Broadcasting Union to establish clear rules for countries involved in military conflicts",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Netherlands to boycott Eurovision for second year over Israel's participation",
-        "published": "Mon, 24 Aug 2026 20:26:37 +0300",
-        "summary": "A Dutch broadcaster said the contest cannot be considered neutral as long as Israel participates due to the humanitarian situation in Gaza, and called on the European Broadcasting Union to establish clear rules for countries involved in military conflicts",
-        "url": "https://www.haaretz.com/world-news/europe/2026-08-24/ty-article/.premium/netherlands-to-boycott-eurovision-for-second-year-over-israels-participation/000001a0-34b1-d936-a7ac-3cbdc3170000",
-        "image": "https://img.haarets.co.il/bs/000001a0-34bb-d797-a3a2-b5bb0a450007/96/a8/cbadd479400092321a5967254aec/400333.jpg?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 78,
-    "topic": "Amended Montreal city council resolution rejects call to suspend ties with Israel",
-    "category": "world",
-    "story_summary": "The resolution's softened wording says the city 'expresses solidarity with the Palestinian people as well as all civilian victims of hostilities.' The Centre for Israel and Jewish Affairs condemned the vote as 'importing international conflicts'",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Amended Montreal city council resolution rejects call to suspend ties with Israel",
-        "published": "Tue, 25 Aug 2026 19:06:37 +0300",
-        "summary": "The resolution's softened wording says the city 'expresses solidarity with the Palestinian people as well as all civilian victims of hostilities.' The Centre for Israel and Jewish Affairs condemned the vote as 'importing international conflicts'",
-        "url": "https://www.haaretz.com/jewish/2026-08-25/ty-article/.premium/amended-montreal-city-council-resolution-rejects-call-to-suspend-israel-ties/000001a0-392d-d268-a1fe-397dce510000",
-        "image": "https://img.haarets.co.il/bs/000001a0-394d-db47-afe9-fbdd9fac0001/81/9f/933bb352409d90eb4f3a2504d533/371994.jpg?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 77,
-    "topic": "Abdul El-Sayed distances himself from Hasan Piker over remarks on Jews, Israel",
-    "category": "world",
-    "story_summary": "El-Sayed, the Democratic nominee for Senate in Michigan, responded to a barrage of criticism after Piker said U.S. Jews who support Israel could lead 'somebody' to 'take actions against American Jews'",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Abdul El-Sayed distances himself from Hasan Piker over remarks on Jews, Israel",
-        "published": "Mon, 24 Aug 2026 21:54:00 +0300",
-        "summary": "El-Sayed, the Democratic nominee for Senate in Michigan, responded to a barrage of criticism after Piker said U.S. Jews who support Israel could lead 'somebody' to 'take actions against American Jews'",
-        "url": "https://www.haaretz.com/us-news/2026-08-24/ty-article/.premium/abdul-el-sayed-distances-himself-from-hasan-piker-over-remarks-on-jews-israel/000001a0-34fd-d797-a3a2-b5ffdd5f0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3445-de46-a3a8-fc5f38b50000/01/6e/961e204941169c7ac4830fb4743e/003818.jpg?width=108&height=81"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "'Ready for the backlash?' Hasan Piker talks Hamas, anti-Zionism and why Americans are fed up with Israel",
-        "published": "Mon, 24 Aug 2026 19:22:35 +0300",
-        "summary": "In his first interview with Israeli media, left-wing streamer Hasan Piker tells Haaretz that October 7 must be seen in the context of the Israeli occupation, that even liberal Zionists should be 'named and shamed,' and explains why most Americans just don't like Israel anymore",
-        "url": "https://www.haaretz.com/us-news/2026-08-24/ty-article-magazine/.premium/hasan-piker-talks-hamas-anti-zionism-and-why-americans-are-fed-up-with-israel/000001a0-29fd-d293-a1e7-39fdf95c0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-33be-d36c-a3a8-33be00ee0000/f3/42/4589ff8d42b0a48aae6e91caaef1/tv10.jpg?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 92,
-    "topic": "Israeli airline Israir clears final hurdle to begin flying the Tel Aviv-New York route",
-    "category": "business",
-    "story_summary": "Following approval by the U.S. federal authority, the airline is due to begin service between Tel Aviv and New York's JFK International Airport on Oct. 19, although the carrier said it would consider beginning service before that",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Israeli airline Israir clears final hurdle to begin flying the Tel Aviv-New York route",
-        "published": "Mon, 24 Aug 2026 19:02:59 +0300",
-        "summary": "Following approval by the U.S. federal authority, the airline is due to begin service between Tel Aviv and New York's JFK International Airport on Oct. 19, although the carrier said it would consider beginning service before that",
-        "url": "https://www.haaretz.com/israel-news/travel/news/2026-08-24/ty-article/.premium/israeli-airline-israir-clears-last-hurdle-to-fly-to-new-york/000001a0-3435-d02f-a9ed-7c7fa8ce0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3480-d02f-a9ed-7cebba4c0001/93/f4/3175749e67bd95a1403082c6393f/2879865161.jpg?width=108&height=81"
-      }
-    ]
-  },
-  {
     "story_id": 125,
     "topic": "Being Israeli abroad has become embarrassing. You don't talk about it",
     "category": "culture",
@@ -2435,358 +3162,6 @@
     ]
   },
   {
-    "story_id": 87,
-    "topic": "Trump can stop the next war in the West Bank, but he must act now",
-    "category": "security",
-    "story_summary": "Even Trump's ambassador to Israel, a staunch supporter of the settlements, has hinted at American sanctions against violent settlers. The U.S. must adopt such a policy, before it's too late",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Trump can stop the next war in the West Bank, but he must act now",
-        "published": "Mon, 24 Aug 2026 21:17:14 +0300",
-        "summary": "Even Trump's ambassador to Israel, a staunch supporter of the settlements, has hinted at American sanctions against violent settlers. The U.S. must adopt such a policy, before it's too late",
-        "url": "https://www.haaretz.com/opinion/2026-08-24/ty-article-opinion/.premium/trump-can-stop-the-next-war-in-the-west-bank-but-he-must-act-now/000001a0-34e3-d268-a1fe-3df7e3020000",
-        "image": "https://img.haarets.co.il/bs/000001a0-34ee-d797-a3a2-b5ee820b0000/08/40/dbe1bcc54f5e9f34450def026054/145101.jpg?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 84,
-    "topic": "Israelis only see the victim when it's a donkey",
-    "category": "security",
-    "story_summary": "The powerlessness of the victims is the modus of operandi of settler terror",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Israelis only see the victim when it's a donkey",
-        "published": "Mon, 24 Aug 2026 23:42:18 +0300",
-        "summary": "The powerlessness of the victims is the modus of operandi of settler terror",
-        "url": "https://www.haaretz.com/opinion/2026-08-24/ty-article-opinion/.premium/israelis-only-see-the-victim-when-its-a-donkey/000001a0-34c5-d936-a7ac-3cedca760000",
-        "image": "https://img.haarets.co.il/bs/000001a0-2040-d0e6-a9b9-647a88560007/9c/46/d10c9bd846c4b972bd75fe23999e/whatsapp-image-2026-08-20-at-18-08-45.jpeg?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 81,
-    "topic": "Palestinian detained for 'spreading false information' after alleging settlers set fire to her home",
-    "category": "security",
-    "story_summary": "Police, having backtracked on their initial claim that an electrical fault caused the fire, told a military court the Palestinian woman made false accusations that could spark revenge. The cause of the fire remains under investigation, a source said",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Palestinian detained for 'spreading false information' after alleging settlers set fire to her home",
-        "published": "Tue, 25 Aug 2026 06:10:12 +0300",
-        "summary": "Police, having backtracked on their initial claim that an electrical fault caused the fire, told a military court the Palestinian woman made false accusations that could spark revenge. The cause of the fire remains under investigation, a source said",
-        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-25/ty-article/.premium/palestinian-woman-detained-after-claiming-settlers-set-fire-to-her-home/000001a0-35fb-d94e-abeb-ffff18530000",
-        "image": "https://img.haarets.co.il/bs/000001a0-363a-d936-a7ac-3e3f0a6e0007/94/b0/5fb29bbf40b0a667eb7191c836ac/192689.jpg?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 73,
-    "topic": "קונספירציות והאנטישמיות",
-    "category": "world",
-    "story_summary": "תיאוריות קונספירציה סודיות מחזקות אנטישמיות בעולם וחודרות כעת לתוך הפוליטיקה הישראלית.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "מפיצי קונספירציות משחקים לידי האנטישמיות העולמית",
-        "published": "Tue, 25 Aug 2026 09:58:00 GMT",
-        "summary": "דעות קדומות מובילות להדרה, אך אמונה במזימות סודיות סוללת את הדרך להשמדה. כעת, צורת החשיבה ההרסנית הזו מחלחלת מאירופה וארצות הברית היישר אל הפוליטיקה הישראלית",
-        "url": "https://news.walla.co.il/item/3863021",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/6/4086892-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 72,
-    "topic": "משימת הגמר של פאוור קאפל",
-    "category": "culture",
-    "story_summary": "משימת הגמר של תכנית פאוור קאפל כללה שלב נוסף באליפות ישראל באכילת ראשים והתנהגות פאסיבית-אגרסיבית בין המשתתפים. התכנית הגיעה לשיאה עם הופעתה של אודיה פינטו שצרחה בחלק מהאירוע.",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "החזקתי מעמד עד שהגיע \"מה שמפחיד בלהיות סבא זה שצריך לשכב עם סבתא\"",
-        "published": "Tue, 25 Aug 2026 11:00:00 GMT",
-        "summary": "משימת הגמר של \"פאוור קאפל\" הייתה עוד שלב באליפות ישראל באכילת ראשים ובפאסיב-אגרסיב. אין צורך להסתלבט על אלה שנכנסו למשחק - הם עושים את זה מצוין בעצמם. והבשורה הרעה באמת: זה לא נגמר עד שאודיה פינטו צורחת",
-        "url": "https://e.walla.co.il/item/3863036",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092162-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 69,
-    "topic": "מלחמת נרטיבים בתקשורת בעידן הנוכל",
-    "category": "world",
-    "story_summary": "אזרבייג'ן תובעת את CNN על כיסוי דיווחי שהיא רואה כמטעים, ממחישה כיצד דיווח מערבי יכול להפוך לכלי בידי כוחות זרים לשם התפשטות תעמולה. כתב הדעה קובע כי ישראל צריכה ללמוד מזה ולהיות פעילה יותר בהגנה על הנרטיב שלה מול סיפורים שהיא רואה כמסוכנים.",
-    "good_news_score": 4,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "אזרבייג'ן, CNN והשאלה שישראל צריכה לשאול את עצמה | דעה",
-        "published": "Tue, 25 Aug 2026 12:00:00 GMT",
-        "summary": "כשדיווח מערבי הופך לכלי בידי איראן, הנזק כבר אינו רק תדמיתי. התביעה של באקו נגד CNN ממחישה כיצד מדינה יכולה להילחם בנרטיב שהיא רואה כמסוכן, ומציבה בפני ישראל שאלה לא נוחה: למה היא משאירה כל כך הרבה מהמאבק הזה לאחרים?",
-        "url": "https://news.walla.co.il/item/3863054",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/0/4/3604043-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 68,
-    "topic": "ריגול וניסיון חבלה בחשד לרוסיה",
-    "category": "world",
-    "story_summary": "בן 24 חשוד בריגול לטובת רוסיה וחברות בקבוצה שתכננה פיגועים וחבלה במדינות נאטו, כולל הברחת חומרי נפץ לאוקראינה וביצוע ניסיונות פיגועי תופת. החקירה המשותפת של גרמניה, פולין ורומניה חושפת תוכנית שהעלולה היתה להביא לנפגעים בקרב הציבור.",
-    "good_news_score": 1,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "בחשד לריגול עבור רוסיה: החקירה המשותפת של גרמניה, פולין ורומניה",
-        "published": "Tue, 25 Aug 2026 16:44:00 GMT",
-        "summary": "בן ה-24, חשוד בשייכות לקבוצה שתכננה פיגועים ופעולות חבלה במדינות המשתייכות לארגון נאט\"ו, כך לפי תחקיר \"דר שפיגל\" הגרמני. בין האישומים: הברחת חומרי נפץ לאוקראינה, וניסיונות פיגועי תופת. \"אם המטענים היו מתפוצצים - כל מי שהיה בסביבה היה בסכנה\", נכתב",
-        "url": "https://news.walla.co.il/item/3863148",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/9/7/3897265-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 60,
-    "topic": "מחאה על שיקום עזה וביטחון",
-    "category": "security",
-    "story_summary": "תושבי העוטף מפגינים נגד שיקום חמאס ועפיפוני הנפץ, בעוד הרמטכ״ל מדגיש התחייבות צה״ל להילחם בחמאס וגורמים בינלאומיים קוראים להפסקת כל פעילות חמושה בעזה.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "בכרם שלום הפגינו, בעזה הזהירו הורים בתיאום עם חמאס: \"לא להפריח עפיפונים\"",
-        "published": "Tue, 25 Aug 2026 11:31:25 +0300",
-        "summary": "עשרות מפגינים, בהם תושבי העוטף, מחו במעבר כרם שלום גם נגד הכנסת כוחות בינלאומיים לרצועה והתחלת שיקומה לפני פירוק חמאס מנשקו: \"אין שום סיכוי שחמאס ימשיך לשלוט בעזה\". גלעד ארדן ביקש לנאום - וסורב. ארגונים ברצועה קראו להורים לא לאפשר לילדים להפריח עפיפונים",
-        "url": "https://www.ynet.co.il/news/article/hytxvp5vzx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rJWMcaC9wGg/rJWMcaC9wGg_0_204_3000_1689_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "הרמטכ\"ל שולח מסר: \"לא נאפשר לאויבנו להתעצם בגבול\"",
-        "published": "Tue, 25 Aug 2026 16:55:00 GMT",
-        "summary": "בסיור גזרה שקיים היום (שלישי) הרמטכ\"ל אייל זמיר ברצועת עזה, הדגיש כי צה\"ל לא יוותר על פירוז חמאס מנשקו - והדגיש כי המצוד אחר מחבלי 7 באוקטובר עדיין בעיצומו. \"צה\"ל ערוך בכל הגזרות, לא נאפשר לאויבינו להתעצם מחדש\". \"המרדף אחרי מחבלי השבעה באוקטובר נמשך - כל מי שלקח חלק בטבח יחיה בנרדפות עד שיחוסל. זו משימה בעדיפות גבוהה, שאליה הפיקוד וצה\"ל כולו מחויבים\", הוסיף.",
-        "url": "https://news.walla.co.il/item/3863143",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092418-46.jpeg"
-      },
-      {
-        "source": "walla",
-        "title": "גורם בכיר במועצת השלום על עפיפוני הנפץ: \"כל פעילות חמושה ברצועה חייבת להיפסק\"",
-        "published": "Tue, 25 Aug 2026 16:38:00 GMT",
-        "summary": "גורם בכיר במועצת השלום גינה היום (שלישי) בפני וואלה את תופעת הפרחת עפיפוני הנפץ ברצועת עזה, אך העביר ביקורת גם על ישראל: \"כל פעילות חמושה ברצועת עזה חייבת להיפסק, כולל הפרחת עפיפונים. העברנו את המסר הזה ישירות באמצעות המנגנון שהוקם לשם כך. גם ישראל חייבת לעמוד בתנאי הפסקת האש, פעולה צבאית אינה יכולה לחרוג מתגובה לאיומים ממשיים ומיידיים\". מוקדם יותר היום, עשרות פעילים ותושבי העוטף מחו בכרם שלום בדרישה להפסיק את איום העפיפונים ולמנוע את התעצמות חמאס. המפגינים אחזו בדגלי ישראל ובשלטים עליהם נכתב \"עוצרים את שיקום חמאס\" ו\"דואגים לביטחון תושבי הדרום\". גלעד ארדן נאם באירוע - והותקף על ידי המשתתפים. \"אתה משתמש בנו! זה לא אירוע פוליטי! אם לא - לא היה לך אינטרס לא היית מגיע לפה, אתה מדבר רק פוליטקה\", קראו.",
-        "url": "https://news.walla.co.il/item/3863133",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/1/4091910-46.png"
-      },
-      {
-        "source": "walla",
-        "title": "תושבים מוחים נגד התעצמות חמאס בגבול עזה, ארדן נאם - והותקף",
-        "published": "Tue, 25 Aug 2026 10:37:00 GMT",
-        "summary": "הפעילים הפגינו בדרישה להפסיק את איום העפיפונים. \"אין שום סיכוי שנקבל שהחמאס עדיין ישלוט בעזה - זה לא יקרה\", קראו. ארדן הגיע לאירוע - והותקף על ידי המשתתפים: \"אתה משתמש בנו - זה לא אירוע פוליטי\"",
-        "url": "https://news.walla.co.il/item/3863031",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092182-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 66,
-    "topic": "פשע שנאה בניו יורק",
-    "category": "world",
-    "story_summary": "שני אחים מהעיר הורנל בניו יורק הואשמו בפשע שנאה לאחר שגנבו דגל ישראל מחוץ לבית עסק והציתו אותו בביתם. לכל אחד מיוחסים פשעי גניבה וגרימת נזק, ואחד מהם מואשם גם בהתנגדות למעצר.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "גנבו דגל ישראל ושרפו אותו בביתם: שני אחים הואשמו בפשע שנאה בניו יורק",
-        "published": "Tue, 25 Aug 2026 17:11:00 GMT",
-        "summary": "שני אחים מהעיר הורנל נעצרו לאחר שלפי החשד גנבו דגל ישראל מתורן מחוץ לבית עסק והציתו אותו בביתם. לכל אחד מהם מיוחסים פשעי שנאה של גניבה וגרימת נזק וכן השמדת ראיות. אחד מהם מואשם גם בהתנגדות למעצר",
-        "url": "https://news.walla.co.il/item/3863149",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092425-46.png"
-      }
-    ]
-  },
-  {
-    "story_id": 64,
-    "topic": "חזרת כתבת לעבודה בפסק בוררות",
-    "category": "world",
-    "story_summary": "כתבת בוושינגטון פוסט שפוטרה בעקבות פוסטים שפרסמה לאחר רצח צ'רלי קירק זכתה בפסק בוררות וחוזרת לעבודה עם פיצוי במלוא השכר וההטבות שאיבדה.",
-    "good_news_score": 6,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "\"רגע מכונן\": ה\"וושינגטון פוסט\" חויב להשיב כתבת שפוטרה בשל פוסטים על רצח צ'רלי קירק",
-        "published": "Tue, 25 Aug 2026 18:00:00 GMT",
-        "summary": "קארן אטיה טענה לאחר הרצח כי היא מסרבת להשתתף ב\"אבל מופגן על אדם לבן שהטיף לאלימות\" • העיתון האשים אותה בהתנהגות חמורה ובסיכון ביטחון עובדיו, אך בפסק הבוררות נקבע כי לא הייתה עילה מספקת לפיטורים • היא תפוצה במלוא השכר וההטבות שאיבדה",
-        "url": "https://news.walla.co.il/item/3862977",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/4/8/3948217-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 63,
-    "topic": "ירדנה ארזי חוגגת 75 שנה",
-    "category": "culture",
-    "story_summary": "פסטיבל תרבות בראשון לציון יתקיים בחודשי ספטמבר-אוקטובר לכבוד יום הולדתה ה-75 של השחקנית והשרת ירדנה ארזי, הכולל הופעות של אישיות תרבות ישראליות בולטות כמו מיקי קם, חנה לסלאו ורותם אבוהב לצד ביצועים משותפים וסיפורים מקריירתה.",
-    "good_news_score": 8,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "ירדנה ארזי חוגגת 75, ואלה האורחות שיצטרפו אליה על הבמה",
-        "published": "Tue, 25 Aug 2026 18:29:00 GMT",
-        "summary": "פסטיבל ראשון לציון יתקיים השנה בין 27 בספטמבר ל-1 באוקטובר, בחול המועד סוכות, ויתפרש על פני כמה מוקדים ברחבי העיר. במרכז התוכנית תעמוד הפקת מקור לציון יום הולדתה ה-75 של ירדנה ארזי, שתארח על הבמה את מיקי קם, חנה לסלאו, רותם אבוהב, עלמה זק ואודיה קורן. המופע, שיתקיים ב-27 בספטמבר בהיכל התרבות מאיר ניצן, ישלב שירים של ארזי עם מערכונים וסיפורים מתחנות שונות בקריירה שלה. חמש האורחות יצטרפו אליה לביצועים ולמערכונים שנוצרו במיוחד לערב. בהמשך הפסטיבל יתקיימו כמה חיבורים נוספים: הראל סקעת יארח את גלי עטרי ב-29 בספטמבר לביצועים משיריהם ולביצועים משותפים, ויום קודם לכן יארח עמיר בניון את ניסים סרוסי. תזמורת המהפכה תעלה ב-30 בספטמבר את \"מהפכה בצוותא\", המבוסס על חומרים מארכיון הטלוויזיה הישראלית, ותארח את אילן פלד.",
-        "url": "https://e.walla.co.il/item/3863168",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092459-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 42,
-    "topic": "מלחמה גרעינית עם איראן",
-    "category": "security",
-    "story_summary": "הסכם גרעיני הפך לקונפליקט צבאי בן חצי שנה בעקבות בחירתו של טראמפ בגישה צבאית. הנהלתו טוענת להשמדת התוכנית הגרעינית והצבא האיראני, תוך המשך בלחץ כלכלי נגד איראן.",
-    "good_news_score": 1,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "ואנס טען שאיראן תתפרק מגרעין במו\"מ, טראמפ דילג על האזהרות: \"נתמודד עם הכול\"",
-        "published": "Tue, 25 Aug 2026 08:13:18 +0300",
-        "summary": "ראש המודיעין הזהירה, נתניהו דחף \"לנצל הזדמנות\", ואנס דחף אחרת ובפנטגון הציגו אפשרויות ל\"הכרעה\". לפי \"וול סטריט ג'ורנל\", טראמפ בחר בסוף להפגין עוצמה, ופתח במלחמה שהבטיח כי תימשך 6 שבועות. חצי שנה עברה מאז. בבית הלבן משוכנעים: \"השמדנו את הגרעין והצבא, עכשיו נרסק את הכלכלה\"",
-        "url": "https://www.ynet.co.il/news/article/bj3nr99pzg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/rk5j5UMIzx/rk5j5UMIzx_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Iran vows to retaliate after U.S. announces 'onslaught' of economic sanctions",
-        "published": "Mon, 24 Aug 2026 22:36:48 +0300",
-        "summary": "Treasury Secretary Scott Bessent unveiled what he described as an 'economic D-Day' that aims to give a final warning to countries to sever their business ties with Iran",
-        "url": "https://www.haaretz.com/middle-east-news/iran/2026-08-24/ty-article/.premium/u-s-announces-expansion-of-sanctions-in-economic-onslaught-on-iran/000001a0-34f8-d936-a7ac-3cfd308c0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3546-d268-a1fe-3d5614280000/c9/ef/bd3231e547859232bd5ef591a6d1/194344.jpg?width=108&height=81"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Despite Trump's eulogies, the reports of the Iran deal's death are greatly exaggerated",
-        "published": "Fri, 28 Aug 2026 18:13:01 +0300",
-        "summary": "The U.S. president is talking about 'old' and 'new' sanctions, but Tehran has decades of experience under such regimes and now the blockaded Strait of Hormuz, leaving the memorandum of understanding a source for diplomacy",
-        "url": "https://www.haaretz.com/middle-east-news/2026-08-28/ty-article/.premium/the-june-deal-isnt-dead-even-as-trump-and-iran-ramp-up-their-economic-war/000001a0-4845-d2c5-a1b2-edef8ff10000",
-        "image": "https://img.haarets.co.il/bs/000001a0-4853-d2c5-a1b2-edfb4bfa0000/79/88/a5fc12804151aab9e5bd6fb9e67f/220328.jpg?width=1200"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Report: Trump rejects return to Iran agreement in favor of economic pressure",
-        "published": "Fri, 28 Aug 2026 01:07:37 +0300",
-        "summary": "U.S. officials told mediators the administration has no interest in reviving the June agreement, according to the Wall Street Journal, opting instead to wait for extreme economic sanctions to take effect",
-        "url": "https://www.haaretz.com/middle-east-news/2026-08-28/ty-article/report-trump-rejects-return-to-iran-agreement-in-favor-of-economic-pressure/000001a0-4538-d73d-a5f0-6d3f76dd0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-33fc-d02f-a9ed-7fff27750000/76/32/e2f691b947ad9a63327119f5a105/889513-2.jpg?width=1200"
-      }
-    ]
-  },
-  {
-    "story_id": 55,
-    "topic": "חוזרו של חוסיין טאיב לתפקידו באיראן",
-    "category": "security",
-    "story_summary": "חוסיין טאיב, מעמנו הביטחון שנדחק בשל פרצות יוחסו לישראל, חוזר לכהן כמפקד הבסיג'. החזרתו משקפת את האמון של מוג'תבא חמינאי בנאמנותו ובכישוריו בדיכוי התמרונות עממיות.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "האיש שחזר מהצללים - להיות העיניים והאוזניים של מוג'תבא חמינאי ברחובות",
-        "published": "Tue, 25 Aug 2026 16:59:59 +0300",
-        "summary": "חוסיין טאיב, שנחשב לאחד מאנשי הביטחון האכזריים ביותר במשטר האיראני, הודח ב-2022 בעקבות שורת פרצות שיוחסו לישראל. בצל החשש מהתקוממות עממית, הוא חוזר כעת לתפקידו כמפקד הבסיג' - במה שמסמן את האמון של מוג'תבא באיש המומחה לדיכוי: \"כשאתה הורג אנשים, אתה זקוק לנאמנות הזאת\"",
-        "url": "https://www.ynet.co.il/news/article/h1l7emjdzx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/07/13/Hkbph8dni5/Hkbph8dni5_0_88_1300_732_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 54,
-    "topic": "חמאס בשלטון על עזה",
-    "category": "security",
-    "story_summary": "למרות הישגים צבאיים משמעותיים של צה\"ל, חמאס ממשיך לשלוט בעזה ומנהל מגעים מדיניים. הממשלה לא הקימה ממשל חלופי משמעותי, וגורמים בביטחון טוענים שהמצב מחזק למעשה את מעמדו של הארגון.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "האזהרה נשמעה כבר בתחילת המלחמה: חמאס שולט בעזתים, מנהל מגעים מדיניים ומתארגן לבחירות",
-        "published": "Tue, 25 Aug 2026 17:02:17 +0300",
-        "summary": "צה\"ל חיסל בכירים, פירק גדודים והשמיד תשתיות, אך הממשלה לא תכננה דבר ליום שאחרי - ולא הצליחה להעמיד חלופה שלטונית אפקטיבית. כבר ב-2024 הזהיר גלנט שכך \"לא נמוטט את חמאס\", ובמערכת הביטחון התריעו כי הישגי המלחמה יישמטו. כיום מנגנוני חמאס עדיין פועלים, ארה\"ב מדברת עם הנהגתו - וגורמים ב\"מועצת השלום\" טוענים שפעולות ישראל \"מנציחות אותו בשלטון\"",
-        "url": "https://www.ynet.co.il/news/article/sk8bqgiwzx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/22/rkbxYJw9yg/rkbxYJw9yg_0_232_3000_1688_0_medium.jpg"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Is Israel really 'one step away' from total victory in Gaza?",
-        "published": "Fri, 28 Aug 2026 22:09:38 +0300",
-        "summary": "A cease-fire agreement was signed last October, but as of August 2026, Hamas has not been defeated. The group has yet to disarm, and Israel continues to control a significant portion of the Gaza Strip",
-        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-28/ty-article/is-israel-really-one-step-away-from-total-victory-in-gaza/000001a0-49ba-dad6-a3b6-5bfec0cd0000",
-        "image": "https://img.haarets.co.il/bs/0000018c-8a3d-da81-a1bc-cebd87630000/9d/32/2138dbba40bcac1adc067fc4a9c4/81271.jpg?width=1200"
-      }
-    ]
-  },
-  {
-    "story_id": 53,
-    "topic": "מוקשים בהורמוז",
-    "category": "security",
-    "story_summary": "נשיא ארה\"ב הודיע כי כל המוקשים בהורמוז הוסרו וזהר את אירן מפני הנחת מוקשים חדשים בעלות השמדה מיידית, בעוד שטהרן טענה כי שליח פקיסטני הגיע לפתיחת ערוץ משא ומתן ולא לגביית איומים.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "טראמפ: \"כל המוקשים בהורמוז הוסרו, ספינה שתטמין חדשים תושמד\"",
-        "published": "Tue, 25 Aug 2026 17:38:01 +0300",
-        "summary": "אחרי שטען במשך חודשים שהמצר האסטרטגי בטוח למעבר, הודיע נשיא ארה\"ב כי כל המוקשים בהורמוז \"הוסרו או פוצצו\", והזהיר את איראן שכל ניסיון להניח מוקשים חדשים ייענה בהשמדה \"מיידית ושיטתית\". במקביל, בטהרן טענו: הרמטכ\"ל הפקיסטני לא הגיע עם מסר אמריקני מאיים - אל כדי לפתוח ערוץ למו\"מ",
-        "url": "https://www.ynet.co.il/news/article/byi400xsdzl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/SkJ9eXcDzl/SkJ9eXcDzl_0_80_3000_1689_0_medium.jpg"
-      },
-      {
-        "source": "ynet",
-        "title": "איראן ועומאן \"עובדות על הפרטים\", רה\"מ הקטארי יגיע לטהרן: \"נפעל להרגעת הרוחות\"",
-        "published": "Wed, 26 Aug 2026 21:56:26 +0300",
-        "summary": "אחרי שדובר משמרות המהפכה הכריז כי הושג הסכם על מצר הורמוז, מקור איראני טוען כי במוסקט ובטהרן עדיין לא סיכמו את הפרטים. ראש ממשלת קטאר ידון עם עמיתיו באיראן בחופש השיט בנתיב הימי, מחיר הנפט יורד זה היום השלישי ברצף. באיראן סימנו כלי תקשורת בחו\"ל: \"מטרות צבאיות שעובדות עם ארה\"ב וישראל\"",
-        "url": "https://www.ynet.co.il/news/article/hk3f9ihvzx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/08/SyHIYfE11Me/SyHIYfE11Me_0_0_3000_1688_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "מפקד סנטקום: השלמנו את פינוי המוקשים במצרי הורמוז",
-        "published": "Fri, 28 Aug 2026 03:57:00 GMT",
-        "summary": "בסרטון מצולם, האדמירל בראד קופר אמר כי איראן לא הצליחה לייצא נפט מחופיה מאז חידוש המצור הימי האמריקני באמצע יולי. לדבריו, שום כלי שיט לא נכנס לנמל איראני או יצא ממנו ללא אישור אמריקני, למעט כלי שיט שאושרו מטעמים הומניטריים",
-        "url": "https://news.walla.co.il/item/3863797",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/6/4086408-46.jpg"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Trump claims a major Strait of Hormuz victory over Iran, but is it sustainable?",
-        "published": "Fri, 28 Aug 2026 06:02:30 +0300",
-        "summary": "While the Americans take pride in the fact that oil tankers are once again passing through the strait, Iran still has its enriched uranium ■ Army incompetence? What's happening in the West Bank is much more than that ■ The IDF must remember that Turkey isn't the new Iran",
-        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-28/ty-article/.premium/trump-claims-a-major-strait-of-hormuz-victory-over-iran-but-is-it-sustainable/000001a0-44d7-d6dd-a1ad-e4f770770000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3c69-d936-a7ac-3c6daa010000/86/dc/462bccbe484eb9fda24aad4e8688/190431.jpg?width=1200"
-      }
-    ]
-  },
-  {
-    "story_id": 48,
-    "topic": "וגנר בישראל",
-    "category": "culture",
-    "story_summary": "דירקטור תיאטרון שווייצרי הציג מוזיקה של וגנר בישראל תוך פגישה עם בני ערובה ישראלים וגם תושבי עזה, בשבירת שתי חרמים. פעולה זו משקפת רצון להתמודד עם מורכבות הנושא במקום לקבל עמדות מוכללות.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "By playing Wagner in Israel, this Swiss director broke two boycotts at once",
-        "published": "Fri, 28 Aug 2026 11:29:23 +0300",
-        "summary": "Last week, Swiss theater director Milo Rau brought Wagner's music to an Israeli audience. By speaking with former Israeli hostages and Gazans, he broke the greatest taboo of all: embracing complexity",
-        "url": "https://www.haaretz.com/life/2026-08-28/ty-article-magazine/.premium/by-playing-wagner-in-israel-this-swiss-director-broke-two-boycotts-at-once/000001a0-3ddb-d9ec-a1ac-3dffd17e0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3ddb-d9ec-a1ac-3dffd21d0002/cb/d4/f84716f84c19ac6aef41f9d3b5e9/149684.jpg?width=1200"
-      }
-    ]
-  },
-  {
     "story_id": 30,
     "topic": "הפועל באר-שבע בליגה האירופית",
     "category": "sports",
@@ -2920,200 +3295,6 @@
         "summary": "קרבות פאר בשלב הליגה של ליגת האלופות: באיירן תתמודד מול ארסנל ואתלטיקו, וליברפול תפגוש את אינטר. סבאח, שהדיחה את הפועל ב\"ש, תארח את ברצלונה ותתארח בלונדון",
         "url": "https://www.ynet.co.il/sport/worldsoccer/article/bjmenm6dmx",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/16/r1eKYhL2lR/r1eKYhL2lR_0_37_3000_1689_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 41,
-    "topic": "אמבאפה זורח בריאל מדריד",
-    "category": "sports",
-    "story_summary": "אמבאפה הבריק בניצחון משכנע של ריאל מדריד על סוסיאדד בתוצאה 4-1, וקולט מוריניו השבח את הביצוע ואמר כי הקבוצה רעבה לעשות היסטוריה.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "אמבאפה כיכב, מוריניו כבר התלהב: \"רעב לעשות היסטוריה בריאל\"",
-        "published": "Thu, 27 Aug 2026 06:30:00 +0300",
-        "summary": "שלושער של כוכב הבלאנקוס סחף את קבוצתו ל-1:4 על סוסיאדד ומאזן מושלם בספרד: \"הסיר את כל הספקות\". המאמן הפורטוגלי: \"האוהדים חזרו הביתה עם טעימה ממה שאנחנו יכולים לעשות\" | צפו בתקציר",
-        "url": "https://www.ynet.co.il/sport/worldsoccer/article/bybvxmtdgl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/HJ3LQm6DGl/HJ3LQm6DGl_193_119_2540_1430_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "שלושער לאמבפה: ריאל מדריד ניצחה 1:4 את סוסיאדד",
-        "published": "Wed, 26 Aug 2026 22:02:51 +0300",
-        "summary": "בכורה מוצלחת למוריניו בברנבאו. אחרי מחצית ראשונה לא משכנעת, הלבנים התעשתו וגברו על הבסקים. הצרפתי כיכב (39', 60', 79'), ויניסיוס הוסיף. צפו",
-        "url": "https://livegame.ynet.co.il/games/531623",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/one1884553/one1884553_0_0_800_444_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "מה שהיה היה: מוריניו וריאל מדריד פותחים דף חדש | תוכן גולשים",
-        "published": "Fri, 28 Aug 2026 07:00:00 +0300",
-        "summary": "13 שנה אחרי שעזב בטונים צורמים, המאמן הפורטוגלי חזר לברנבאו וזכה לקבלת פנים מלכותית. בזמן שהקהל סגר מעגל עם העבר, ה-1:4 על סוסיאדד סימן את הכיוון של ההווה: אמבאפה הוא הכוכב הבלתי מעורער, ויניסיוס ובלינגהאם משלימים אותו - וריאל של \"המיוחד\" כבר עם שש משש. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
-        "url": "https://www.ynet.co.il/sport/article/hklwk00pvfg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/rkGlG11SUfe/rkGlG11SUfe_1_57_2748_1520_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 40,
-    "topic": "מכירת סיהוקס לקהוסלה",
-    "category": "sports",
-    "story_summary": "קבוצת סיהוקס של ה-NFL נמכרה לקבוצת משקיעים בראשות המיליארדר וינוד קהוסלה תמורת 9.6 מיליארד דולר, מה שהופך את העסקה לשנייה בגדולה בתולדות מכירות קבוצות ספורט בארה\"ב.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "אלופת ה-NFL סיאטל סיהוקס נרכשה ב-9.6 מיליארד דולר",
-        "published": "Thu, 27 Aug 2026 06:30:00 +0300",
-        "summary": "בעלי המועדונים אישרו את מכירת הסיהוקס לקבוצת משקיעים בראשות המיליארדר וינוד קהוסלה. הסכום ששולם עבורה מציב את העסקה במקום השני ברשימת המכירות הגדולות ביותר של קבוצות ספורט בארה\"ב",
-        "url": "https://www.ynet.co.il/sport/article/bjymr7awfl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/HJ11VPQaPGg/HJ11VPQaPGg_0_46_1024_577_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 39,
-    "topic": "הלוואות בהשאלה במכבי ת\"א",
-    "category": "sports",
-    "story_summary": "מכבי ת\"א פנתה לניקולאסקו בהצעת השאלה עם מימון מלא של השכר, כדי לפנות מקום לחיזוקים חדשים לקבוצה. עם זאת, השחקן הזר ואחרים כמו אנדרדה מתנגדים לעזיבת הקבוצה בשלב זה.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "מכבי ת\"א פנתה לניקולאסקו: תעבור בהשאלה - ונממן את מלוא שכרך",
-        "published": "Thu, 27 Aug 2026 07:00:00 +0300",
-        "summary": "פרסום ראשון: רגע לפני המשחק החשוב מול לוגאנו (19:00), הצהובים מעוניינים להגיע להסדר עם שני זרים כדי לפנות מקום לצירופם של שחקנים חדשים. החלוץ עדיין לא רוצה לעזוב, גם אנדרדה מתנגד בשלב זה למעבר לקבוצות אחרות באירופה",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/sk00lt0ndmx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/21/HyvwasTeWl/HyvwasTeWl_0_0_850_479_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 38,
-    "topic": "הארכת חוזה גדראני בבית״ר",
-    "category": "sports",
-    "story_summary": "לוקה גדראני, הבלם הגיאורגי של בית״ר ירושלים, הארך את חוזהו עם הקבוצה ל-3 שנים בעלות של 380 אלף אירו לשנה.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "יש סיכום: לוקה גדראני יאריך את חוזהו בבית\"ר ירושלים",
-        "published": "Thu, 27 Aug 2026 07:00:00 +0300",
-        "summary": "פרסום ראשון: לפי החוזה החדש, הבלם הגיאורגי יחתום ל-3 שנים וישתכר 380 אלף אירו לעונה. גם בריאן קראבלי בדרך להארכת חוזהו",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/ry1bp02vze",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/H1uv00C2Pzx/H1uv00C2Pzx_0_40_3000_1689_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 37,
-    "topic": "עניין של לצ'ה בשחקן הפועל ת״א",
-    "category": "sports",
-    "story_summary": "הפועל ת״א אישרה כי קבוצה מליגה א' התעניינת בשחקן שלהם, אך בקשתו לעזוב נדחתה. הקבוצה מתמקדת בהכנות למשחק אירופאי קרוב מול אטלנטה.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "הפועל ת\"א אישרה כי לצ'ה רוצה את טוריאל: \"מחמיא מאוד\"",
-        "published": "Thu, 27 Aug 2026 07:00:00 +0300",
-        "summary": "כפי שפורסם לראשונה ב-ynet, הקבוצה מהסרייה א' התעניינה בקשר, שבקשתו לעזוב נדחתה. האדומים חולמים על סנסציה מול אטאלנטה: \"נצטרך משחק יותר ממושלם כדי להעפיל\"",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/s1geba3vzl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/05/BJlgH8GeGbx/BJlgH8GeGbx_0_0_850_479_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 36,
-    "topic": "עימותים בחגיגות קידום לליגת האלופות",
-    "category": "sports",
-    "story_summary": "בעקבות משחק קידום לליגת האלופות בין פנרבחצ'ה ליון, התפתחה התגרות בין השחקנים לאוהדים כאשר שחקן סימן אצבע משולשת, דבר שהציתה מהומת ענק עם עימותים פיזיים בין חברי הקבוצות. אנשי אבטחה נאלצו להתערב בכדי להפריד בין הצדדים והשבת השלום.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "החגיגה שהפכה לכאוס: העימות המכוער אחרי העלייה לליגת האלופות",
-        "published": "Thu, 27 Aug 2026 07:08:44 +0300",
-        "summary": "מתאו גונדוזי סימן אצבע משולשת לעבר אוהדי ליון אחרי ה-1:2 של פנרבחצ'ה והפרובוקציה הציתה מהומת ענק, עם עימותים בין שחקנים ואנשי שני המועדונים. האש התפשטה גם למנהרה, כשאנשי אבטחה נאלצו להתערב ולהפריד בין הצדדים. הקשר הסביר: \"העליבו את אמא שלי וילדיי. אם רוצים להתגרות, אז זה הולך לשני הכיוונים\"",
-        "url": "https://www.ynet.co.il/sport/worldsoccer/article/r1ahmvapgx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/Sy7lPEpDMl/Sy7lPEpDMl_103_442_1611_907_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 35,
-    "topic": "התחייבות לנבחרת",
-    "category": "sports",
-    "story_summary": "ביקורת על שחקנים שלא מופיעים לנבחרת, עם קריאה לעונשים קשים וממשיים במקום ביקורת חלשה בלבד.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "גופיית הנבחרת היא לא חולצת טריקו | תוכן גולשים",
-        "published": "Thu, 27 Aug 2026 07:15:13 +0300",
-        "summary": "לא ייתכן ששחקנים המזומנים לדגל יחליטו מתי בא לכם לבוא ואם בכלל. אבל ביקורת רפה לא תספיק כאן. הביקורת חייבת להיות מלווה בסנקציות קשות ומיידיות. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
-        "url": "https://www.ynet.co.il/sport/article/h1b66msdzl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/08/10/r1kaYL8Ogx/r1kaYL8Ogx_1_86_3000_1689_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 34,
-    "topic": "אלימות בספורט",
-    "category": "sports",
-    "story_summary": "הליגה הישראלית נפתחה על רקע גל אלימות קשה בסביבת המגרשים, כאשר מתוכננות התקפות ברשתות חברתיות, והתקריות בחניונים ובדרכים גרמו להעלאת דרישות להחמרת הענישה.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "האלימות מחוץ לאצטדיונים משתוללת: \"רק כשיהרגו מישהו - יתעוררו\"",
-        "published": "Thu, 27 Aug 2026 10:34:34 +0300",
-        "summary": "הליגה רק נפתחה, והספורט הישראלי הופך לשדה קרב מסוכן במגרשי החניה ובדרכים. איאד אבו-עביד ואשתו נלכדו ברכבם מול המון משתולל בנתניה, אוהדי הפועל ירושלים אושפזו עם פגיעות ראש. מהמארבים המתוכננים ברשתות ועד הפטיש בראש של יורי סדלצקי: האם היציאה מהיציע תסתיים ברצח? המשטרה: \"נמשיך לפעול בנחישות, חייבים עונשי מינימום בחוק\"",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/r111rktndfe",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/HJoF4LFwfe/HJoF4LFwfe_0_0_850_479_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 33,
-    "topic": "מצבו של מיקי ברקוביץ'",
-    "category": "sports",
-    "story_summary": "מצבו הבריאותי של מיקי ברקוביץ' הפך אותו לדמות שונה - פגיעה, אנושית וכנועה בפני הזמן. הפרידה זו משקפת את שבריריות הקיום שחלה על כולנו.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "שיהיה לך רק טוב, מיקי | תוכן גולשים",
-        "published": "Wed, 26 Aug 2026 17:36:40 +0300",
-        "summary": "זאת הזדמנות להגיד לו תודה על הכל. תודה על רגעים בלתי נשכחים, תודה על ההשראה, תודה שלימדת אותנו שאסור לוותר לעולם. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
-        "url": "https://www.ynet.co.il/sport/article/rys8weipmx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/02/16/Hy2Z4gajp/Hy2Z4gajp_0_561_2146_1209_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "מצבו של מיקי ברקוביץ' ממחיש לכולנו את שבריריות החיים | טור",
-        "published": "Thu, 27 Aug 2026 12:02:42 +0300",
-        "summary": "הפרידה ממיקי ברקוביץ' שהכרנו לטובת מיקי אחר - פגיע, אנושי, כנוע בפני פגעי הגוף והזמן - לא סתם שוברת לב, היא בלתי נסבלת",
-        "url": "https://www.ynet.co.il/sport/israelibasketball/article/sktpfwapzg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/H1j0400aPfl/H1j0400aPfl_320_0_1538_866_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 32,
-    "topic": "צירוף ברדלי ברקולה",
-    "category": "sports",
-    "story_summary": "יוניטד מגיע להסכמה על העברת הכנף בן 23 ברדלי ברקולה מפריז סן ז'רמן תמורת 120 מיליון ליש\"ט, צירוף שמדרג בין ההעברות היקרות ביותר בהיסטוריה. ברקולה עלוקה בעבורו 152 הופעות בתחרויות אירופה כשרשם 39 שערים ו-37 בישולים.",
-    "good_news_score": null,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "מהיקרים בהיסטוריה: ליברפול קרובה להחתמת בראדלי ברקולה",
-        "published": "Thu, 27 Aug 2026 12:27:41 +0300",
-        "summary": "המייטי רדס הגיעו לסיכום עקרוני עם פ.ס.ז' על צירופו של שחקן הכנף בן ה-23 תמורת 120 מיליון ליש\"ט. רשם 152 הופעות במדי אלופת אירופה, שבהן רשם 39 שערים ו-37 בישולים",
-        "url": "https://www.ynet.co.il/sport/worldsoccer/article/s1niwk6vze",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/14/S1xOUdEoel/S1xOUdEoel_0_139_3000_1689_0_medium.jpg"
       }
     ]
   }
