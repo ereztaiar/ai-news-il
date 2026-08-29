@@ -1,11 +1,137 @@
 [
   {
-    "story_id": 462,
-    "topic": "התקפה של מתנחלים בקוסרה",
+    "story_id": 499,
+    "topic": "איום איראני לפגיעה בבן נתניהו",
     "category": "security",
-    "story_summary": "עשרות מתנחלים בפנים מוסכות התבצרו בבית בכפר קוסרה בשומרון, יידו אבנים, תקפו עיתונאים זרים וגרמו לפצועים פלסטינים, כשכוחות הביטחון הוציאו אותם מהמקום אך לא עצרו אף אחד.",
+    "story_summary": "ראש הממשלה נתניהו הודיע כי איראן ניסתה לרצוח את בנו יאיר שהותו בפלורידה. השב\"כ אישר את האיום המשמעותי והחליט לחלץ את יאיר באופן בהול חזרה לישראל.",
     "good_news_score": 2,
     "sources": [
+      {
+        "source": "ynet",
+        "title": "שב\"כ מאשר: היה איום משמעותי לפגיעה ביאיר נתניהו, ולכן הוא חולץ באופן בהול",
+        "published": "Sat, 29 Aug 2026 20:36:49 +0300",
+        "summary": "לאחר שרה\"מ אמר כי איראן ניסתה לרצוח את אחד מבניו, ובארה\"ב דווח כי חוליה כבר שהתה באזור מיאמי, אישר השב\"כ: \"לאור האיום המשמעותי, התקבלה החלטה לחלץ את יאיר נתניהו עם צוות האבטחה באופן בהול חזרה לישראל\"",
+        "url": "https://www.ynet.co.il/news/article/bkvilcl00fx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/06/SkpSa3KJbx/SkpSa3KJbx_0_0_2000_1126_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "שב\"כ מאשר: \"אכן היה איום משמעותי לפגיעה ביאיר נתניהו, הוחלט לחלצו באופן בהול חזרה לישראל\"",
+        "published": "Sat, 29 Aug 2026 20:23:00 GMT",
+        "summary": "הארגון פרסם תגובה רשמית לדיווח באתר \"Newsmax\" האמריקני, לפיו בנו של ראש הממשלה היה יעד לפיגוע איראני בזמן שהותו בדרום פלורידה. קודם לכן, ראש הממשלה טען בראיון לערוץ 14 כי איראן ניסתה לרצוח את אחד מבניו, אך סירב לומר מי מבניו היה היעד",
+        "url": "https://news.walla.co.il/item/3864061",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/7/4077192-46.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Netanyahu's son Yair back in Israel following security threat, Shin Bet says",
+        "published": "Sat, 29 Aug 2026 22:07:54 +0300",
+        "summary": "Netanyahu told Israel's Channel 14 on Monday that Iran had attempted to kill one of his sons, but did not identify which one. Newsmax, a right-wing U.S. network, cited an anonymous source in reporting that Yair Netanyahu was the intended target of the assassination attempt",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-29/ty-article/.premium/netanyahus-son-yair-back-in-israel-following-security-threat-shin-bet-says/000001a0-4ec6-d276-a7a1-eec72cc00000",
+        "image": "https://img.haarets.co.il/bs/000001a0-4ed9-d826-a5e4-4ef9a81b0000/8c/b2/037c58c44df2a87e60d821710906/808610-6.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 498,
+    "topic": "ניצחון הפועל י-ם",
+    "category": "sports",
+    "story_summary": "הפועל תימן ניצחה את הפועל פתח תקוה 1:0 בליגת העל, מחזור שני. השער נוצר בדקה 26 כאשר כדור של קימבידי (אחרי הכנה של ריבולייה) עבר בהגנה וחדר לשער.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "דקה 26: הפועל פ\"ת - הפועל י-ם 0:1",
+        "published": "Sat, 29 Aug 2026 19:58:27 +0300",
+        "summary": "ליגת העל, מחזור 2: קצב טוב באצטדיון שלמה ביטוח. ריבולייה השאיר כדור נהדר לקימבידי, והאחרון בעט כדור שפגע בשחקן הגנה ונכנס. אידוקו החמיץ מנגד",
+        "url": "https://livegame.ynet.co.il/games/531873",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884833/one1884833_0_0_800_444_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 497,
+    "topic": "משחק בליגת העל",
+    "category": "sports",
+    "story_summary": "במחזור 2 של ליגת העל בין הפועל ר\"ג להפועל ב\"ש, נשמר שיווי משקל של 0:0, כשניסיון של הפועל ר\"ג לפתוח את הדברים בביתם נפסל בעקבות נבדל, ולהפועל ב\"ש הייתה ירייה קרובה שפגעה בקורה.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "דקה 22: הפועל ר\"ג - הפועל ב\"ש 0:0",
+        "published": "Sat, 29 Aug 2026 19:58:33 +0300",
+        "summary": "ליגת העל, מחזור 2: קוז'וק וחניכיו חשבו שהם עלו ליתרון במשחק הפתיחה שלהם בזירה המקומית, אלא שהוא נפסל בעקבות נבדל. מנגד, אסנקה בעט יעף לקורה",
+        "url": "https://livegame.ynet.co.il/games/531872",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884832/one1884832_0_0_800_444_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 496,
+    "topic": "כדורגל: עירוני קריית שמונה מול טבריה",
+    "category": "sports",
+    "story_summary": "בליגת העל מחזור 2, עירוני קריית שמונה יוזמים התקפות אל עבר שער טבריה בלחץ גבוה וניסיונות רבים, בעוד טבריה מחפשת את ההזדמנויות הראשונות שלה במשחק. בדקה 25 התוצאה נשארת 0:0.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "דקה 25: עירוני ק\"ש - טבריה 0:0",
+        "published": "Sat, 29 Aug 2026 19:58:38 +0300",
+        "summary": "ליגת העל, מחזור 2: החבורה של ברדה פתחה בלחץ גבוה וכמות ניסיונות אל עבר השער, אך ללא הצלחה. מנגד, האורחת עדיין מחפשת את המצבים הראשונים שלה",
+        "url": "https://livegame.ynet.co.il/games/531875",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884823/one1884823_0_0_800_444_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 495,
+    "topic": "גנץ דוחה הצעות לתפקידים בתמורה לפרישה מהבחירות",
+    "category": "news",
+    "story_summary": "יו\"ר מפלגת כחול לבן בני גנץ דחה דיווחים לפיהם הוא מחפש עבודה כתנאי לפרישתו מהבחירות, וטען כי קיבל הצעות שונות לתפקידים אך אינו מעוניין בהן.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "גנץ מאשר את פרסום וואלה: \"אני מחפש עבודה? מי שיגיד לי להיות שגריר - אתה לא מתבייש?",
+        "published": "Sat, 29 Aug 2026 20:02:00 GMT",
+        "summary": "יו\"ר מפלגת כחול לבן אמר בתכנית \"פגוש את העיתונות\" בחדשות 12 כי קיבל הצעות לתפקידים שונים בתמורה לפרישה מהבחירות. שר הביטחון לשעבר תקף: \"אתה לא יודע מה יש לי בבית? תפסיקו עם רעיונות כאלה, אני לא מחפש עבודה, הדבר האחרון שמעניין אותי הוא שיחפשו לי ג'וב\"",
+        "url": "https://news.walla.co.il/item/3864060",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093208-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 494,
+    "topic": "פסק דין נגד ביטול ויזות בגלל פעילות פרו-פלסטינית",
+    "category": "world",
+    "story_summary": "ביהמ\"ש פדרלי אמריקני פסק כי מדיניות ממשל טראמפ לביטול ויזות של סטודנטים זרים שהביעו ביקורת כלפי ישראל היא בעלת פגמים חוקתיים ופוגעת בחופש הביטוי המובטח בחוקה.",
+    "good_news_score": 7,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "\"אינם חוקתיים\": ביהמ\"ש פדרלי נגד מהלכי טראמפ לביטול ויזות בשל פעילות פרו-פלסטינית",
+        "published": "Sat, 29 Aug 2026 20:15:00 GMT",
+        "summary": "שופטת פדרלית שמונתה על ידי הנשיא הקודם ג'ו ביידן, מתחה ביקורת חריפה בפסק דין נגד הממשל האמריקני, בין היתר בנוגע להליכי גירוש נגד סטודנטים זרים שהביעו ביקורת כלפי ישראל. \"המדרון החלקלק הזה מנוגד לחוקה שלנו, שמכירה בזכותנו לדבר בחופשיות\", נכתב בפסק הדין",
+        "url": "https://news.walla.co.il/item/3863974",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/9/3/3893492-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 462,
+    "topic": "קוסרה",
+    "category": "security",
+    "story_summary": "מתנחלים בעלי פנים מכוסות התקיפו בעלי בית בכפר קוסרה בשומרון, צרו אותם למשך שעה וחצי וזרקו אבנים, וכוחות הביטחון הוציאו אותם ללא עצירות. ראש הממשלה גינה את מעשיהם כ'קומץ פורעים' טוענים שפוגעים בעמדת ישראל, אך נתקל בביקורת שהתגובה אינה כנה.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "פרעות בקוסרה, תאונה קטלנית בגליל - והתחזית המעודכנת לגשם | כותרות השבת",
+        "published": "Sat, 29 Aug 2026 19:46:16 +0300",
+        "summary": "יהודים הגיעו רעולי פנים על טנדרים, התבצרו בבית בקוסרה, תקפו עיתונאים ויידו אבנים | הרוחות העזות כבר כאן, הגשם יגיע הערב לצפון | שני הרוגים בתאונה ליד כרמיאל | וגם: עסקת הנפט שטראמפ כינה כ\"גדולה בהיסטוריה\"",
+        "url": "https://www.ynet.co.il/news/article/bk50011ugumg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/H1Zeq28l00Gl/H1Zeq28l00Gl_0_204_3000_1689_0_medium.jpg"
+      },
       {
         "source": "ynet",
         "title": "רעולי פנים, על טנדרים: יהודים התבצרו בבית בקוסרה, תקפו כתבים ויידו אבנים - ועצורים אין",
@@ -29,6 +155,614 @@
         "summary": "Israeli soldiers in the Palestinian village of Qusra were filmed shielding a building where workers had taken shelter. They did not detain or identify the masked settlers, despite an order criminalizing face coverings in the West Bank",
         "url": "https://www.haaretz.com/west-bank/2026-08-29/ty-article/.premium/dozens-of-settlers-wound-palestinians-attack-foreign-journalists-in-w-bank/000001a0-4d35-d649-a7be-dd77900a0000",
         "image": "https://img.haarets.co.il/bs/000001a0-4e16-d5a0-a1f7-fe367c700001/95/e3/48436704441c933c35a350b9b20d/234711.jpg?width=1200"
+      },
+      {
+        "source": "ynet",
+        "title": "נתניהו גינה \"קומץ פורעים\", בעלי הבית: \"היינו נצורים, זרקו עלינו אבנים - ואותנו עצרו\"",
+        "published": "Sat, 29 Aug 2026 19:59:47 +0300",
+        "summary": "עם צאת השבת פרסם רה\"מ הודעה שבה \"גינה בתוקף את מעשי האלימות הנפשעים\" בקוסרה וגילה כי השב\"כ מעורב. בעל הבית סיפר כי הם התקשרו למשטרה עם הגעת ראשוני הפורעים, אבל איש לא הגיע: \"היינו נצורים שעה וחצי. צה\"ל ירה עלינו גז מדמיע, עלינו לגג - ואז המתנחלים יידו לעברנו אבנים מההר, אזקו והיכו אותנו, והם לא נעצרו\"",
+        "url": "https://www.ynet.co.il/news/article/ry10ufeofg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/SJIyf9ldzg/SJIyf9ldzg_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Netnayahu: Settlers who raided Palestinian village 'handful of lawless rioters'",
+        "published": "Sat, 29 Aug 2026 20:22:29 +0300",
+        "summary": "Following the violent raids throughout Saturday, Netanyahu said that the settlers' actions were 'damaging Israel's standing in the world.' An opposition MK called the prime minister's condemnation a 'deceptive ploy' and the violent settlers his 'emissaries'",
+        "url": "https://www.haaretz.com/west-bank/2026-08-29/ty-article/.premium/netnayahu-settlers-who-raided-palestinian-village-handful-of-lawless-rioters/000001a0-4e79-db96-a7fb-fef9bfc10000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3f99-d929-abec-ffd9b3100001/79/34/b2d9a76e4e4fa0deafaef0324d79/201789.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 493,
+    "topic": "אלוף ישראל בשחמט",
+    "category": "sports",
+    "story_summary": "איליה סמירין מאשדוד זכה באליפות ישראל בשחמט עם 10 נקודות בשובר שוויון, בעוד שהצעירה אביטל שילון רהב בן ה-14 הוכתרה כאלופת ישראל בקטגוריית עד 18.",
+    "good_news_score": 8,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "בתום דרמה גדולה: איליה סמירין - אלוף ישראל בשחמט",
+        "published": "Sat, 29 Aug 2026 09:18:24 +0300",
+        "summary": "רב האמן ממועדון אשדוד סיים עם 10 נקודות ועקף רק בשובר שוויון את אביטל בורוחובסקי ומיכאל קלנבורג באליפות הארץ בשח בזק שנערכה בעפולה. נוגה אוריאן אלופת הארץ לנשים, אביטל שילון רהב בן ה-14 סיים חמישי והוכתר כאלוף ישראל עד גיל 18",
+        "url": "https://www.ynet.co.il/sport/article/hyqxfleugl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/S1HeYelufl/S1HeYelufl_293_136_1151_648_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 492,
+    "topic": "אי-ודאות בהרכב מכבי ת״א",
+    "category": "sports",
+    "story_summary": "מכבי תל אביב מתכננת למשחק הבא נגד יריבה בתאריום, כאשר מאמן ברק בכר עדיין מתלבט האם להשאיר את ההרכב שניצח בסיבוב הקודם או לבצע שינויים במערך ההתקפה.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "לקראת מכבי ת\"א: ההתלבטות הגדולה של ברק בכר",
+        "published": "Sat, 29 Aug 2026 11:00:00 +0300",
+        "summary": "הירוקים מקווים להמשיך את המומנטום ממחזור הפתיחה עם ניצחון בבלומפילד (שני, 20:30), כאשר המאמן מהכרמל טרם החליט האם לשמור על המערך שניצח את הפועל ר\"ג או לשנות לקישור מעובה. עלי מוחמד בתמונת ההרכב, ברוניניו עשוי לעבור לאגף השמאלי",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/bk3l9bxoze",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/rkSm0XvwDGl/rkSm0XvwDGl_0_269_3000_1689_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 491,
+    "topic": "העברת בראדלי ברקולה לליברפול",
+    "category": "sports",
+    "story_summary": "בן ה-23 בראדלי ברקולה, המדווח כעוזב את פריז סן-ז'רמן, עומד לחתום בליברפול על חוזה בן חמש שנים תמורת עסקה בשווי 123 מיליון ליש״ט, מה שיהפוך אותו לרכש השני היקר בתולדות המועדון הבריטי.",
+    "good_news_score": 6,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "אחרי שעסקת הענק סוכמה: בראדלי ברקולה יחתום בליברפול עד 2031",
+        "published": "Sat, 29 Aug 2026 11:30:09 +0300",
+        "summary": "הצרפתי בן ה-23 שעוזב את פ.ס.ז' תמורת 123 מיליון ליש\"ט, יחתום במהלך סוף השבוע על חוזה לחמש שנים - ויהפוך לרכש השני היקר בתולדות המועדון. ליברפול תשלם 106 מיליון ליש\"ט באופן מיידי. בעקבות העסקה, גאקפו עשוי לעזוב",
+        "url": "https://www.ynet.co.il/sport/worldsoccer/article/byimzmedge",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/B1YvOfxuzg/B1YvOfxuzg_402_0_1985_1118_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 490,
+    "topic": "19 שנה לזכרון מות אנסופוואה",
+    "category": "sports",
+    "story_summary": "הפועל באר-שבע מציינת את הזיכרון ה-19 למותו של אנסופוואה, הפועל הזמבי שהתמוטט במהלך משחק אימון. סוכנו של השחקן חוזר על הרגעים הטראגיים של אותו יום הקשה.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "19 שנה למותו של אנסופוואה: \"שניות לפני שהיה צריך להיות מוחלף\"",
+        "published": "Sat, 29 Aug 2026 12:30:00 +0300",
+        "summary": "רגע לפני פתיחת המסע להגנה על האליפות, מציינים בהפועל באר-שבע את היום שבו החלוץ הזמבי התמוטט במשחק אימון. סוכנו ניר קרין מספר על היום הטראגי",
+        "url": "https://www.ynet.co.il/sport/israelisoccer/article/hjskg7gdml",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/03/29/9877067/9877067_213_0_3381_1903_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 489,
+    "topic": "הכרזת לוח משחקי ליגת האלופות",
+    "category": "sports",
+    "story_summary": "פורסם הלוח הרשמי של ליגת האלופות עם משחקים משמעותיים כולל ריאל מדריד מול אינטר, ליברפול מול אתלטיקו, ומנצ'סטר סיטי מול פ.ס.ז'.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "ריאל תפתח מול אינטר, ליברפל מול אתלטיקו - ומתי סיטי מול פ.ס.ז'?",
+        "published": "Sat, 29 Aug 2026 14:47:17 +0300",
+        "summary": "הלו\"ז הרשמי של ליגת האלופות פורסם. החבורה של מוריניו תפתח מול האלופה האיטלקית, והמייטי רדס מול הקולצ'ונרוס. הלוח המלא בפנים",
+        "url": "https://www.ynet.co.il/sport/worldsoccer/article/5lpigg6uy",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884543/one1884543_72_0_433_244_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 488,
+    "topic": "אדין דז'קו חוזר לבונדסליגה",
+    "category": "sports",
+    "story_summary": "אדין דז'קו, החלוץ הבוסני בן 40, חוזר לבונדסליגה לאחר יותר מ-15 שנה, ומשתלם לשאלקה במה שיכול להיות הפרק האחרון בקריירה המפוארת שלו.",
+    "good_news_score": 7,
+    "sources": [
+      {
+        "source": "ynet_sport",
+        "title": "הסיפור שלא נגמר: אדין דז'קו חוזר לבונדסליגה | תוכן גולשים",
+        "published": "Sat, 29 Aug 2026 16:36:18 +0300",
+        "summary": "בגיל 40, יותר מ-15 שנה לאחר הופעתו האחרונה בליגה הגרמנית הבכירה, החלוץ הבוסני שב אליה יחד עם שאלקה, לפרק שאולי יהיה האחרון בקריירה המפוארת שלו. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+        "url": "https://www.ynet.co.il/sport/article/bjyz1163pfl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/24/one1875146/one1875146_0_0_800_443_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 487,
+    "topic": "סנטורים אמריקאים קוראים לעצירת תוכנית התנחלויות בE1",
+    "category": "news",
+    "story_summary": "שלושים סנטורים אמריקאים בעלי אוריינטציה פרו-ישראלית קוראים לממשלת ישראל להפסיק את תוכנית בניית התנחלויות באזור E1 בגדה המערבית, כשהם מתריעים שהמהלך יתרחק מפתרון דו-מדינתי.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Pro-Israel senators among 30 urging it to halt E1 settlement plan",
+        "published": "Sat, 29 Aug 2026 11:35:18 +0300",
+        "summary": "The senators said the U.S. 'must remain committed to a two-state solution,' warning that Israeli settlement construction in the E1 area of the West Bank would 'take us further away from that goal'",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-29/ty-article/.premium/pro-israel-senators-among-30-urging-it-to-halt-e1-settlement-plan/000001a0-4c72-db96-a7fb-fcf2e9220000",
+        "image": "https://img.haarets.co.il/bs/000001a0-4ca6-d5a0-a1f7-fea66c220000/20/58/923dd8f44eecae2c39fa6ba9d2a3/011215.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 486,
+    "topic": "גירוי עצב הוגוס לטיפול רפואי",
+    "category": "tech",
+    "story_summary": "מכשירים המגיירים את העצב הוגוס משמשים בהצלחה לטיפול בדיכאון, אפילפסיה ודלקת שפיחי, ומדענים בודקים עכשיו האם הם יכולים גם לטפל בעייפות הקשורה לסרטן, בהשמנה וב-PTSD.",
+    "good_news_score": 8,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Stimulating a single nerve could treat depression and fight inflammation. Is it too good to be true?",
+        "published": "Sat, 29 Aug 2026 12:57:11 +0300",
+        "summary": "Implants that stimulate the body's longest cranial nerve are already treating epilepsy, depression and rheumatoid arthritis. Scientists are now testing whether they can also combat cancer-related wasting, obesity and PTSD. Meanwhile, can an ice bath or an ear massage do the trick?",
+        "url": "https://www.haaretz.com/science-and-health/2026-08-29/ty-article-magazine/nerve-stimulation-could-fight-depression-and-inflammation-too-good-to-be-true/000001a0-379b-d9fc-ada6-3f9f47730000",
+        "image": "https://img.haarets.co.il/bs/000001a0-3865-d268-a1fe-39754a100001/fd/9c/02cdede645eab78bcf0921cb8684/brain.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 485,
+    "topic": "פעילות פרו-פלסטינית בפסטיבל וועניציה",
+    "category": "culture",
+    "story_summary": "מאות אמנים בינלאומיים, ביניהם רוג'ר וטרס וני ארנו, קראו לפסטיבל הקולנוע בוועניציה להטיס דגל פלסטיני ולהפסיק שיתופי פעולה עם מוסדות קשורים לממשלה הישראלית.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "haaretz_en",
+        "title": "Roger Waters, Annie Ernaux among 200 urging Venice festival to 'act for Palestine'",
+        "published": "Sat, 29 Aug 2026 15:18:00 +0300",
+        "summary": "The Venice4Palestine group also called for a Palestinian flag to be flown throughout the festival, which will feature two Palestinian films, and for agreements with Israeli government-linked institutions to be suspended",
+        "url": "https://www.haaretz.com/middle-east-news/palestinians/2026-08-29/ty-article/.premium/roger-waters-annie-ernaux-among-200-urging-venice-festival-act-for-palestine/000001a0-4c87-d649-a7be-dde77e6c0000",
+        "image": "https://img.haarets.co.il/bs/00000182-a7e9-d803-a7f6-fff910fc0000/93/6c/c8bd61954baca119e7b8ebdfb2de/48161749.JPG?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 484,
+    "topic": "ייצור כיפת ברזל בגרמניה",
+    "category": "business",
+    "story_summary": "ממשלת סקסוניה תחתית בגרמניה משקיעה 200 מיליון אירו במפעל לייצור רכיבי כיפת ברזל, בעסקה ישירה עם רפאל המעקפת את הווטו של קטאר. המהלך יציל אלפי מקומות עבודה בגרמניה ויחזק את השיתוף הביטחוני עם ישראל.",
+    "good_news_score": 7,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "למדו מהישראלים? הקומבינה שתעקוף את קטאר כדי לייצר רכיבי כיפת ברזל בגרמניה",
+        "published": "Sat, 29 Aug 2026 13:22:23 +0300",
+        "summary": "ממשלת סקסוניה תחתית תשקיע 200 מיליון אירו במפעל באוסנברוק בו היו אמורים להיות מיוצרים הרכיבים, תשתלט עליו, וכך העסקה תתבצע בין רפאל לממשלה המקומית ולא עם פולקסווגן בה מחזיקה קטאר בזכות וטו. המהלך יציל אלפי מקומות עבודה",
+        "url": "https://www.ynet.co.il/economy/article/rkv0hxl00ml",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/SJbZWEeuGl/SJbZWEeuGl_43_0_2900_1631_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 483,
+    "topic": "אתר בידור המחודש של אודיה",
+    "category": "business",
+    "story_summary": "אתר בידור שחזר לפעילות עם הזמרת אודיה כפרזנטורית נסגר שוב לאחר יומיים של פעילות, תוך הודעה על המשך בסוף השבוע.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet_economy",
+        "title": "אודיה ביקשה ואתר עדיקה המחודש - סגור בשבת",
+        "published": "Sat, 29 Aug 2026 18:38:20 +0300",
+        "summary": "האתר שנסגר וחזר לפעילות עם הזמרת כפרזנטורית, היה פעיל יומיים לפני שנסגר עם ההודעה: \"צעדיקות, נתראה במוצ\"ש\"",
+        "url": "https://www.ynet.co.il/economy/article/rymwhdedmg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/25/Hyl4lGiMzl/Hyl4lGiMzl_0_74_1600_901_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 482,
+    "topic": "תגלית חיות אקזוטיות בפשיטה על חווה של ארגון פשע",
+    "category": "world",
+    "story_summary": "כוחות ביטחון במקסיקו גילו 135 בעלי חיים אקזוטיים ונדירים, כולל אריות, טיגריסים ולייגר (כלאה בין אריה וטיגריסית), במהלך פשיטה על חווה בחשד להברחת דלק בקשר לארגון פשע.",
+    "good_news_score": 6,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "135 חיות נדירות, כולל החתול ההיברידי הגדול בעולם - נמצאו בחווה של ארגון פשע",
+        "published": "Sat, 29 Aug 2026 10:55:00 GMT",
+        "summary": "כוחות הביטחון שחיפשו ראיות להברחת דלק בחווה גדולה מצאו שם משהו שהם כנראה לא ציפו לראות: 135 בעלי חיים אקזוטיים ונדירים, בהם טיגריסים, אריות, יגוארים, צבועים, קופים, ביזונים, יענים וגמל. אבל בין כל החיות הסתתרה אחת יוצאת דופן במיוחד - לייגר, הכלאה נדירה בין אריה זכר לטיגריסית. הפשיטה נערכה במדינת טמאוליפס שבצפון-מזרח מקסיקו, סמוך לגבול עם ארה\"ב, כחלק ממבצע נגד ארגון פשע החשוד בסחר בלתי חוקי בדלק. בדיווחים מקומיים יוחסו הנכסים ל\"לוס רוחוס\", פלג של קרטל המפרץ, אך הרשויות לא הודיעו רשמית מי הבעלים של החווה. במקום נמצאו גם כ-68 אלף ליטר סולר, מכלי אחסון, משאבות, ציוד לטיפול בדלק וכלי נשק. אדם אחד נעצר במסגרת המבצע, שכלל חיפושים בחמישה נכסים שונים.",
+        "url": "https://news.walla.co.il/item/3863984",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093716-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 481,
+    "topic": "משבר בחינוך המיוחד בישראל",
+    "category": "news",
+    "story_summary": "מערכת החינוך המיוחד בישראל סובלת ממשבר עמוק: מחסור באלפי סייעות וכר נמוך יצרו שוק תחתי בו הורים בעלי אמצעים משלמים כסף נוסף מכיסם כדי להבטיח ליווי ראוי לילדיהם, בעוד אחרים נותרים מאחור. מומחים מעריכים שהמערך בישראל עומד על סף קריסה.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "עד 90 שקל לשעה מתחת לשולחן: \"השוק השחור\" של החינוך המיוחד",
+        "published": "Sat, 29 Aug 2026 11:00:00 GMT",
+        "summary": "מחסור באלפי סייעות, שכר נמוך ומערכת שיבוצים עיוורת יצרו שוק מקביל: הורים בעלי אמצעים \"משלימים שכר\" מכיסם כדי להבטיח ליווי ראוי לילדיהם, בזמן שאחרים נותרים מאחור. המשלבות מדברות, המומחים מתריעים: \"מערך השילוב בישראל על סף קריסה\"",
+        "url": "https://news.walla.co.il/item/3863627",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093360-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 480,
+    "topic": "השחטה של סוסי בר מוגנים בקנדה ומקסיקו",
+    "category": "world",
+    "story_summary": "אלפי סוסי בר מוגנים בחוק בארה״ב נמכרו למשחטות בקנדה ומקסיקו, כאשר ממשל טראמפ איפשר את הפרת החוק. הביקוש לבשר סוס בחו״ל ונסיון לצמצם את האוכלוסייה המתפשטת הניעו סוחרים לעקוף את ההנחיות ולבצע השחטה המונית.",
+    "good_news_score": 1,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "הם יורים גם בסוסים: כיצד ממשל טראמפ איפשר שחיטה של אלפי סוסי בר - בניגוד לחוק",
+        "published": "Sat, 29 Aug 2026 12:00:00 GMT",
+        "summary": "הם מוגנים בחוק ונחשבים לאחד הסמלים של הטבע הפראי בארה\"ב, אך אלפי סוסי בר נמכרו בשנה האחרונה למשחטות בקנדה ומקסיקו. הביקוש לבשר סוס מחוץ לארה\"ב והניסיון לצמצם את האוכלוסייה המתפשטת הביאו סוחרים מפוקפקים לעקוף את ההנחיות ולצאת למבצע החיסול ההמוני",
+        "url": "https://news.walla.co.il/item/3863936",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093657-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 479,
+    "topic": "הצתת אמבולנסים בלונדון",
+    "category": "world",
+    "story_summary": "ארבעה צעירים הודו בהצתת אמבולנסים של ארגון הצלה בלונדון, שגרמה לנזקים של כמיליון ליש״ט. התביעה טוענת שהיא היתה תקיפה מכוונת על הקהילה היהודית ותבקש להחמיר בעונשים על בסיס קשרים לטרור.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "\"מי שמסכן חיי יהודים יישא בתוצאות\": ארבעה צעירים הודו בהצתת אמבולנסים בלונדון",
+        "published": "Sat, 29 Aug 2026 13:00:00 GMT",
+        "summary": "הצעירים הודו בהצתת ארבעת האמבולנסים של ארגון \"הצלה\" בגולדרס גרין, שגרמה לנזק של כמיליון ליש\"ט. התביעה טוענת כי הקהילה היהודית הייתה יעד המתקפה ותבקש להחמיר בעונשם על בסיס זיקה לטרור. מנגד, ההגנה טוענת כי אין לכך ראיות - וגזר הדין טרם ניתן",
+        "url": "https://news.walla.co.il/item/3863931",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093655-46.png"
+      }
+    ]
+  },
+  {
+    "story_id": 478,
+    "topic": "75 שנות יחסי ישראל-טורקיה",
+    "category": "world",
+    "story_summary": "יחסי ישראל-טורקיה עברו 75 שנים של תנודות בין שיתופי פעולה ביטחוניים לעימותים דיפלומטיים חריפים. מאירועי המרמרה וההתנצלות ועד להתקרבות טורקיה לחמאס, הם נתפסים כ'הידידות הסוערת' במזרח התיכון.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "ימי הזוהר והשפל: 75 שנות רכבת הרים ביחסי ישראל-טורקיה",
+        "published": "Sat, 29 Aug 2026 15:00:00 GMT",
+        "summary": "מהרכב שנתקע בירושלים ב-1949, דרך פגישות ליליות בלב ים ועסקאות ביטחוניות חריגות, תקרית משט המרמרה וההתנצלות ועד לחיבוק של ארדואן לחמאס: כך נראית ה\"ידידות\" הכי סוערת במזרת התיכון",
+        "url": "https://news.walla.co.il/item/3863145",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093390-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 477,
+    "topic": "פסק דין בתקרית התקפה אנטישמית בבריטניה",
+    "category": "world",
+    "story_summary": "אישה בריטית הורשעה בהתקפה אלימה על משפחה יהודית כולל ילדים בנסיבות אנטישמיות, מול רקע של עלייה משמעותית בתקריות אנטישמיות בבריטניה.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "תקפה ילדים ומשכה בזקנו של יהודי: שנת מאסר על תנאי לאישה באירוע אנטישמי בבריטניה",
+        "published": "Sat, 29 Aug 2026 16:35:00 GMT",
+        "summary": "לפי כתב האישום, סיידה חאטון בת ה-39 הרימה ידיים על ילדים, פנתה בקללות לאם עם תינוק והיכתה את האב. חאטון הורשעה בחמישה סעיפי עבירה בנסיבות מחמירות. מתחילת השנה בממלכה המאוחדת דווח על 1,926 תקריות אנטישמיות - עלייה של 21% לעומת התקופה המקבילה ב-2025",
+        "url": "https://news.walla.co.il/item/3864009",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/5/9/3959638-46.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "קיללה ילדים יהודים ליד בית ספר בלונדון, משכה בזקן אחד האבות - ולא נשלחה לכלא",
+        "published": "Sat, 29 Aug 2026 20:49:14 +0300",
+        "summary": "סיידה חאטון (39) הורשעה בתקיפה על רקע גזעני לאחר שקיללה אם שהחזיקה בתינוק, ילדים שחזרו מטיול - ואף משכה בזקנו של אחד האבות שניסה לגרום לה להפסיק. \"איש לא צריך לחשוש לנהל את חייו בגלל גזעו, דתו או זהותו. זו הייתה תקיפה מתועבת\", אמר התובע הבכיר. עונשה: 12 חודשי מאסר על תנאי",
+        "url": "https://www.ynet.co.il/news/article/h1kw900gdfe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/HJ1JSFxOGe/HJ1JSFxOGe_0_0_850_479_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 476,
+    "topic": "ניסיון הפיכה בניז'ר",
+    "category": "world",
+    "story_summary": "חיילים מורדים בניז'ר פתחו בהתקפה כלל היקף על מוקדי חשמל ממלכתיים כולל ארמון הנשיאות ונמל התעופה בניאמיי, תפסו בני ערובה וניסו להשתלט על שידורי המדינה במסגרת ניסיון הפיכה צבאי נגד החונטה השלטת.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "דרמה בניז'ר: ניסיון מרד של חיילים נגד החונטה הצבאית",
+        "published": "Sat, 29 Aug 2026 17:02:00 GMT",
+        "summary": "קבוצת חיילים מורדים פתחה בירי קשה לעבר ארמון הנשיאות ונמל התעופה הבינלאומי בבירה ניאמיי, תפסה קצינים כבני ערובה בבסיס חיל האוויר ואף השתלטה לזמן קצר על שידורי התקשורת הממלכתיים שנאלצו להפסיק את שידוריהם. השלטונות ניסו להרגיע וטענו כי \"המצב תחת שליטה\"",
+        "url": "https://news.walla.co.il/item/3864032",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093786-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 475,
+    "topic": "אפליה בדיור בר-כושר",
+    "category": "news",
+    "story_summary": "בשכונה דתית בבני ברק מוצעות דירות בעלויות נמוכות בהרבה מת״א, אך דוחות על אפליה כלפי זוגות גברים, חיילי מילואים וחילוניים המנעו מהם לגור בשכונה.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "walla",
+        "title": "מול השכונות היקרות של ת\"א - 4 חדרים בכ-6,300 שקל: אז למה צעירים חילונים נשארים בחוץ?",
+        "published": "Sat, 29 Aug 2026 17:20:00 GMT",
+        "summary": "4 קילומטרים בלבד מת\"א, ובמתחם הסופרים בבני ברק מוצעות דירות חדשות באלפי שקלים פחות. רוי הגיע עם בן זוגו ונאמר לו ש\"אין מקום לזוג גברים\", שחר המילואימניק שמע שהמדים \"יעשו בעיות\" ורעות ספגה קריאות \"שיקסה\". שלוש עדויות שמעלות את השאלה למי באמת מיועדת השכונה?",
+        "url": "https://news.walla.co.il/item/3863992",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093723-46.jpeg"
+      }
+    ]
+  },
+  {
+    "story_id": 474,
+    "topic": "עדויות מטראומה מ-7 באוקטובר",
+    "category": "security",
+    "story_summary": "סמב\"ציות שהיו בבסיס רעים ביום התקפת 7 באוקטובר משתפות לראשונה את עדויותיהן על אירועי הטראומה וחוויות הקרב. הן מספרות על ההחלטות הקשות שנאלצו להתמודד איתן ועל הצלקות הנפשיות והגופניות שנישאו איתן מאז.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "\"היה שיח בחמ\"ל שאנחנו לא נחטפות חיות בשום מצב, ואם צריך מתים ביחד. ובגלל שאין לנו נשק, נתקע עטים בעורק הראשי\"",
+        "published": "Sat, 29 Aug 2026 09:17:41 +0300",
+        "summary": "7 באוקטובר 2023, חמ\"ל החטיבה הדרומית בבסיס רעים. הסמב\"ציות שראו הכול משחזרות לראשונה מה באמת עבר עליהן שם, ומספרות על הצלקות שנחקקו בהן מאז: \"כולם התכופפו ואני נעמדתי. אמרתי 'לפחות אספוג את הכדור הראשון, שלא אראה אף אחת מתה'\". והרגע שבו הבינו שאל\"ם חממי נפל, בזמן שבנו מאחוריהן",
+        "url": "https://www.ynet.co.il/news/article/yokra14877498",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/HykDgj2Pfe/HykDgj2Pfe_0_98_1280_721_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 473,
+    "topic": "היעלמות חמינאי ותגבור הקצוניים",
+    "category": "world",
+    "story_summary": "מנהיג איראן חמינאי נעדר מהציבור למשך זמן רב, בעוד בנו מוג'תבה משטח את ההנהגה מאחורי הקלעים תוך כדי התגברות גרעין קשה של קצוניים צבאיים ודתיים. ההיעדרות המתמשכת מעוררת ספקות אפילו בקרב תומכי המשטר.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "הגרעין הקיצוני שהשתלט על איראן",
+        "published": "Sat, 29 Aug 2026 10:42:23 +0300",
+        "summary": "חצי שנה לתחילת המלחמה, באיראן התגבש גרעין קשה של גנרלים ואנשי דת, שמצהירים שהם ערוכים לעימות ממושך. חמינאי הבן שטרם נראה בציבור מקיף את עצמו בבעלי ברית ותיקים, ומחזיר לתפקידים בכירים את מי שהובילו בעבר דיכוי מחאות. טראמפ הבטיח \"שינוי משטר\", וקיבל קיצונים: כך נראית ההנהגה החדשה",
+        "url": "https://www.ynet.co.il/news/article/bjbhh1eozx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/SJyhBzgOGx/SJyhBzgOGx_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Iranians increasingly sceptical amid supreme leader's prolonged absence",
+        "published": "Sat, 29 Aug 2026 12:37:55 +0300",
+        "summary": "With his whereabouts unclear, Iranian officials say Mojtaba Khamenei remains in control from the shadows, but his prolonged absence is fueling doubts even among the Islamic Republic's hardline supporters",
+        "url": "https://www.haaretz.com/middle-east-news/iran/2026-08-29/ty-article/iranians-increasingly-sceptical-amid-supreme-leaders-prolonged-absence/000001a0-4bce-d649-a7be-dfee39d60000",
+        "image": "https://img.haarets.co.il/bs/0000019c-d3cf-de96-adff-d3ef42aa0000/a1/1d/385cbd444d4f8fa2b6c771482d4a/168396.jpg?width=1200"
+      }
+    ]
+  },
+  {
+    "story_id": 472,
+    "topic": "ניסיונות פסילת מפלגות ערביות",
+    "category": "news",
+    "story_summary": "הקואליציה תנסה להשתמש בכוח הרוב שלה בוועדת הבחירות המרכזית כדי לפסול רשימות ומועמדים ערבים לכנסת, אך קיימים חששות שהחלטות כאלה עלולות להיות מושפעות משיקולים פוליטיים ולא משיקולים משפטיים או עניינים.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "הערכות: יהיו ניסיונות עיקשים של סיעות הימין לפסול את המפלגות הערביות",
+        "published": "Sat, 29 Aug 2026 11:16:56 +0300",
+        "summary": "הקואליציה מתכוונת לנצל את הרוב שלה בוועדת הבחירות המרכזית כדי לנסות ולפסול רשימות ומועמדים ערבים לכנסת, וכבר סימנה את האשם במקרה של כישלון: היו\"ר נעם סולברג. \"הגוף הפוסל הוא גוף פוליטי בעיקרו, שהחלטותיו עלולות להיות מושפעות משיקולים פוליטיים ולאו דווקא ענייניים או משפטיים ואין עליו חובת הנמקה. מדובר במצב בעייתי מאוד\"",
+        "url": "https://www.ynet.co.il/news/article/yokra14878800",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/Bkxux6zHRJx/Bkxux6zHRJx_0_0_1280_721_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 471,
+    "topic": "מורשת בן-גוריון ומערכת החינוך בישראל",
+    "category": "news",
+    "story_summary": "הכתבה משווה בין נכונותו של בן-גוריון לנקוט בצעדים קיצוניים (כולל הפקודה על האלטלנה) למען ביסוס המדינה וחינוך אזרחיה, לבין קשיי ישראל המודרנית בעיצוב מדיניות חינוכית.",
+    "good_news_score": 4,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "מתאוות הממלכתיות של בן-גוריון כמעט שלא נותר דבר",
+        "published": "Sat, 29 Aug 2026 11:25:39 +0300",
+        "summary": "הזקן היה מוכן ללכת רחוק מאוד כדי לחנך את אזרחי המדינה הצעירה - כולל פקודת הירי על אוניית האצ\"ל אלטלנה. אנחנו מתקשים אפילו להחליט מה ילמדו במוסדות החינוך של ילדינו",
+        "url": "https://www.ynet.co.il/news/article/yokra14880048",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/yk14880175/yk14880175_0_0_728_446_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 470,
+    "topic": "חלוקים בחברה הישראלית וצעדים לשותפות",
+    "category": "news",
+    "story_summary": "התהום בחברה הציונית בישראל דורשת מהפוליטיקאים הבנה עמוקה של חשיבות הקשר עם האזרחים הערבים; עבאס וסגלוביץ' מציעים מודל שותפות חדש שאמור להגן על ההזדמנות לדיאלוג לעתיד.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "זה מה שיש - שב איתנו כאן",
+        "published": "Sat, 29 Aug 2026 11:54:48 +0300",
+        "summary": "תהום פעורה בחברה הציונית בישראל וכל צד מנסה למצוא מעקפים. דווקא מפלגות שדורשות (ובצדק) ממשלה עם רוב ציוני, אמורות להבין את גודל השעה מול האזרחים הערבים. עבאס וסגלוביץ' מציעים שותפות מסוג חדש שחבל לפסול מראש. ייתכן שכשהיהודים יבשילו, לא תהיה הנהגה ערבית שתושיט יד",
+        "url": "https://www.ynet.co.il/news/article/yokra14879873",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/yk14880601/yk14880601_0_0_559_446_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 469,
+    "topic": "משבר ורפורמה במערכת החינוך הישראלית",
+    "category": "news",
+    "story_summary": "מערכת החינוך הישראלית נמצאת במצב משבר וזקוקה לפירוק והרכבה מחדש בעיתוד הקרוב, כשהציבור מודע לכך ומוכן אף לשאת בעלויות כבדות כולל שביתות ארוכות לשם השגת הרפורמה הנדרשת.",
+    "good_news_score": 3,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "זה הזמן לעשות להם בית ספר",
+        "published": "Sat, 29 Aug 2026 11:57:15 +0300",
+        "summary": "מערכת החינוך קורסת, וצריך לטפל בזה לפני שתגיע הקטסטרופה. זה הזמן לפירוק והרכבה מחדש, \"פינוי בינוי\". הציבור מבין את זה, ואפילו מוכן לשלם מחיר של שביתה ארוכה",
+        "url": "https://www.ynet.co.il/news/article/yokra14879960",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/yk14880162/yk14880162_1_24_601_339_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 468,
+    "topic": "חייל חשוד בסחיטה מינית של נערות",
+    "category": "news",
+    "story_summary": "חייל כבן 20 חשוד שהתחזה לנער כדי לגרום לשתי נערות בנות 14-15 לשלוח תמונות חושפניות, ולאחר מכן סחט אותן לשלוח תכנים נוספים תוך איומים על הוצאה להורג. מעצרו הוארך בארבעה ימים.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "סחט נערות ששלחו לו תמונות חושפניות - ואיים ברצח: חייל חשוד בהטרדה מינית",
+        "published": "Sat, 29 Aug 2026 12:20:03 +0300",
+        "summary": "חייל כבן 20 חשוד שהתחזה לנער בן 16, גרם לשתי נערות בנות 14 ו-15 לשלוח לו תמונות חושפניות - ואז סחט אותן לשלוח לו תכנים נוספים ואף איים ברצח שלהן ושל משפחותיהן. מעצרו הוארך ב-4 ימים",
+        "url": "https://www.ynet.co.il/news/article/bkzmgxl00fe",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/03/BJqjjYa11Zx/BJqjjYa11Zx_0_0_1280_720_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 467,
+    "topic": "התקפה רוסית על מחסן חומרי נפץ ליד קייב",
+    "category": "world",
+    "story_summary": "במתקפה רוסית על מחסן חומרי נפץ במחוז בוצ'ה ליד קייב נהרגו 37 אנשים, כשהפיצוץ הרס 50 בתי מגורים וגרם לשריפה גדולה. יותר מ-370 תושבים פונו מהאזור וזלנסקי הורה על חקירה בחשד לרשלנות בשמירת התחמושת.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "37 הרוגים במתקפה רוסית ליד קייב: \"מחסן חומרי נפץ נפגע, ואז אירע פיצוץ\" | תיעוד",
+        "published": "Sat, 29 Aug 2026 12:50:59 +0300",
+        "summary": "יותר מ-370 תושבים פונו בעקבות הפגיעה במחסן במחוז בוצ'ה, 50 מבני מגורים ניזוקו ושריפה גדולה התפשטה לבתים ולמסעדה. זלנסקי הודיע על פתיחת חקירה בחשד לרשלנות: \"אסור לאחסן תחמושת ליד אזורי מגורים\". ברוסיה דיווחו במקביל על הרוגים בתקיפות כטב\"מים אוקראיניים בבלגורוד ובחצי האי קרים",
+        "url": "https://www.ynet.co.il/news/article/rjmd7mxuzg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/BJgW4Qx00Me/BJgW4Qx00Me_0_0_3000_1688_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 466,
+    "topic": "שחרור הרוצח בתיק הרצח על כבוד",
+    "category": "news",
+    "story_summary": "לפני כ-23 שנים נרצחה רויה עיסא בידי בן דודה מונדר בארבע יריות לאחר שהחליטה לעזוב את האירוסין שלה, במה שנקבע כרצח על כבוד המשפחה. לאחרונה, ועדת השחרורים שחררה את הרוצח בתנאים מגבילים לאחר שהביע חרטה.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "לרוצח קוצר שליש ממאסר העולם, והמשפחה בהלם: \"משתגעים, היא הייתה בכיתה י\"א\"",
+        "published": "Sat, 29 Aug 2026 13:24:23 +0300",
+        "summary": "זה קרה לפני כ-23 שנה. רואה עיסא, שהתארסה בגיל צעיר, החליטה לעזוב את הארוס. חברו, בן הדוד שלה מונדר, רצח אותה ב-4 יריות בדרך לבית הספר - במה שנקבע כמעשה \"רצח על כבוד המשפחה\". ועדת השחרורים נעתרה לבקשתו ושחררה אותו בתנאים מגבילים, אחרי שהביע חרטה",
+        "url": "https://www.ynet.co.il/news/article/hku00lycvfx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/Bye4MUMAvfl/Bye4MUMAvfl_0_265_739_417_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 465,
+    "topic": "אסון טבעי בנפאל וטיבט",
+    "category": "world",
+    "story_summary": "נפאל וטיבט סובלות מאסון טבעי קשה עם 682 הרוגים וכ-3,000 נעדרים, בעוד מזג אוויר קשה מעכב את החיפושים וקיים חשש משיטפונות נוספים שיחוללו הרס נוסף.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "682 הרוגים, כ-3,000 נעדרים - וחשש משיטפון נוסף: ממדי האסון בנפאל וטיבט",
+        "published": "Sat, 29 Aug 2026 15:33:19 +0300",
+        "summary": "מזג האוויר הקשה עצר זמנית את החיפושים, מאות זרים עדיין נעדרים - והרשויות עוקבות אחר אגמים שעלולים לחולל גל הרס נוסף. בקטמנדו מעריכים כי השיקום יעלה 5-4 מיליארד דולר, ומבקשים סיוע. משפחות נעדרים מחכות לכל פיסת מידע: \"העולם שלנו התהפך, אנחנו לא יודעים כלום\"",
+        "url": "https://www.ynet.co.il/news/article/skj1rr1uzx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/Hken8lxuMg/Hken8lxuMg_0_204_3000_1688_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 464,
+    "topic": "תאונות דרכים קטלניות",
+    "category": "news",
+    "story_summary": "בשעות הערב אירעו שתי תאונות דרכים קטלניות בישראל: בתאונה הראשונה סמוך ללפידות נספו שני גברים בני 30, ובתאונה השנייה על כביש 4 ליד רעננה נהרג אדם בן 93.",
+    "good_news_score": 0,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "תוך שעות: שלושה הרוגים בתאונות ליד כרמיאל ובכביש 4",
+        "published": "Sat, 29 Aug 2026 17:15:30 +0300",
+        "summary": "שני גברים כבני 30 נהרגו בתאונה בין שני כלי רכב בכביש 854, בסמוך למושב לפידות. פצוע קשה פונה לבית חולים בנהריה. בתאונה נוספת בין שלושה רכבים שאירעה אחר הצהריים ליד צומת רעננה בכביש 4, נהרג בן 93",
+        "url": "https://www.ynet.co.il/news/article/hygmywgdmg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/BJUkx00guzx/BJUkx00guzx_0_240_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "שני בני 30 נהרגו בתאונת דרכים סמוך ללפידות: פצוע נוסף פונה לבית החולים",
+        "published": "Sat, 29 Aug 2026 17:01:00 GMT",
+        "summary": "שני גברים כבני 30 נהרגו בתאונה בין שני כלי רכב בכביש 854 סמוך ללפידות. צוותי מד\"א העניקו החייאה לשניים, אך נאלצו לקבוע את מותם. אדם נוסף נפצע קשה ופונה למרכז הרפואי גליל נהריה כשהוא מעורפל הכרה עם חבלה רב מערכתית",
+        "url": "https://news.walla.co.il/item/3864030",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093790-46.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 463,
+    "topic": "אלי כהן בראשות רשימת הליכוד",
+    "category": "news",
+    "story_summary": "שר הליכוד אלי כהן הוצב בראשות הרשימה לבחירות הקרובות, ובראיון ראשון לאחר הפריימריז הוא חוזר על עמדותיו בנושי גיוס חרדים ותפקידו העתידי כשר אוצר תוך הדגשת תמיכה בנתניהו.",
+    "good_news_score": 5,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "השר אלי כהן: \"הסקרים מוטים נגד הימין. המתלבטים יגיעו לקלפי ותרעד להם היד\"",
+        "published": "Sat, 29 Aug 2026 17:29:27 +0300",
+        "summary": "מתפקדי הליכוד הציבו אותו (שוב) בצמרת הרשימה. בריאיון ראשון מאז הפריימריז הוא מסביר איך עקף את כולם (\"מעשים מנצחים פופוליזם וצעקות\"), קורא לקדם שוויון בנטל (\"אחינו החרדים חייבים להתגייס\") ומסמן את היעד הבא (\"רואה את עצמי שר האוצר\"). אבל על היום שאחרי נתניהו הוא נזהר מלדבר: \"זה לא רלוונטי עכשיו. כולנו מלוכדים סביבו\"",
+        "url": "https://www.ynet.co.il/news/elections2026/article/yokra14879852",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/yk14879598/yk14879598_1_47_1289_726_0_medium.jpg"
+      }
+    ]
+  },
+  {
+    "story_id": 439,
+    "topic": "חרדים חוסמים כבישים בשבת",
+    "category": "news",
+    "story_summary": "חרדים ממשיכים לחסום כבישים בשבת כדי למנוע הגעת חילונים, כשהחסימות התפשטו מבני ברק גם לירושלים וצפת. המשטרה לא מצליחה להתערב ביעילות וחוששים מהסלמה של העימותים הדתיים-חילוניים.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "רגע לפני השבת: מכולות הונחו בכניסה לשכונה המעורבת בבני ברק",
+        "published": "Fri, 28 Aug 2026 23:20:49 +0300",
+        "summary": "גורמים בעירייה, שמכחישה כי מדובר ביוזמה רשמית, הניחו לפני כניסת השבת מכולות על כביש הגישה לשכונת מתחם הסופרים וחסמו אותו. כעבור שעות, המשטרה פינתה את המכולות וזימנה לחקירה את הנהג שהניח. גורם בארגון: \"גם החילונים עושים לחרדים דווקא, נוסעים בפראות ועושים חארקות\"",
+        "url": "https://www.ynet.co.il/news/article/bjvjuvk00zx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/r1xpncPy00Gx/r1xpncPy00Gx_24_0_825_464_0_medium.jpg"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Haredim again Block Bnei Brak neighborhood, cutting off secular residents",
+        "published": "Sat, 29 Aug 2026 02:06:59 +0300",
+        "summary": "One Writers' Complex resident said a truck driver who unloaded containers, blocking access to the neighborhood, told him he had been sent by the municipality. Another warned of a 'religious war if police fail to intervene",
+        "url": "https://www.haaretz.com/israel-news/2026-08-29/ty-article/.premium/haredim-again-block-bnei-brak-neighborhood-cutting-off-secular-residents/000001a0-4a32-da19-affd-def71c950000",
+        "image": "https://img.haarets.co.il/bs/000001a0-4a35-d2c5-a1b2-efbff3dd0000/d5/22/021b7b76400d8fc7fa1c3f41aa51/whatsapp-image-2026-08-28-at-20-06-59.jpeg?width=1200"
+      },
+      {
+        "source": "ynet",
+        "title": "חרדים חסמו לחלוטין את הכניסה לירושלים - ופתחו רק בצאת השבת: \"המשטרה ברחה\"",
+        "published": "Sat, 29 Aug 2026 19:08:29 +0300",
+        "summary": "מנסים לשנות את הסטטוס קוו: בזמן שבצפת חרדים שוב מנסים למנוע מעבר אוטובוסים בשבת, בכניסה לי-ם נחסמו אוטובוסים מהצפון - ואחר כך הכביש כולו נחסם. הניידת היחידה במקום עזבה אחרי זמן קצר, למרות שבמשטרה טענו: \"כוחות מתוגברים בדרך\". אמש: מכולות הוצבו בכניסה לשכונה מעורבת בבני ברק, כדי למנוע הגעת חילונים בשבת",
+        "url": "https://www.ynet.co.il/news/article/h10jgflufl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/rJeIhQYgdGg/rJeIhQYgdGg_0_145_1280_721_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "שבת של מחאות חרדים: מפגינים ניסו לחסום את הכניסה לירושלים",
+        "published": "Sat, 29 Aug 2026 19:35:00 GMT",
+        "summary": "בצומת מירון, כמידי שבת, כ-20 מפגינים ניסו לשבש את תנועת האוטובוסים בין צפת לנהריה; בירושלים, ניסו מפגינים חרדים לחסום את הכניסה לעיר - במחאה על חילול השבת. \"מי שחושב שאפשר לסגור את ירושלים בשבת דרך לחץ והפחדה פשוט לא מכיר את הירושלמים\", אמר סגן ראש העיר",
+        "url": "https://news.walla.co.il/item/3864055",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093830-46.jpg"
       }
     ]
   },
@@ -196,39 +930,6 @@
         "summary": "אוסיין בולט, מלפניך: רובוטים דמויי אדם עלו למסלולים בסין, התחרו בעשרות מקצועות וסיפקו רגעים שנדמה שנלקחו מסרט עתידני. אחד מהם שבר את שיא העולם ב-100 מ' - ואחרים קבעו שיאים בקפיצה ובריצה. מה מסתתר מאחורי המופע המוזר - והאם אנחנו צריכים לחשוש?",
         "url": "https://www.ynet.co.il/sport/article/rjtnwrtwgl",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/B1idXBdwze/B1idXBdwze_448_333_2354_1325_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 439,
-    "topic": "חסימת כביש בבני ברק",
-    "category": "news",
-    "story_summary": "מכולות ממשיכות לחסום את כניסת השכונה בבני ברק, עם טענות על מעורבות עירונית וחשש מהסלמה של עימותים דתיים-חילוניים אם המשטרה לא תתערב.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "רגע לפני השבת: מכולות הונחו בכניסה לשכונה המעורבת בבני ברק",
-        "published": "Fri, 28 Aug 2026 23:20:49 +0300",
-        "summary": "גורמים בעירייה, שמכחישה כי מדובר ביוזמה רשמית, הניחו לפני כניסת השבת מכולות על כביש הגישה לשכונת מתחם הסופרים וחסמו אותו. כעבור שעות, המשטרה פינתה את המכולות וזימנה לחקירה את הנהג שהניח. גורם בארגון: \"גם החילונים עושים לחרדים דווקא, נוסעים בפראות ועושים חארקות\"",
-        "url": "https://www.ynet.co.il/news/article/bjvjuvk00zx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/r1xpncPy00Gx/r1xpncPy00Gx_24_0_825_464_0_medium.jpg"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Haredim again Block Bnei Brak neighborhood, cutting off secular residents",
-        "published": "Sat, 29 Aug 2026 02:06:59 +0300",
-        "summary": "One Writers' Complex resident said a truck driver who unloaded containers, blocking access to the neighborhood, told him he had been sent by the municipality. Another warned of a 'religious war if police fail to intervene",
-        "url": "https://www.haaretz.com/israel-news/2026-08-29/ty-article/.premium/haredim-again-block-bnei-brak-neighborhood-cutting-off-secular-residents/000001a0-4a32-da19-affd-def71c950000",
-        "image": "https://img.haarets.co.il/bs/000001a0-4a35-d2c5-a1b2-efbff3dd0000/d5/22/021b7b76400d8fc7fa1c3f41aa51/whatsapp-image-2026-08-28-at-20-06-59.jpeg?width=1200"
-      },
-      {
-        "source": "walla",
-        "title": "שבת של מחאות חרדים: מפגינים ניסו לחסום את הכניסה לירושלים",
-        "published": "Sat, 29 Aug 2026 19:35:00 GMT",
-        "summary": "בצומת מירון, כמידי שבת, כ-20 מפגינים ניסו לשבש את תנועת האוטובוסים בין צפת לנהריה; בירושלים, ניסו מפגינים חרדים לחסום את הכניסה לעיר - במחאה על חילול השבת. \"מי שחושב שאפשר לסגור את ירושלים בשבת דרך לחץ והפחדה פשוט לא מכיר את הירושלמים\", אמר סגן ראש העיר",
-        "url": "https://news.walla.co.il/item/3864055",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093830-46.jpg"
       }
     ]
   },
@@ -903,167 +1604,6 @@
     ]
   },
   {
-    "story_id": 415,
-    "topic": "שיא עולם בריצה משוכות",
-    "category": "sports",
-    "story_summary": "אליסון דוס סנטוס מברזיל שבר את שיא העולם בריצת 400 מטר משוכות עם זמן של 45.80 שניות, והפך לאדם הראשון שיורד מתחת ל-45.90 שניות.",
-    "good_news_score": 8,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "אליסון דוס סנטוס שבר את שיא העולם ב-400 מטר משוכות",
-        "published": "Thu, 27 Aug 2026 22:28:40 +0300",
-        "summary": "הברזילאי עצר את השעון על 45.80 שניות בתחרות ליגת היהלום בציריך, שבר את השיא האגדי של קרסטן וורהולם מטוקיו והפך לאדם הראשון שיורד מ-45.90 שניות. הנורבגי עצמו סיים שני. שיא עולם גם לראסל ב-100 משוכות נשים",
-        "url": "https://www.ynet.co.il/sport/article/syf02b0pgx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/rJWDGkMRvMl/rJWDGkMRvMl_0_108_3000_1689_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 414,
-    "topic": "בעלות קהילתית של קבוצות כדורגל",
-    "category": "sports",
-    "story_summary": "אוהדי הפועל ירושלים והפועל פ\"ת לקחו על עצמם בעלות ישירה בקבוצותיהם, במקום להישאר תלויים בגודלי כסף. הם מעדיפים להמשיך עם הקבוצה בעלות קהילתית אפילו בלי תקוות לאליפות, כי אהבת הקבוצה חזקה מכל דבר אחר.",
-    "good_news_score": 7,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "\"נשגיח ששום דבר לא יקרה לקבוצה. אליפות? לא נראה לי שזה יקרה\"",
-        "published": "Fri, 28 Aug 2026 01:30:00 +0300",
-        "summary": "תעזבו אותם מתארים, עצם הקיום הוא ההישג הגדול ביותר שלהם. אוהדי הפועל ירושלים והפועל פ\"ת מאסו במרדף אחרי בעלי הון והפכו לבעלים של הקבוצות שלהם. לקראת המשחק ראש בראש בשבת, הפגשנו ארבעה מהם לשיחה על הדילמות הניהוליות והאמונה שהאהבה לקבוצה חזקה מכל כסף בעולם",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/b1rx3z0pfl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/BkMMgF11RDzg/BkMMgF11RDzg_0_114_3000_1689_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 413,
-    "topic": "נבחרת ישראל נפסלה מהאליפות",
-    "category": "sports",
-    "story_summary": "נבחרת ישראל ספגה הפסד של 106:86 לפולין, מה שסיים את סיכוייה להשתתף באליפות העולם בכדורסל. הנבחרת יודעת שיש לה שתי אופציות: להתבאס או ללמוד ולהשתפר.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "חלום המונדובאסקט של נבחרת ישראל נגוז: \"יש לנו שתי אופציות: להתבאס או ללמוד\"",
-        "published": "Fri, 28 Aug 2026 06:30:00 +0300",
-        "summary": "אחרי עוד הפסד, הפעם 106:86 לפולין, הכחולים-לבנים יודעים שהם יראו את אליפות העולם מהבית. סורקין: \"נעשה את המיטב שאנחנו יכולים עם מה שנשאר\". בית הלחמי: \"אנחנו צריכים להיראות אחרת\"",
-        "url": "https://www.ynet.co.il/sport/israelibasketball/article/skenzdcwzl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/HyGc7dCDfx/HyGc7dCDfx_678_192_1762_992_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 412,
-    "topic": "מכבי תל אביב - משבר והעסקות תקועות",
-    "category": "sports",
-    "story_summary": "מכבי תל אביב מעכלת הדחה כואבת מול לוגאנו (1:1 בבאטומי) תוך ביקורת על ביצוע ההגנה, ומנסה להאיץ העסקות בתחזוקה הקדמית, אך משא ומתן עם קניקובסקי עומד בעינו.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "\"שילמנו ביוקר על טעויות\": האכזבה - ותוכנית הרכש החדשה במכבי ת\"א",
-        "published": "Fri, 28 Aug 2026 06:30:00 +0300",
-        "summary": "הצהובים מעכלים את ההדחה הכואבת מול לוגאנו אחרי ה-1:1 בבאטומי. ביקורת חריפה על חוליית ההגנה. בקבוצה ינסו להאיץ את הרכש בחלק הקדמי ובקישור, המו\"מ מול קניקובסקי תקוע",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/hkx2kxcdml",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/HyHhedAPGg/HyHhedAPGg_0_220_3000_1689_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 411,
-    "topic": "בכורה מוצלחת של רודרי בברצלונה",
-    "category": "sports",
-    "story_summary": "ברצלונה ניצחה את אתלטיק בילבאו 0:2 בהופעה מרשימה, כשרודרי אלוף העולם הטרי נכנס כמחליף והצטיין במשחקו הראשון בקבוצה. ראפיניה ופרמין הכפילו את התוכן לברצלונה בתחילת עונה חזקה.",
-    "good_news_score": 7,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "הבכורה החלומית של רודרי: \"השחקן המושלם לברצלונה\"",
-        "published": "Fri, 28 Aug 2026 06:30:00 +0300",
-        "summary": "אחרי שלא נכלל בסגל למשחק מול אלצ'ה, אלוף העולם הטרי נכנס כמחליף והצטיין ב-0:2 על בילבאו: \"הרגשתי טוב\". פליק: \"כולם שמחים שהוא משחק עבורנו\" מחמאות גם לצ'אבי אספארט בן ה-19: \"מופתעים מקור הרוח שלו\" | צפו בתקציר",
-        "url": "https://www.ynet.co.il/sport/worldsoccer/article/hynqd00cwmg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/HJkrs000Dzx/HJkrs000Dzx_0_62_1693_954_0_medium.jpg"
-      },
-      {
-        "source": "ynet_sport",
-        "title": "המשיכה מאותו המקום: ברצלונה גברה 0:2 על בילבאו",
-        "published": "Thu, 27 Aug 2026 22:13:12 +0300",
-        "summary": "הקטלונים סיפקו הופעה מרשימה, שמרו על מאזן מושלם והשיגו ניצחון בית ראשון לעונה. ראפיניה כבש ראשון (37'), פרמין הכפיל (82'). בכורה לרודרי. צפו",
-        "url": "https://livegame.ynet.co.il/games/531751",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/one1884679/one1884679_0_0_800_444_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 410,
-    "topic": "מאמן חדש באינטר מיאמי",
-    "category": "sports",
-    "story_summary": "קבוצת אינטר מיאמי החליפה מאמן לאחר חמשה משחקים ללא ניצחון, כשקילי גונסאלס, שחקן לשעבר בנבחרת ארגנטינה, ממלא את המקום.",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "המאמן החדש של מסי באינטר מיאמי: חברו לשעבר בנבחרת ארגנטינה",
-        "published": "Fri, 28 Aug 2026 06:33:35 +0300",
-        "summary": "אחרי חמשה משחקים ללא ניצחון, שינוי על הקווים של הקבוצה: הויוס עוזב, שחקן העבר קילי גונסאלס - שאימן רק בארגנטינה - מצטרף",
-        "url": "https://www.ynet.co.il/sport/worldsoccer/article/bjyjxy0wgl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/S1vLbtRwfe/S1vLbtRwfe_0_118_2249_1266_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 409,
-    "topic": "הפועל ת\"א מחזקת את הרכב לאחר הדחה מאירופה",
-    "category": "sports",
-    "story_summary": "הפועל ת\"א הודחקה מהתחרויות האירופיות לאחר הפסד 1:0 לאטאלנטה בניקו, אך הקבוצה ממשיכה להתחזק בחתימת יאניק ללינדל לעונת הליגה המקומית.",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "אחרי ההדחה מאירופה: יאניק ללינדל יחתום בהפועל ת\"א",
-        "published": "Fri, 28 Aug 2026 08:47:45 +0300",
-        "summary": "הקבוצה של אליניב ברדה (\"אכזבה גדולה\") נוצחה 1:0 ע\"י אטאלנטה במישקולץ וסיימה את הקמפיין האירופי, אך תתחזק להמשך. אלטמן: \"הרגשנו שאנחנו יכולים לעשות את זה, מהדקה הראשונה\". באיטליה החמיאו לאדומים: \"משוכה קשה\"",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/bknwro0vmx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/SknyPOCPzl/SknyPOCPzl_0_136_2328_1311_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 408,
-    "topic": "שינוי מבנה בעלות בהפועל ת\"א",
-    "category": "sports",
-    "story_summary": "עופר ינאי מוסיך את זקופו בהפועל ת\"א, בעוד גילי רענן, מיקי מלכה ואלן הווארד נכנסים כשותפים שווים עם 20% כל אחד, במטרה ליצור מבנה בעלות רחב יותר והחזרת אוהדים למגרש.",
-    "good_news_score": 6,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "הירידה של עופר ינאי: שינוי משמעותי במבנה הבעלות בהפועל ת\"א",
-        "published": "Fri, 28 Aug 2026 11:29:46 +0300",
-        "summary": "ינאי יישאר עם 40% מהמניות, בעוד גילי רענן, מיקי מלכה ואלן הווארד יחזיקו ב-20% כל אחד המהלך נועד לייצר מבנה בעלות רחב יותר ולהחזיר את האוהדים ליציעים. הניהול השוטף יעבור לידי היו\"ר סתיו שחם. ההנהלה החדשה גם שוקלת להיפרד משמעון אמסלם, נציג בעלי המועדון - ולמנות במקומו שחקן עבר אחר לתפקיד",
-        "url": "https://www.ynet.co.il/sport/israelibasketball/article/s1omi6rpgl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/03/25/Syiax30C6/Syiax30C6_0_128_3000_1689_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 407,
-    "topic": "כישרון קפיצה צעיר בחזרה לתבור",
-    "category": "sports",
-    "story_summary": "ג'יי. ג'יי הראל, אתלט קפיצה בן 17 שנולד בחו\"ל וגדל בארה\"ב, בחר לעלות ולהשתלב בנבחרת ישראל. כוכב מבטיח שכבר קפץ 1.96 מטרים בגיל 13, הוא מתאמן אצל אגדה בתחום ומכוונת למטרה אמביציוזית של 2.40 מטרים.",
-    "good_news_score": 8,
-    "sources": [
-      {
-        "source": "ynet_sport",
-        "title": "קופץ לארץ: היהלום החדש של האתלטיקה הישראלית",
-        "published": "Fri, 28 Aug 2026 11:34:02 +0300",
-        "summary": "נולד באוסטרליה, גדל בארה\"ב, והחליט לעלות על המסלול בכחול-לבן. הכישרון הנדיר בקפיצה לגובה (17), ג'יי. ג'יי הראל, קפץ 1.96 מ' כבר בגיל 13, מתאמן אצל אגדת האתלטיקה דווייט סטונס בעזרת חזן מלוס אנג'לס, וחולם לעבור 2.40 מטרים. המעבר מארה\"ב, הקשר לסבא וסבתא והרצון להשמיע את \"התקווה\"",
-        "url": "https://www.ynet.co.il/sport/article/sypibzrvgl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/B1QFfVzAPzx/B1QFfVzAPzx_221_0_1253_706_0_medium.jpg"
-      }
-    ]
-  },
-  {
     "story_id": 405,
     "topic": "סרטון צה״ל למעקפת גיוס נמחק",
     "category": "news",
@@ -1530,23 +2070,6 @@
     ]
   },
   {
-    "story_id": 381,
-    "topic": "מקרה גירושים בנוגע לחלוקת דירה",
-    "category": "news",
-    "story_summary": "בעל שבגד באשתו העביר לה את חלקו בדירה כדי לפייסה, אך לאחר שנחשפה בגידתו השנייה וביצוע הליך גירושין, דרש להחזיר את החלק שלו. בית הדין הרבני הגדול דחה את הערעור והאישה שמרה על זכותה לנכס.",
-    "good_news_score": 4,
-    "sources": [
-      {
-        "source": "ynet_economy",
-        "title": "בגד באשתו, נתן לה מחצית מהדירה כמתנת פיוס ודרש להחזירה בגירושים. מה נפסק?",
-        "published": "Thu, 27 Aug 2026 15:48:40 +0300",
-        "summary": "פרסום ראשון: גבר שבגד באשתו העביר לה את חלקו בדירתם כדי לפייסה. שנים לאחר מכן נמסר לאישה כי בעלה בוגד בה עם אישה נוספת והם נכנסו להליך גירושין. אז, הבעל דרש לקבל בחזרה את חלקו בדירה, אולם ביה\"ד הרבני הגדול דחה את ערעורו. האישה טענה בהליך המשפטי כי הבעל לקח אותה לייעוץ נישואים אצל המאהבת שלו",
-        "url": "https://www.ynet.co.il/economy/article/rjk311cpvgg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/03/08/6865119/6865119_0_0_5120_2880_0_medium.jpg"
-      }
-    ]
-  },
-  {
     "story_id": 380,
     "topic": "אקזיט ענק של חברת סייבר ישראלית",
     "category": "business",
@@ -1649,23 +2172,6 @@
     ]
   },
   {
-    "story_id": 373,
-    "topic": "מרדף וההעצרת רוכב אופנוע",
-    "category": "news",
-    "story_summary": "תושב טובא זנגריה בן 18 נעצר לאחר שנהג בפראות על אופנוע שטח בגליל העליון וניסה להימלט מהשוטרים. החשוד הועמד לדין בגין נהיגה ללא רשיון וביטוח, עם עבירות תעבורה חמורות נוספות.",
-    "good_news_score": 3,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "צפו בתיעוד המרדף: רוכב אופנוע בן 18 ניסה להימלט מהשוטרים, ונתפס",
-        "published": "Thu, 27 Aug 2026 23:06:00 GMT",
-        "summary": "תושב טובא זנגריה נהג בפראות באופנוע שטח בקיבוץ בגליל העליון, ניסה להימלט מהשוטרים ונעצר בתום מרדף רגלי. החשוד, שנהג ללא רשיון וללא ביטוח הוזמן לדין בהליך שיפוטי מהיר בגין אי-ציות להוראת שוטר ועבירות תעבורה חמורות",
-        "url": "https://news.walla.co.il/item/3863784",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/3/9/7/3397827-46.jpeg"
-      }
-    ]
-  },
-  {
     "story_id": 372,
     "topic": "גילוי שרידי קרום יבשתי עתיק בתחת האוקיינוס",
     "category": "tech",
@@ -1713,23 +2219,6 @@
         "summary": "עונת מזל בתולה החלה ב-22 באוגוסט ואמורה להביא איתה סדר, התכנסות ורצון לעשות קצת סדר בחיים. אלא שלפי אסטרולוגית, ליקוי הירח של היום משנה את התמונה - וארבעה מזלות צפויים להרגיש את הטלטלה יותר מכולם",
         "url": "https://news.walla.co.il/item/3863375",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/5/8/3758561-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 369,
-    "topic": "אירוע אלים ביפו",
-    "category": "news",
-    "story_summary": "גבר בן 29 נורה למוות ביפו בשעות הלילה, וגם הושלך רימון רסס אל רכב בעיר שעלה באש.",
-    "good_news_score": 0,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "שוב לילה מדמם ביפו: גבר בן 29 נורה למוות",
-        "published": "Fri, 28 Aug 2026 04:06:00 GMT",
-        "summary": "אחמד עבד שוקרא, בן 29 ותושב העיר, נורה סמוך לשעה 03:20 ופונה תוך פעולות החייאה, אך מותו נקבע בדרך לבית החולים. במשטרה מחפשים אחר היורים ובודקים מה עמד מאחורי הרצח. במקביל, רימון רסס הושלך לעבר רכב בעיר, שעלה באש",
-        "url": "https://news.walla.co.il/item/3863798",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093558-46.jpeg"
       }
     ]
   },
@@ -1810,123 +2299,6 @@
     ]
   },
   {
-    "story_id": 348,
-    "topic": "מוות המלך הרלד החמישי מנורווגיה",
-    "category": "news",
-    "story_summary": "המלך הרלד החמישי נפטר בגיל 89 לאחר 35 שנות שלטון, בעקבות בעיות בריאותיות ממושכות כולל אנמיה וסרטן וקשיי לב; בצעירותו היה אתלט מוכשר בשייט. בנו הוקון השמיני ירש את הכתר ומשיך בעבודה דיפלומטית, אף שמשפחת המלוכה התקשרה לאחרונה למספר פרשיות.",
-    "good_news_score": 4,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "מלך נורבגיה האראלד החמישי הלך לעולמו בגיל 89",
-        "published": "Fri, 28 Aug 2026 09:38:28 +0300",
-        "summary": "האראלד, שמלך על נורבגיה 35 שנה והיה המונרך המבוגר ביותר באירופה, מת אחרי שאושפז בגלל מחלת דם. בנו, יורש העצר הוקון, הפך למלך החדש - בצל שערוריית אפשטיין שבה הסתבכה אשתו, שבנה מנישואים קודמים גם נשלח לכלא בגין אונס - פרשיות שפגעו בפופולריות של משפחת המלוכה במדינה הסקנדינבית. זהו סיפור חייו של האיש שברח מארצו מהכיבוש הנאצי בגיל 3, כצעיר התחרה 3 פעמים באולימפיאדה - וכשביקש להביע תנחומים על 7/10, הממשלה באוסלו אסרה עליו",
-        "url": "https://www.ynet.co.il/news/article/r1brw3tdfg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/SyoZAhFwGg/SyoZAhFwGg_0_93_2000_1126_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "המלך שלא רצה להיות מלך: הוקון השמיני עולה לכס בנורבגיה",
-        "published": "Fri, 28 Aug 2026 16:01:00 GMT",
-        "summary": "במשך שנים התקשה להשלים עם גורלו, התרחק עד קליפורניה ומצא מפלט בגלישה - אך כעת הפך הוקון השמיני למלך החדש של נורבגיה. בעבר ביקר בישראל, הניח זר ביד ושם והתייצב לצד הקהילה היהודית - אך נמנע מהתבטאויות מדיניות",
-        "url": "https://news.walla.co.il/item/3863881",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093634-46.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "לאחר 35 שנות מלוכה: מלך נורבגיה האראלד החמישי הלך לעולמו בגיל 89",
-        "published": "Fri, 28 Aug 2026 10:11:00 GMT",
-        "summary": "המלך, לו היסטוריה בריאותית ענפה, מת לאחר שחלה באנמיה. בעברו התגבר על סרטן שלפוחית השתן ובעיות בלב. בצעירותו ייצג את המדינה בתחום השייט כשהתחרה באולימפיאדות וזכה בשלוש מדליות באליפויות עולם. משפחת המלוכה נקשרה לאחרונה למספר פרשיות, בין היתר לפרשת אפשטיין",
-        "url": "https://news.walla.co.il/item/3863839",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093570-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 365,
-    "topic": "הרשעת ישראלית בעבירה אלימה בארצות הברית",
-    "category": "news",
-    "story_summary": "קצינת יחידת אמ״ן לשעבר מישראל הורשעה בבית משפט אמריקני לאחר שהחזיקה אדם באיומי אקדח. היא כיום מעומדת לגירוש לישראל.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "מיחידת עילית באמ\"ן לכלא האמריקני: טרנסג'נדרית ישראלית נעצרה",
-        "published": "Fri, 28 Aug 2026 10:41:00 GMT",
-        "summary": "אבישי \"אליסון\" אלון, שנולדה כגבר ושירתה בעברה ביחידה 81 של אמ\"ן, נחשבה לגאון מחשבים. אלון, שכיום מגדירה את עצמה כאישה, הורשעה כגבר בבית המשפט בארצות הברית לאחר שהחזיקה אדם במשך שעות באיומי אקדח. כרגע היא הועברה למתקן הגירה של ICE ובהמשך תגורש לישראל",
-        "url": "https://news.walla.co.il/item/3863842",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093581-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 364,
-    "topic": "סיכול הברחת סמים בגבול",
-    "category": "news",
-    "story_summary": "לוחמי יחידת מג\"ן בגבול המערבי סיכלו פעילות הברחת סמים, עצרו שני חשודים וגזרו מידיהם 21 קילוגרמים של סם קריסטל בשווי מיליונים.",
-    "good_news_score": 6,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "הברחה בשווי מיליונים: 21 קילו קריסטל נתפסו בגבול עם מצרים",
-        "published": "Fri, 28 Aug 2026 11:00:00 GMT",
-        "summary": "לוחמי יחידת מג\"ן בימ\"ר דרום סיכלו פעילות של חוליית מבריחים בגבול המערבי. במהלך הפעילות נעצרו שני חשודים וברשותם נתפסו 21 קילוגרמים של סם מסוג קריסטל. על פי החשד, השניים היו מעורבים בהברחת סמים דרך הגבול",
-        "url": "https://news.walla.co.il/item/3863832",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093567-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 346,
-    "topic": "אלקנה בוחבוט: לידת בתם השנייה",
-    "category": "news",
-    "story_summary": "אלקנה בוחבוט ואשתו רבקה הודיעו על הולדת בתם השנייה, כשנה לאחר שחזר מ-738 ימים בשבי חמאס. התקומה של המשפחה מתבטאת בחיים חדשים: בנם הבכור ראם קיבל את האחות שתמיד רצה.",
-    "good_news_score": 8,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "פחות משנה אחרי שחזר מהשבי: בת נולדה לאלקנה בוחבוט",
-        "published": "Fri, 28 Aug 2026 10:19:16 +0300",
-        "summary": "הניצחון של רבקה ואלקנה: 10 חודשים וחצי אחר ששב הביתה, בת נולדה לשורד השבי. בעבר סיפרו על הרצון של בנם הבכור, ראם, לאחות קטנה: \"תמיד אמרתי שהתקומה שלנו זה להביא חיים\"",
-        "url": "https://www.ynet.co.il/news/article/ryryf30dze",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/BJIgX3Awfx/BJIgX3Awfx_0_319_1206_679_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "החיים חזקים מהכל: אלקנה בוחבוט ואשתו הודיעו על לידת בתם",
-        "published": "Fri, 28 Aug 2026 11:51:00 GMT",
-        "summary": "שורד השבי, ששוחרר לאחר 738 ימים ממושכים בשבי חמאס, הודיע באמצעות פוסט משותף באינסטגרם עם אשתו רבקה, על הולדת ילדתם השנייה. כזכור, אלקנה שוחרר באוקטובר האחרון יחד עם 19 חטופים חיים נוספים, במסגרת עסקת החטופים השלישית והאחרונה",
-        "url": "https://news.walla.co.il/item/3863849",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093592-46.png"
-      }
-    ]
-  },
-  {
-    "story_id": 342,
-    "topic": "מעצר נהג גנוב: התפרעויות בחסום עופר",
-    "category": "news",
-    "story_summary": "צעיר מאשדוד נעצר בנהיגה ברכב גנוב בחסום עופר, וגילוי בחקירה כי הוא גם עריק מגיוס. המעצר הביא להתגבשות חרדים שחסמו את הכביש לירושלים והתפרעו, כשכוחות המשטרה פועלים לפנות את המפגינים ולהחזיר את התנועה לסדרה.",
-    "good_news_score": 1,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "צעיר נהג ברכב החשוד כגנוב ונעצר במעבר, השוטרים גילו: הוא גם עריק; המונים התפרעו",
-        "published": "Fri, 28 Aug 2026 12:45:53 +0300",
-        "summary": "מהמשטרה נמסר כי האירוע החל לאחר שלוחמי מג\"ב עצרו חשוד, תושב אשדוד בשנות ה-20 לחייו, שנהג ברכב גנוב. לאחר בדיקה, עלה כי הוא נפקד גיוס. המשטרה השתמשה ברימוני הלם והמפגינים התפזרו",
-        "url": "https://www.ynet.co.il/news/article/rynlpr0wgx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/H1iVw00vfe/H1iVw00vfe_210_56_639_360_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "עריק נהג ברכב גנוב - ונעצר: עימותים וחסימות בכביש לירושלים",
-        "published": "Fri, 28 Aug 2026 12:07:00 GMT",
-        "summary": "העריק, תושב אשדוד בשנות ה-20 לחייו, נתפס במחסום עופר כשהוא נוהג ברכב גנוב. לאחר מעצרו, התברר כי הוא נפקד גיוס. בעקבות המעצר עשרות חרדים נהרו למחסום, חסמו את הכביש והתפרעו במקום. כוחות המשטרה פועלים לפנות את המתפרעים ולהחזיר את התנועה לסדרה",
-        "url": "https://news.walla.co.il/item/3863852",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093596-46.jpeg"
-      }
-    ]
-  },
-  {
     "story_id": 363,
     "topic": "הצלחת שירה זלוף",
     "category": "culture",
@@ -1940,82 +2312,6 @@
         "summary": "משירים ויראליים בטיקטוק לבמה הכי גדולה בארץ: הזמרת והיוצרת שירה זלוף צמחה דרך שירים אישיים ואותנטיים שהפכו ויראליים ברשתות החברתיות, ופרצה לתודעה כשהתחרתה בעונה ה-12 של \"הכוכב הבא\" והגיעה ממש עד הגמר. מי שעקב אחר הקריירה שלה עוד לפני שהגיעה לתחרות, יידע ששירה הייתה ונשארה זמרת מרגשת ואנושית שמחזירה דנ\"א מוזיקלי שהיה חסר בקדמת הבמה המון שנים, בדרך הייחודית שלה. בשנה שעברה הגלגלים כבר התחילו לעבוד מהר יותר בקריירה שלה, כשהשיא היה בסוף 2025 בעונה של \"הכוכב הבא\". כבר מהאודישן הראשון שלה, היא הפכה לשיחת היום ולאחד האודישנים המדוברים של העונה כשהופיעה עם שיר מקורי, \"אביר על סוס לבן באמצע פלורנטין\". שיר שהיה חלק מהאלבום \"אף פעם לא הייתי ברבי\" שהוציאה ב-2024. בהמשך התוכנית היא הופיעה עם שיר מקורי נוסף, \"מעריב לנוער\", והיה ברור ששירה מכוונת ל\"לונג ראן\" - התחרות אולי תיגמר, אבל השירים שלה יישארו. בגמר התוכנית, שירה עלתה לבמה צרודה וריגשה את הקהל למרות שלא קטפה את המקום הראשון. אבל זה כבר לא היה משנה. עוד בעודה בתחרות ההופעה הראשונה שלה בבארבי הייתה סולד אאוט, ועוד שתיים שנפתחו לאחריה נמכרו לחלוטין גם הן.",
         "url": "https://e.walla.co.il/item/3863861",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093605-46.png"
-      }
-    ]
-  },
-  {
-    "story_id": 362,
-    "topic": "מחקר על פינוי קהילות גבול",
-    "category": "news",
-    "story_summary": "מחקר אקדמי בוחן את ההשפעה של פינוי יישובי גבול בזמן מלחמה על תושביהם, במיוחד קשישים מהכפר ערב אל-עראמשה, וממצאיו מעלים שאלות על נכונות הפינוי.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "\"אם למות - אז בבית\": המחקר שמעלה שאלות על פינוי יישובי הגבול",
-        "published": "Fri, 28 Aug 2026 13:25:00 GMT",
-        "summary": "מחקר שנערך ע\"י ד\"ר ניווין עלי-סאלח דראושה וד\"ר שגית לב עסק במחיר הכבד של פינוי יישובי קו העימות בזמן המלחמה, כשהוא בוחן 14 מזקני הכפר ערב אל-עראמשה. המחקר יוצג בשבוע הבא בבנייני האומה בירושלים, תחת הכותרת \"בין שגרה לחירום - אתגרים, הזדמנויות ומרחבי צמיחה\"",
-        "url": "https://news.walla.co.il/item/3863863",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093607-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 335,
-    "topic": "טביעת ילד בתל אביב",
-    "category": "news",
-    "story_summary": "בן שבע טבע באגם בפארק בתל אביב לאחר שנעדר במהלך ביום משחק עם ילדים נוספים. האזרח שהיה בפארק איתר אותו והוציא אותו מהמים, וצוותי ההצלה ביצעו בו פעולות החייאה, אך רופאים בבית חולים איכילוב נאלצו לקבוע את מותו.",
-    "good_news_score": 0,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "נקבע מותו של בן 7 שטבע באגם בפארק בתל אביב",
-        "published": "Fri, 28 Aug 2026 16:38:25 +0300",
-        "summary": "החיפושים אחר הילד החלו לאחר שחברו יצא מהאגם בפארק מנחם בגין שבדרום העיר - והוא לא. הוא חולץ מהמים, והועבר תוך ביצוע החייאה לבית חולים שם נקבע מותו",
-        "url": "https://www.ynet.co.il/news/article/ryixijjdfx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/rJVRjyy00Gg/rJVRjyy00Gg_0_0_1280_721_0_medium.jpg"
-      },
-      {
-        "source": "walla",
-        "title": "למרות מאמצי החייאה: נקבע מותו של הילד בן ה-7 שטבע באגם בתל אביב",
-        "published": "Fri, 28 Aug 2026 13:44:00 GMT",
-        "summary": "הילד נכנס לאגם שבפארק דרום בתל אביב יחד עם ילדים נוספים, ובשלב מסוים התברר כי הוא נעדר. לאחר חיפושים שנערכו במקום, אזרח שהיה בפארק איתר אותו מחוסר הכרה ומשה אותו מהמים. צוותי ההצלה ביצעו בו פעולות החייאה והוא פונה לאיכילוב, שם נאלצו הרופאים לקבוע את מותו",
-        "url": "https://news.walla.co.il/item/3863862",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093611-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 361,
-    "topic": "משא ומתן על בלוק טכני בין סמוטריץ' ופייגלין",
-    "category": "news",
-    "story_summary": "נציגי מפלגות \"הציונות הדתית\" ו\"זהות\" מנהלים משא ומתן לריצה משותפת בבחירות, כאשר פייגלין צפוי לקבל מקום גבוה ברשימה המשותפת.",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "האצה במגעים בין סמוטריץ' ופייגלין: דיברו על ריצה משותפת בבלוק טכני בין המפלגות",
-        "published": "Fri, 28 Aug 2026 14:32:00 GMT",
-        "summary": "נציגי \"הציונות הדתית\" ו-\"זהות\", שוחחו ביניהם במהלך השבוע האחרון, בניסיון להגיע לסיכום על ריצה משותפת של שתי המפלגות. במסגרת ההסכם המתגבש, פייגלין יקבל מקום גבוה ברשימה, וכן מקומות נוספים בהמשך הרשימה. המהלך החל להתגבש עוד לפני הלחץ של נתניהו על סמוטריץ'",
-        "url": "https://news.walla.co.il/item/3863867",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/7/4077865-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 360,
-    "topic": "תופעת אלימות בבתי ספר",
-    "category": "news",
-    "story_summary": "מערכת החינוך מתמודדת עם תופעה מתפשטת בשם \"הזובור\" בה תלמידים בוגרים מתנהגים בצורה אלימה כלפי צעירים מהם, ומנסה למגר את התופעה כדי להבטיח שום ילד לא יפחד להגיע לבית הספר.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "\"אף ילד לא צריך לפחד להגיע לבית הספר\": במערכת החינוך מודאגים מתופעת \"הזובור\"",
-        "published": "Fri, 28 Aug 2026 14:55:00 GMT",
-        "summary": "בעקבות פניות רבות, ולאור תופעת הרשת המתפשטת, בה תלמידים מכים ונוהגים באלימות כלפי צעירים מהם, מנסים במערכת החינוך למגר את התופעה. \"מהמקום של הורה, אני יודעת שאין דבר כזה 'רק צחוק'\", קראה יו\"ר הנהגת ההורים בכפר הנוער מוסינזון",
-        "url": "https://news.walla.co.il/item/3863871",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/9/2/3892560-46.jpg"
       }
     ]
   },
@@ -3000,40 +3296,6 @@
     ]
   },
   {
-    "story_id": 225,
-    "topic": "עולים בכישרון בהנהלת תאגידים",
-    "category": "business",
-    "story_summary": "בעוד השוק הישראלי מאבד טלנטים מבין העולים החדשים בגלל עדיפויות מוטעות בבחירת צוות, אולגה רובנובסקיה, מנכ״לית חברת רקיט, מהווה דוגמה להצלחה של מהגר שהגיע למעמד הנהלתי ובחנה את האתגרים והפוטנציאל הנסתר בהון האנושי של עולים חדשים.",
-    "good_news_score": 7,
-    "sources": [
-      {
-        "source": "ynet_economy",
-        "title": "השוק הישראלי מאבד טופ טאלנטים מקרב העולים החדשים: \"שמים פה דגש מוטעה על שליטה בשפה ולא על היכולות הבינלאומיות של המועמד\"",
-        "published": "Wed, 26 Aug 2026 11:40:41 +0300",
-        "summary": "כך מצהירה אולגה רובנובסקיה, מהמנהיגות הצעירות המבטיחות של העולם העסקי, מנכ\"לית חברת רקיט (Reckitt) ישראל, ענקית הצריכה שמוצרי הפארמה והניקיון שלה מוכרים לכל בית בישראל. בראיון עימה מספרת אולגה, בוגרת אוניברסיטת קיימברידג’ היוקרתית, על איחוד החטיבות בחברה שהוביל אותה לכס המנכ\"לות, על הקשיים שחוותה כעולה חדשה, על ניהול חברת ענק לצד אימהות לשלושה ילדים, ועל ההון האנושי הנסתר – העולים החדשים. מאת: ליאל יובל",
-        "url": "https://www.ynet.co.il/economy/article/h1mbix3wzl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/HJVarmhPMx/HJVarmhPMx_0_3_691_390_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 224,
-    "topic": "אתגר השמנת הילדים בישראל",
-    "category": "business",
-    "story_summary": "ישראל מדורגת במקום החמישי בעולם בשכיחות עודף משקל בקרב ילדים וצעירים, כאשר כמעט כל ילד שלישי סובל מהתופעה. מנהלת תעשיית התרופות מדגישה סימני אופטימיות לשינוי דרך גישה המוצבת את המטופל במרכז, וטוענת כי הטיפולים המוקדמים יכולים לשנות במהותם את מסלול חייהם.",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "ynet_economy",
-        "title": "האתגר הלאומי למניעת השמנה: \"כמעט כל ילד שלישי עם עודף משקל נמצא בסכנה\"",
-        "published": "Wed, 26 Aug 2026 11:45:27 +0300",
-        "summary": "כך חושפת מנכ\"לית נובו נורדיסק ישראל, גלית קופטש, ומגלה שישראל מדורגת במקום החמישי בעולם בשכיחות עודף משקל בקרב ילדים ובני נוער. כעת היא חושפת את המלחמה הנרחבת בתופעה, מגלה סימני אופטימיות לשינוי ובטוחה שהכל מתחיל בצורך להציב את האדם במרכז: \"ההחלטות והטיפולים שאנחנו מאפשרים עכשיו לילדים יכולים לשנות את מסלול חייהם לשנים קדימה\". מאת: ליאל יובל",
-        "url": "https://www.ynet.co.il/economy/article/b1lzpxnvgg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/ryGyv7nPfx/ryGyv7nPfx_0_0_2953_1969_0_medium.jpg"
-      }
-    ]
-  },
-  {
     "story_id": 210,
     "topic": "חידוש סרט 'איך להיפטר מבחור ב-10 ימים'",
     "category": "culture",
@@ -3118,73 +3380,6 @@
     ]
   },
   {
-    "story_id": 201,
-    "topic": "הסכם איראן-עומאן על מיצר הורמוז",
-    "category": "world",
-    "story_summary": "איראן הודיעה על הסכם עם עומאן לחלוקת הכנסות משיט במצר הורמוז, כאשר דובר משמרות המהפכה טען כי המצר יישאר סגור עד לקבלת תנאיה מארה\"ב, בעוד טראמפ טוען שהמצר פתוח וחלפו דרכו מיליוני חביות נפט.",
-    "good_news_score": 3,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "איראן: \"סיכמנו עם עומאן על חלוקת הרווחים במיצר הורמוז\"",
-        "published": "Wed, 26 Aug 2026 14:57:00 GMT",
-        "summary": "",
-        "url": "https://news.walla.co.il/item/3863391",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/6/4086408-46.jpg"
-      },
-      {
-        "source": "ynet",
-        "title": "איראן הכריזה על \"הסכמות עם עומאן\", טראמפ: \"לא ממהר למו\"מ, הניצחון קרוב\"",
-        "published": "Wed, 26 Aug 2026 15:01:10 +0300",
-        "summary": "דובר משמרות המהפכה הודיע כי הגיעו להסכמות עם עומאן על חלוקת ההכנסות מהשיט במצר, אך הדגיש כי \"עד שארה\"ב תקבל את תנאינו - המצר יישאר סגור\". הוא טען כי \"הורמוז נמצא בשליטתנו - ואין ספינות אויב במפרץ\", אלא שנשיא ארה\"ב אומר שהמצר פתוח ומיליוני חביות נפט עוברות דרכו",
-        "url": "https://www.ynet.co.il/news/article/s1ibe8hpmx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/28/H1nXMXLeGg/H1nXMXLeGg_45_0_2956_1664_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 200,
-    "topic": "נושאת מטוסים אמריקנית חוזרת לנמל",
-    "category": "world",
-    "story_summary": "נושאת המטוסים האמריקנית, שהייתה בפריסה לאורך יותר מ-250 ימים בים, חוזרת לנמל בתאילנד לאחר השתתפותה במלחמה נגד איראן; צוות הספינה סובל מהידרדרות במצבו הנפשי ומחסור בחומרי אספקה בסיסיים כגון מזון ומוצרי היגיינה.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "אחרי יותר מ־250 ימים בלב ים: נושאת המטוסים האמריקנית תעגון בתאילנד",
-        "published": "Wed, 26 Aug 2026 14:49:00 GMT",
-        "summary": "נושאת המטוסים השתתפה במלחמה האמריקנית נגד איראן. לאחרונה דווח על הידרדרות במצבם הנפשי של אנשי הצוות ועל מחסור באספקה בסיסית, לרבות מזון ומוצרי היגיינה",
-        "url": "https://news.walla.co.il/item/3863389",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/4/6/3646221-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 199,
-    "topic": "מתחים בבאזל",
-    "category": "world",
-    "story_summary": "בעיר באזל בשווייץ מתפתחים מתחים פוליטיים כאשר הרשויות דוחות הפגנה תכננה נגד ציוניות, בעוד תושבים מתמודדים עם תנאי קיץ קשים וקשורים מקרוב לעימות בעזה.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "A Hot Mess: I spent the summer in Switzerland. Who would have thought it could become a living hell",
-        "published": "Wed, 26 Aug 2026 12:47:08 +0300",
-        "summary": "I can't sleep, I can't work. Basel has no air conditioning, and this summer felt unbearable. Then messages kept arriving from my friend, sweltering in a tent in Gaza",
-        "url": "https://www.haaretz.com/life/2026-08-26/ty-article-magazine/.premium/a-hot-mess-i-spent-the-summer-in-switzerland-who-would-have-thought-it-could-become-a-living-hell/000001a0-38c8-d686-afe7-f9e9d5ff0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-38cd-d02f-a9ed-7cefeb820000/33/92/24f9ea2b41458086757f10424712/66544677.JPG?width=1200"
-      },
-      {
-        "source": "walla",
-        "title": "\"בבאזל ייסדתי את מדינת היהודים\": 129 שנה אחרי, הפגנת \"מוות לציונות\" תוכננה בעיר",
-        "published": "Wed, 26 Aug 2026 14:42:00 GMT",
-        "summary": "משטרת קנטון באזל־שטאדט הודיעה כי הפגנה המתוכננת לשבת תחת הכותרת \"Death to Zionism\" - \"מוות לציונות\" - אינה יכולה לקבל אישור, וכי כוחות הביטחון נערכים לנקוט את האמצעים הדרושים כדי להתמודד עמה.",
-        "url": "https://news.walla.co.il/item/3863392",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092911-46.jpeg"
-      }
-    ]
-  },
-  {
     "story_id": 196,
     "topic": "מיליציות חמושות בעזה",
     "category": "security",
@@ -3226,23 +3421,6 @@
     ]
   },
   {
-    "story_id": 195,
-    "topic": "שריפה קטלנית בבית חולים בפקיסטן",
-    "category": "world",
-    "story_summary": "שריפה פרצה במחלקת תינוקות בבית חולים בפקיסטן, וגבעה חיי 14 תינוקות מתוך 15 שהיו בחדר. ממשלת פקיסטן הורתה על חקירה מיידית לאחר התרחיש הטראגי.",
-    "good_news_score": 0,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "אסון בפקיסטן: 14 תינוקות נספו בשריפה בבית חולים",
-        "published": "Wed, 26 Aug 2026 11:57:00 GMT",
-        "summary": "15 תינוקות היו במחלקה שבה פרצה השריפה, רק אחד מהם ניצל: \"רופא בית החולים חילץ אותו\". המשטרה עדכנה כי זיהוי הקורבנות יתאפשר רק באמצעות בדיקת DNA. ראש הממשלה הורה על הקמת ועדת חקירה שתגיש את ממצאה תוך 24 שעות",
-        "url": "https://news.walla.co.il/item/3863320",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092760-46.jpg"
-      }
-    ]
-  },
-  {
     "story_id": 190,
     "topic": "חתונה בטיסה",
     "category": "culture",
@@ -3256,64 +3434,6 @@
         "summary": "שרה ארויו מונטלבו ובן זוגה טסו ב-13 באוגוסט בטיסת סאות'ווסט איירליינס (Southwest Airlines) ללאס וגאס, שם תכננו להינשא בטקס פרטי. אלא שדיילי הטיסה שמעו על התוכנית והחליטו להפוך את הטיסה עצמה לחגיגה בלתי צפויה. מול 178 הנוסעים, קברניט המטוס, שהוא גם כומר מוסמך, ניהל את הטקס והשיא את בני הזוג במהלך הטיסה. כך הפכה הטיסה שהייתה אמורה להוביל אותם לחתונה בלאס וגאס לאירוע החתונה עצמו. צוות הדיילים התגייס למשימה והחל לאלתר אביזרי חתונה מחפצים שהיו זמינים במטוס. הדיילות הכינו לכלה הינומה ושמלת כלה מנייר טואלט, ואפילו את הזר יצרו ממקלות ערבוב לקפה. מונטלבו כתבה לאחר מכן כי בני הזוג מעולם לא טסו קודם לכן עם סאות'ווסט, והוסיפה: \"הגורל לא יכול היה להסתדר בצורה טובה יותר\". היא הודתה לצוות על שהפך את מה שהיה אמור להיות טקס פרטי לחגיגה בלתי צפויה. עוד בנושא: אסור לקיים חתונות באולם? הכירו את \"טיסת החתונה\" בני ערובה בטיסה: זוג התחתן באוויר וחסם את הגישה לשירותים",
         "url": "https://travel.walla.co.il/item/3863357",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092815-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 182,
-    "topic": "מחלוקת יהודית בבחירות מישיגן",
-    "category": "world",
-    "story_summary": "רב יהודי מ-מישיגן מדבר על הדילמה של תומכי ישראל בעת מירוץ סנאט תחרותי: הבחירה בין מועמד דמוקרטי שאינם בוטחים בו לבין מועמד רפובליקאי קרוב לטראמפ. הוא קורא לשמירה על אחדות קהילתית למרות המחלוקות הפוליטיות.",
-    "good_news_score": 3,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "I'm a Michigan rabbi. Our Senate race is putting Jewish solidarity to the test",
-        "published": "Tue, 25 Aug 2026 20:30:08 +0300",
-        "summary": "Pro-Israel Jews are torn between a Democrat they deeply distrust and a Republican aligned with Trump. Whatever we decide in November, we cannot let the choice turn us against one another",
-        "url": "https://www.haaretz.com/opinion/2026-08-25/ty-article-opinion/.premium/jewish-michiganders-face-a-very-tough-choice-heres-what-i-plan-to-do/000001a0-39ef-d936-a7ac-39ef81f40000",
-        "image": "https://img.haarets.co.il/bs/000001a0-39f3-d274-a7f4-bdf314fb0000/cf/39/c9c837e442c4a94ef4fb6adf8817/144214.jpg?width=108&height=81"
-      }
-    ]
-  },
-  {
-    "story_id": 176,
-    "topic": "מחלוקות בדמוקרטים על ישראל",
-    "category": "world",
-    "story_summary": "סטרימר שמאלוני קיצוני מעורר מחלוקות בתוך הדמוקרטים סביב עמדות כלפי ישראל. בראיון לתקשורת ישראלית טוען שאפילו ציוניים ליברליים חייבים להיות 'חשופים וקללים' וקובע שרוב האמריקנים כבר לא תומכים בישראל.",
-    "good_news_score": 1,
-    "sources": [
-      {
-        "source": "haaretz_en",
-        "title": "Joe Rogan of the left? Hasan Piker is much more of a Kardashian",
-        "published": "Wed, 26 Aug 2026 08:23:34 +0300",
-        "summary": "The far-left Twitch streamer is getting endless attention from politicians and the media, but does he really stand for anything, apart from hateful statements about Jews and Israel?",
-        "url": "https://www.haaretz.com/opinion/2026-08-26/ty-article-opinion/.premium/joe-rogan-of-the-left-hasan-piker-is-much-more-of-a-kardashian/000001a0-3c6a-d268-a1fe-3d7e7da70000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3c74-d274-a7f4-bcf504500000/ab/88/a42fa3f34131accc15b4feeed6a2/997099.jpg?width=108&height=81"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Despite Hasan Piker and Israel divide, Jewish Democrats say El-Sayed is making inroads with voters",
-        "published": "Wed, 26 Aug 2026 01:47:34 +0300",
-        "summary": "'Historically, Jews don't do well under authoritarian governments': Jewish Democrats say disagreements with El-Sayed over Israel pale beside their concerns about the GOP",
-        "url": "https://www.haaretz.com/us-news/2026-08-26/ty-article-magazine/.premium/jewish-democrats-say-el-sayed-is-making-inroads-securing-communitys-support/000001a0-3a69-d02f-a9ed-7e6b3fc00000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3a6c-db47-afe9-fbfc9dad0000/cd/3a/a71e3c104c1d82f1c6f341e99628/036733.jpg?width=108&height=81"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "Hasan Piker isn't trying to hide anything. That's what makes him dangerous",
-        "published": "Tue, 25 Aug 2026 21:19:57 +0300",
-        "summary": "The radical influencer doesn't try to conceal his extremist views, including in his recent interview with Haaretz. Young men attracted to his toxic brand must be offered something better to believe in",
-        "url": "https://www.haaretz.com/opinion/2026-08-25/ty-article-opinion/.premium/hasan-piker-isnt-trying-to-hide-anything-thats-what-makes-him-dangerous/000001a0-3a17-d02f-a9ed-7e7f5a1d0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-3a1e-db47-afe9-fb9eaf690000/af/75/e1f7aebf4aa58a865cf059bc3bdb/006648.jpg?width=108&height=81"
-      },
-      {
-        "source": "haaretz_en",
-        "title": "'Ready for the backlash?' Hasan Piker talks Hamas, anti-Zionism and why Americans are fed up with Israel",
-        "published": "Mon, 24 Aug 2026 19:22:35 +0300",
-        "summary": "In his first interview with Israeli media, left-wing streamer Hasan Piker tells Haaretz that October 7 must be seen in the context of the Israeli occupation, that even liberal Zionists should be 'named and shamed,' and explains why most Americans just don't like Israel anymore",
-        "url": "https://www.haaretz.com/us-news/2026-08-24/ty-article-magazine/.highlight/hasan-piker-talks-hamas-anti-zionism-and-why-americans-are-fed-up-with-israel/000001a0-29fd-d293-a1e7-39fdf95c0000",
-        "image": "https://img.haarets.co.il/bs/000001a0-33be-d36c-a3a8-33be00ee0000/f3/42/4589ff8d42b0a48aae6e91caaef1/tv10.jpg?width=108&height=81"
       }
     ]
   },
@@ -3398,125 +3518,6 @@
         "summary": "ירח דם צפוי להופיע מחר בלילה, בין חמישי לשישי, 27-28 באוגוסט, במסגרת ליקוי ירח חלקי עמוק במיוחד. בשיא האירוע יכסה הצל הכהה של כדור הארץ 96.2% משטח הירח, כך שרק חלק קטן ממנו יישאר מואר ישירות על ידי השמש. למרות שלא מדובר בליקוי מלא, רוב פני הירח צפויים לקבל גוון אדמדם-נחושתי מרשים. וכמו שקורה כמעט בכל פעם שהירח נצבע באדום, לצד חובבי האסטרונומיה כבר הופיעו ברשת גם מי שמחפשים בשמיים מסר קצת יותר דרמטי. גולשים חזרו לצטט פסוקים מהתנ\"ך שמתארים את הירח הופך לדם לפני \"יום ה'\", ויש מי שמעלים את האפשרות שהליקוי הוא אות המבשר על זעזועים עולמיים או אפילו על קץ הימים. אחד הגולשים כתב כי לנוכח \"ההתכנסות של אירועי העולם והשינויים הפלנטריים\", המראה מזכיר לו את נבואת יואל. אלא שמי שעקב אחרי ירחי הדם הקודמים עשוי לחוות תחושת דז'ה וו: אותן נבואות מופיעות כמעט בכל פעם שמתרחש ליקוי ירח אדמדם - תופעה אסטרונומית מוכרת שהמדענים יודעים לחשב שנים רבות מראש.",
         "url": "https://news.walla.co.il/item/3863098",
         "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092270-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 170,
-    "topic": "שגרת האיפור של טראמפ",
-    "category": "culture",
-    "story_summary": "דונלד טראמפ הופיע שוב בגוון כתום בולט בביקורו בבית הלבן, וכן סיפר אדם שכיהן כמנהל תקשורת לשעבר על שגרת הטיפוח היומית של הנשיא - כולל שימוש בברונזר כתום שהוא משרבב בעצמו כל בוקר. על פי הגיגיו, טראמפ מרוצה מאוד מהתוצאה המסויימת הזו.",
-    "good_news_score": 4,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "טראמפ שוב כתום במיוחד - והעוזר לשעבר חושף את שגרת האיפור שלו",
-        "published": "Wed, 26 Aug 2026 00:20:00 GMT",
-        "summary": "הגוון הכתום שמזוהה כבר שנים עם דונלד טראמפ קיבל השבוע שוב את אור הזרקורים. נשיא ארה\"ב הגיע ביום שני לאירוע בגן הוורדים בבית הלבן, ופניו נראו בגוון כתום בולט במיוחד. כמעט במקביל פורסם ראיון עם אדם שמכיר מקרוב את שגרת הטיפוח הנשיאותית - ויש לו הסבר די פשוט למה שאנחנו רואים. אנתוני סקרמוצ'י, שכיהן במשך 11 ימים בלבד כמנהל התקשורת של הבית הלבן ב-2017 והפך מאז למבקר חריף של טראמפ, סיפר כי ראה את הנשיא גם ללא איפור. לדבריו, טראמפ משתמש בברונזר כתום שאותו הוא מורח בעצמו בכל בוקר ולעיתים גם מחדש בערב. והוא לא חסך בתיאור של התוצאה בלי כל השכבות. \"בלי איפור הוא נראה כמו קופסת לוף פתוחה\", אמר סקרמוצ'י, בהתייחסו לבשר המשומר הוורדרד המפורסם. לדבריו, טראמפ דווקא מרוצה מאוד מהתוצאה הסופית: \"הוא חושב שזה נראה נהדר\".",
-        "url": "https://news.walla.co.il/item/3863136",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092367-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 169,
-    "topic": "הבלאי בציוד צה״ל והגבלות תקציביות",
-    "category": "security",
-    "story_summary": "ההאמרים החדשים בצה״ל מהווים כלי חשוב לתנועה מהירה בשטח הואויב, אך הצי של הרכבים הקיימים בן 30 שנה וקצב השחיקה גבוה. מחלקות הביטחון מזהירות כי בלי הקצאה תקציבית מוגבלת, לא ניתן יהיה להחליף את הסדנים ולחזק את כוחות היבשה הדרושים.",
-    "good_news_score": 3,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "ההאמרים נשחקים, התקציב תקוע: הפער שמדאיג את צה\"ל",
-        "published": "Wed, 26 Aug 2026 06:00:00 GMT",
-        "summary": "בצה\"ל מגדירים את ההאמרים החדשים כ\"מכפילי כוח\" שמאפשרים תנועה מהירה לעומק שטח האויב, אך חלק ממשק הג'יפים כבר חצה 30 שנות שירות וקצב השחיקה גבוה. במערכת הביטחון מזהירים, ללא פתיחת התקציב לא ניתן לחדש את הסד\"כ: \"כוחות היבשה צריכים כמה שיותר, וכמה שיותר מהר\"",
-        "url": "https://news.walla.co.il/item/3863243",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/0/8/4008117-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 168,
-    "topic": "קצין צבאי אמריקני נעצר על ביקורת פוליטית",
-    "category": "world",
-    "story_summary": "מייג'ור בחיל האוויר האמריקני נעצר לאחר שהפגין במדים מחוץ לקפיטול וביקר בחריפות את מדיניות הנשיא טראמפ, בעיקר לגבי המלחמה באיראן. הוא הואשם בביזוי הנשיא, אי-ציות לפקודות והתנהגות שאינה הולמת קצין, במקרה שמתוארים כנדיר בתולדות הצבא האמריקני.",
-    "good_news_score": 3,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "קצין בחיל האוויר האמריקני נעצר לאחר שקרא להדיח את טראמפ",
-        "published": "Wed, 26 Aug 2026 06:30:00 GMT",
-        "summary": "מייג'ור ג'ייסון ווטסון, שהפגין במדים מחוץ לקפיטול ומתח ביקורת חריפה על המלחמה באיראן, הואשם בביזוי הנשיא, אי-ציות לפקודות ובהתנהגות שאינה הולמת קצין. פרקליטיו: מקרה נדיר בתולדות הצבא האמריקני, \"טראמפ הוא לא רק כישלון כנשיא, הוא מפר באופן בוטה את החוקה\"",
-        "url": "https://news.walla.co.il/item/3863247",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092367-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 166,
-    "topic": "ניצחון בפריימריז רפובליקני",
-    "category": "world",
-    "story_summary": "דרלין גרהאם נורדון, שמונתה למלא את מקומו של אחיה בסנאט, ניצחה בפריימריז הרפובליקני בהצבעה קרובה של 52%-48% בתמיכת הנשיא טראמפ. היא תתמודד על כהונה מלאה בנובמבר.",
-    "good_news_score": 5,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "ניצחון לטראמפ: דרלין גרהאם נורדון סיימה ראשונה בפריימריז הרפובליקניים",
-        "published": "Wed, 26 Aug 2026 07:37:00 GMT",
-        "summary": "הסנאטורית שמונתה למלא את מקומו של אחיה המנוח, ניצחה 52%-48% בסיבוב המכריע בפריימריז, הנשיא טראמפ דחף למינויה, קרא לה להתמודד והעניק לה את תמיכתו המלאה. בנובמבר היא תתמודד על כהונה מלאה: \"נילחם למען הערכים שלנו ונשמור על אמריקה חזקה\"",
-        "url": "https://news.walla.co.il/item/3863258",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079278-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 163,
-    "topic": "אסון במרוץ שוורים במקסיקו",
-    "category": "world",
-    "story_summary": "פסטיבל מרוץ שוורים (Huamantlada) בעיר הואמנטלה במקסיקו הפך לזירת אסון כאשר 21 שוורים שוחררו לרחובות וגרמו להתקפות אלימות שבהן נהרגו שני אנשים ו-11 נוספים נפצעו קשה. הטרגדיה, המתועדת בסרטונים של התקפות אלימות, הייתה המקרה הראשון בשמונה שנים שבו נרשמו הרוגים בפסטיבל זה.",
-    "good_news_score": 0,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "תיעוד קשה לצפייה: מרוץ השוורים הפך למרחץ דמים - שני הרוגים ו-11 פצועים",
-        "published": "Wed, 26 Aug 2026 08:38:00 GMT",
-        "summary": "מה שהיה אמור להיות אחד מאירועי השיא של פסטיבל עממי הפך בתוך דקות לזירת אסון. שני בני אדם נהרגו ולפחות 11 נוספים נפצעו לאחר ש-21 שוורים שוחררו לרחובות העיר הואמנטלה שבמדינת טלאקסקלה במקסיקו, במסגרת ה-Huamantlada - הגרסה המקומית והמסוכנת במיוחד למרוץ השוורים המפורסם של פמפלונה. סרטונים מהאירוע, שנערך בשבת, 22 באוגוסט, מתעדים כמה מהרגעים הקשים. באחד מהם נראית אישה מוטחת באוויר בידי שור, נפגעת בפניו וממשיכה להיות מותקפת בזמן שאנשים מסביבה מנסים להסיח את דעתו של בעל החיים. כשהיא מצליחה לבסוף להתרחק מהמקום, היא נראית רצה לעבר אזור מוגן כשדם זורם מפניה. וזה קרה כמעט מהרגע הראשון. לפי שר הבריאות המקומי, הפצוע הראשון נזקק לטיפול דקה וחצי בלבד לאחר שחרור השוורים. בסיום האירוע כבר פונו נפגעים רבים לקבלת טיפול רפואי, ושני גברים שנפצעו באורח קשה מתו מפצעיהם. זו הייתה הפעם הראשונה זה שמונה שנים שבה נרשמו הרוגים בפסטיבל.",
-        "url": "https://news.walla.co.il/item/3863274",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092705-46.jpeg"
-      }
-    ]
-  },
-  {
-    "story_id": 162,
-    "topic": "הכנות צה״ל להסלמה ביהודה ושומרון",
-    "category": "security",
-    "story_summary": "צה״ל מתכונן להסלמה אפשרית ביהודה ושומרון סביב תקופת החגים והבחירות, תוך התמודדות עם לחצים צבאיים בעזה, לבנון וסוריה. מטה הביטחון בוחן הקצאת משאבים בין הגזרות והגבלת פעילויות מבצעיות של לוחמים.",
-    "good_news_score": 2,
-    "sources": [
-      {
-        "source": "walla",
-        "title": "עוצר יציאות ללוחמים והסטת כוחות: צה\"ל נערך להסלמה",
-        "published": "Wed, 26 Aug 2026 08:43:00 GMT",
-        "summary": "בצה\"ל נערכים להסלמה אפשרית ביהודה ושומרון סביב החגים והבחירות, לצד עומס במספר זירות מבעבעות במקביל - עזה, לבנון וסוריה. ראש אמ\"ץ, האלוף איציק כהן, יידרש להכריע בימים הקרובים על חלוקת הסד\"כ בין הגזרות, כשבמערכת הביטחון בוחנים גם הגבלת יציאות ללוחמים",
-        "url": "https://news.walla.co.il/item/3863272",
-        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/0/2/4002879-46.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 154,
-    "topic": "סיום אוטונומיה כורדית בסוריה",
-    "category": "world",
-    "story_summary": "הכוחות הכורדים בסוריה, שבסיסו בצפון-מזרח הארץ וגדלו לאור מלחמת האזרחים, הודיעו על פירוקם והתמזגותם בצבא סוריה לאחר 15 שנים של שליטה עצמאית. ההתמזגות מסמלת שלב חדש לפי ההנהגה הכורדית - מעבר לשלום וביסוס של סוריה מאוחדת.",
-    "good_news_score": 6,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "אחרי שנים של אוטונומיה וקרבות: הכוח הכורדי בסוריה מתפרק ומתמזג בצבא",
-        "published": "Tue, 25 Aug 2026 22:13:05 +0300",
-        "summary": "כ-15 שנה אחרי שהכורדים ניצלו את מלחמת האזרחים כדי לבסס שליטה בצפון-מזרח סוריה, הכוח הצבאי שהפך לבן בריתה המרכזי של ארה\"ב במאבק בדאעש הודיע על פירוקו. הכוחות יתמזגו בצבא שנגדו נלחמו רק לפני כמה חודשים, המפקד מזלום עבדי: \"המדינה נכנסה לשלב חדש של שלום ובניית סוריה חדשה\"",
-        "url": "https://www.ynet.co.il/news/article/hktb4dovzx",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H1XMfCwivzx/H1XMfCwivzx_79_113_921_518_0_medium.jpg"
       }
     ]
   }
