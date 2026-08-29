@@ -1,5 +1,54 @@
 [
   {
+    "story_id": 444,
+    "topic": "סערת רוח בסוף אוגוסט",
+    "category": "weather",
+    "story_summary": "מערכת הגשם הצפויה התבררה כחלשה מהצפי וגשום תגיע בעיקר לצפון, בעוד הרוחות העזות (משבים של 70 קמ\"ש) הפכו להשפעה העיקרית בישראל וגרמו לביטול אירועים בדרישות בטיחות. נרשמו נזקים בקפריסין וממנה, בעוד מנהל השירות המטאורולוגי הרגיע שגשמים בהיקף ארצי רחב לא יגיעו לישראל, אך ישנו חשש מהצפות בצפון.",
+    "good_news_score": 2,
+    "sources": [
+      {
+        "source": "ynet",
+        "title": "גשם נדיר באוגוסט: מהצהריים בצפון, בלילה במרכז - וחשש להצפות | התחזית המלאה",
+        "published": "Sat, 29 Aug 2026 05:46:43 +0300",
+        "summary": "גשם מקומי צפוי משעות הצהריים בצפון, ובלילה יתפשט גם למרכז. ייתכנו סופות רעמים וקיים חשש קל להצפות לאורך מישור החוף. מחר בבוקר הגשם יימשך עד צפון הנגב, ובהמשך ייפסק",
+        "url": "https://www.ynet.co.il/news/article/uxctpc89h",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/B1r5fm1vMx/B1r5fm1vMx_1057_595_1944_1094_0_medium.jpg"
+      },
+      {
+        "source": "ynet",
+        "title": "הגשם מתקרב, רוח עזה כבר כאן. ישראלים בקפריסין קיבלו התרעות: \"פחד אימים\"",
+        "published": "Sat, 29 Aug 2026 16:05:46 +0300",
+        "summary": "מערכת הגשם הנדירה צפויה להיות חלשה מהצפי הראשוני ולהגיע בעיקר לצפון, אבל מנשבות רוחות עם משבים של 70 קמ\"ש, יש הגבלות ראות - והופעה בפארק אריאל שרון בוטלה. נזקים בלבנון וקפריסין, שם ישראלים קיבלו התרעות שהזכירו את אלו מהמלחמה באיראן. \"המטוס רעד מהרוחות, אנשים היו לבנים מהפחד\"",
+        "url": "https://www.ynet.co.il/news/article/b1raineome",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/Skglqn8xOGe/Skglqn8xOGe_0_199_3000_1689_0_medium.jpg"
+      },
+      {
+        "source": "walla",
+        "title": "מזג האוויר הכריע: בוטלו הופעות של מרינה מקסימיליאן, אלון אולארצ'יק ואחרים",
+        "published": "Sat, 29 Aug 2026 18:02:00 GMT",
+        "summary": "בעקבות התחזיות, הכוללות רוחות חזקות, בוטלה הופעה ברמת השרון עם אולארצ'יק, יזהר כהן, אילנה אביטל, שימי תבורי ולאה שבת וכן נדחתה הופעה בקו רקיע של מקסימיליאן, שכתבה: \"אין לנו אישור מהנדס בטיחות לקיים את ההופעה. שמרו על עצמכם\"",
+        "url": "https://e.walla.co.il/item/3864038",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093794-46.png"
+      },
+      {
+        "source": "walla",
+        "title": "רוחות עזות בישראל, \"טורנדו\" בקפריסין - וגשם שמתקרב אלינו | התחזית",
+        "published": "Sat, 29 Aug 2026 18:00:00 GMT",
+        "summary": "מזג אוויר חריג לסוף אוגוסט: בזמן שבקפריסין תועד נד מים מעל הים ופורסמה התרעה כתומה, בישראל נמדדו משבי רוח של 70 קמ\"ש. מנהל השירות המטאורולוגי הרגיע ואמר כי \"גשמים בפריסה ארצית רחבה לא יגיעו לישראל\", אך קיים חשש מהצפות בצפון",
+        "url": "https://news.walla.co.il/item/3864026",
+        "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093798-46.png"
+      },
+      {
+        "source": "haaretz_en",
+        "title": "Israel weather service downgrades rare heavy summer rain forecast",
+        "published": "Sat, 29 Aug 2026 10:51:15 +0300",
+        "summary": "The rain is still expected to hit central Israel and the coastal plain from Saturday night, but in smaller amounts than initially forecast, after earlier warnings of unusually heavy summer rainfall, thunderstorms, lightning and hail",
+        "url": "https://www.haaretz.com/israel-news/2026-08-29/ty-article/.premium/israel-weather-service-scales-back-rare-heavy-summer-rain-forecast/000001a0-4c6c-db96-a7fb-fcfc836d0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-4c7a-d5a0-a1f7-fe7e72d70000/e9/9a/69ee6d524835b1e3c00bde5d0e68/107922-2.jpg?width=1200"
+      }
+    ]
+  },
+  {
     "story_id": 443,
     "topic": "חלאילי מזהיר בניצחון פאלאס",
     "category": "sports",
@@ -351,23 +400,6 @@
         "summary": "לפי רשת NBC, שר ההגנה של טראמפ כבר משוחח עם מקורבים על האפשרות שינסה להגיע לבית הלבן. הספקולציות סביבו גברו אחרי שהגיע החודש לאיווה, תחנה מסורתית עבור פוליטיקאים שבוחנים ריצה לנשיאות, ונכנס עמוק יותר לקמפיינים של מועמדים רפובליקנים. הגסת' מכחיש: \"שקר ב-100%\"",
         "url": "https://www.ynet.co.il/news/article/hy5eg5jogl",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/07/SJdReiM11fl/SJdReiM11fl_0_148_3000_1689_0_medium.jpg"
-      }
-    ]
-  },
-  {
-    "story_id": 444,
-    "topic": "גשם נדיר באוגוסט",
-    "category": "weather",
-    "story_summary": "צפוי גשם נדיר באוגוסט בישראל, החל בצהריים בצפון ויתפשט למרכז בלילה, עם סופות רעמים אפשריות וחשש קל להצפות לאורך מישור החוף.",
-    "good_news_score": 6,
-    "sources": [
-      {
-        "source": "ynet",
-        "title": "גשם נדיר באוגוסט: מהצהריים בצפון, בלילה במרכז - וחשש להצפות | התחזית המלאה",
-        "published": "Sat, 29 Aug 2026 05:46:43 +0300",
-        "summary": "גשם מקומי צפוי משעות הצהריים בצפון, ובלילה יתפשט גם למרכז. ייתכנו סופות רעמים וקיים חשש קל להצפות לאורך מישור החוף. מחר בבוקר הגשם יימשך עד צפון הנגב, ובהמשך ייפסק",
-        "url": "https://www.ynet.co.il/news/article/uxctpc89h",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/B1r5fm1vMx/B1r5fm1vMx_1057_595_1944_1094_0_medium.jpg"
       }
     ]
   },
